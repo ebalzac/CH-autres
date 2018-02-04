@@ -77,16 +77,25 @@
       </titlePage>
       <div type="preface">
         <head>Prospectus</head>
-        <p rend="noindent"><pb n="i"/> Voilà un livre qui était en quelque sorte prédit par un autre livre ; après l’histoire du supplice, il fallait l’histoire du martyre ; M. de Balzac avait écrit la <hi rend="i">Physiologie du Mariage</hi>, il vient d’écrire les <hi rend="i">Petites Misères de la Vie conjugale</hi>. Le cercle infernal est maintenant complet ; c’est l’alpha et l’oméga de l’hymen.</p>
+        <pb n="i" xml:id="pi" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/pref1.jpg"/>
+        <p rend="noindent"><figure rendition="lettrine" xml:id="illpref01">
+            <graphic url="85/balzac_85FC_illpref01.jpg"/>
+          </figure><c rend="drop-cap">V</c>oilà un livre qui était en quelque sorte prédit par un autre livre ; après l’histoire du supplice, il fallait l’histoire du martyre ; M. de Balzac avait écrit la <hi rend="i">Physiologie du Mariage</hi>, il vient d’écrire les <hi rend="i">Petites Misères de la Vie conjugale</hi>. Le cercle infernal est maintenant complet ; c’est l’alpha et l’oméga de l’hymen.</p>
         <p>C’est là un livre essentiellement européen, on en conviendra, mais aussi essentiellement français. Il y a des pays, pays naïfs comme un chalet et jeunes comme le matin, où le mariage est encore une association ; en France, c’est une lutte. La France, organisée pour la guerre, a fait d’un mariage un combat. C’est l’histoire de cette bataille quotidienne, qui compte tant de revers, que M. de Balzac a eu l’heureuse fantaisie de raconter. Ailleurs on trouvera le récit de la déroute et du repos superbe qui la suite quelquefois ; ici, c’est la narration drolatique des escarmouches de chaque jour, des protocoles de chaque nuit, et de toute cette stratégie conjugale qui transforme chaque femme, pour si candide qu’elle soit, en un Machiavel embéguiné.</p>
         <p>Le mariage a été, est, et sera toujours la plus bouffonne des choses graves, ou la plus sérieuse des choses comiques, comme on voudra ; les <hi rend="i">Petites Misères de la Vie conjugale</hi> sont donc ce qu’elles devaient être : un livre tout plein d’une extravagante sagesse, où tout le monde trouvera matière à rire aux éclats en voyant la vérité face à face.</p>
-        <p>Car, chose miraculeuse, M. de Balzac a rendu joyeuse la terrible vérité elle-même. C’est un prodige ! Les femmes seules pouvaient l’inspirer. Toutes ces chères petites misères qui courent d’un air si délibéré vers le même but, comme des chats en quête de souris, ont des allures si plaisantes qu’on ne peut s’empêcher de sourire en les comptant ; elles sont <pb n="ii"/> gracieuses et souples comme tout ce qui est féminin. On les voit, on les comprend, on les subit, et, chose plus étrange encore, on les adore quelquefois !</p>
+        <p>Car, chose miraculeuse, M. de Balzac a rendu joyeuse la terrible vérité elle-même. C’est un prodige ! Les femmes seules pouvaient l’inspirer. Toutes ces chères petites misères qui courent d’un air si délibéré vers le même but, comme des chats en quête de souris, ont des allures si plaisantes qu’on ne peut s’empêcher de sourire en les comptant ; elles sont <pb n="ii" xml:id="pii" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/pref2.jpg"/> gracieuses et souples comme tout ce qui est féminin. On les voit, on les comprend, on les subit, et, chose plus étrange encore, on les adore quelquefois !</p>
         <p>On connaît le mot de cette femme, l’une des plus spirituelles Parisiennes de notre temps, qui disait en parlant de son mari : « Si je ne le tourmentais pas tant, il serait bien moins heureux ! »</p>
+        <figure rendition="float-right" xml:id="illpref02">
+          <graphic url="85/balzac_85FC_illpref02.jpg"/>
+        </figure>
         <p>M. de Balzac a mis toutes les petites misères dans son livre, et cependant elles sont plus nombreuses que les hirondelles au printemps. La petite misère prend toutes les formes, parle toutes les langues, paraît à tous les instants ; c’est tout et ce n’est rien ! C’est votre femme tout entière qui vous bat avec sa santé et sa maladie, sa mère et son père, sa gaîté et sa tristesse, sa tendresse et son dédain, ses regrets et ses espérances, ses amies et vos amis. Vos amis ! Nous avons écrit ce mot au pluriel ; s’il était au singulier, il rentrerait dans la catégorie des grandes misères.</p>
         <p>Les petites misères de la vie conjugale sont comme les gouttes d’eau qui usent le granit ; ce sont mille et mille coups d’épingle qui transpercent l’airain. Livrez un homme fort à une femme faible, et vous verrez ce qu’elle en fera. Tous les Berzélius de la terre perdraient leur chimie jusqu’à la dernière cornue avant de trouver un dissolvant plus actif que le sourire et les larmes d’une femme. C’est l’histoire de cette chimie occulte que M. de Balzac a écrite après en avoir surpris les secrets ; un autre en aurait fait l’analyse : il a mieux aimé en faire un chapitre de la vie humaine.</p>
         <p>Toutes les femmes y sont résumées en une seule femme. Cette femme, c’est Caroline, le type, le symbole, le phénix éternellement jeune et beau. Près d’elle, c’est Adolphe, Adolphe le mari, l’époux, le père, le martyr !</p>
         <p>Toutes les femmes souriront en se reconnaissant dans Caroline ; mais, chose non moins charmante, tous les maris souriront plus fort en reconnaissant leur voisin dans Adolphe.</p>
-        <p>À ces vaudevilles sans nombre et sans fin qui recommencent à tout propos, à ces mille saynètes que la plume étincelante et philosophique de M. de Balzac a esquissées si finement, il fallait le concours de l’illustration. Pour compléter cette œuvre, nous nous sommes adressé à un <pb n="iii"/> talent qui, loin d’être fatigué, loin de reproduire les mêmes physionomies, est toujours varié, toujours vrai, gai, de bon goût, toujours éminemment français : M. Bertall s’est chargé de dessiner les physionomies et les croquis de ce drame, afin que l’œuvre fût faite à souhait pour le plaisir des yeux et de l’esprit. Dans cette lutte, le crayon vaut la plume. M. Bertall, qui avait une réputation déjà toute faite, a cependant dessiné comme s’il voulait en conquérir une plus brillante encore.</p>
+        <p>À ces vaudevilles sans nombre et sans fin qui recommencent à tout propos, à ces mille saynètes que la plume étincelante et philosophique de M. de Balzac a esquissées si finement, il fallait le concours de l’illustration. Pour compléter cette œuvre, nous nous sommes adressé à un <pb n="iii" xml:id="piii" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/pref3.jpg"/> talent qui, loin d’être fatigué, loin de reproduire les mêmes physionomies, est toujours varié, toujours vrai, gai, de bon goût, toujours éminemment français : M. Bertall s’est chargé de dessiner les physionomies et les croquis de ce drame, afin que l’œuvre fût faite à souhait pour le plaisir des yeux et de l’esprit. Dans cette lutte, le crayon vaut la plume. M. Bertall, qui avait une réputation déjà toute faite, a cependant dessiné comme s’il voulait en conquérir une plus brillante encore.</p>
+        <figure rendition="colophon" xml:id="illpref03">
+          <graphic url="85/balzac_85FC_illpref03.jpg"/>
+        </figure>
         <label>Conditions de souscription</label>
         <p>Les <hi rend="sc">Petites Misères de la Vie conjugale</hi> seront publiées en 50 livraisons, et formeront un volume grand in-8, orné de 300 <hi rend="sc">dessins</hi> dont 50 tirés à part.</p>
         <p>Chaque livraison se composera d’une forme de texte et d’une planche.</p>
@@ -97,7 +106,6 @@
         <p>Pour Paris, en payant 20 livraisons, on les recevra <hi rend="i">franco</hi> à domicile. Il paraîtra régulièrement une ou deux livraisons par semaine.</p>
         <p rend="noindent center">On souscrit <lb/>pour toute la France et l’étranger : <lb/>chez Chlendowski, à Paris, 8, rue du Jardinet.<pb n="ill." xml:id="fullill01" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/fullill01.jpg"/></p>
       </div>
-      
     </front>
     <body>
       <div>
@@ -105,19 +113,19 @@
         <div>
           <pb n="1" xml:id="p1"/>
           <head>Préface <lb/>où chacun retrouvera ses impressions sur le mariage</head>
-          <pb n="2" xml:id="p2"/>
           <figure rendition="center" xml:id="ill001">
             <graphic url="85/balzac_85FC_001.jpg"/>
           </figure>
           <p>Un ami vous parle d’une jeune personne : </p>
+          <pb n="2" xml:id="p2"/>
           <table>
             <row>
               <cell><figure rendition="center" xml:id="ill002">
-                <graphic url="85/balzac_85FC_002.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_002.jpg"/>
+                </figure></cell>
               <cell><figure rendition="center" xml:id="ill003">
-                <graphic url="85/balzac_85FC_003.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_003.jpg"/>
+                </figure></cell>
             </row>
             <row>
               <cell rend="center">– Bonne famille, <lb/>bien élevée, <lb/>jolie,</cell>
@@ -126,8 +134,8 @@
           </table>
           <p>Vous avez désiré rencontrer cet objet charmant.</p>
           <p><figure rendition="center" xml:id="ill004">
-            <graphic url="85/balzac_85FC_004.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_004.jpg"/>
+            </figure></p>
           <p>Généralement, toutes les entrevues fortuites sont préméditées.</p>
           <p><pb n="3" xml:id="p3"/> Et vous parlez à cet objet devenu très-timide.</p>
           <figure rendition="center" xml:id="ill005">
@@ -156,11 +164,11 @@
           <table>
             <row>
               <cell><figure rendition="center" xml:id="ill008">
-                <graphic url="85/balzac_85FC_008.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_008.jpg"/>
+                </figure></cell>
               <cell><figure rendition="center" xml:id="ill009">
-                <graphic url="85/balzac_85FC_009.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_009.jpg"/>
+                </figure></cell>
             </row>
             <row>
               <cell rend="center">un petit,</cell>
@@ -175,21 +183,21 @@
             </row>
             <row>
               <cell><figure rendition="center" xml:id="ill010">
-                <graphic url="85/balzac_85FC_010.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_010.jpg"/>
+                </figure></cell>
               <cell><figure rendition="center" xml:id="ill011">
-                <graphic url="85/balzac_85FC_011.jpg"/>
-              </figure></cell>
+                  <graphic url="85/balzac_85FC_011.jpg"/>
+                </figure></cell>
             </row>
           </table>
           <p>Avant de procéder au coucher de la mariée, qui fait des façons.</p>
           <p><figure rendition="center" xml:id="ill012">
-            <graphic url="85/balzac_85FC_012.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_012.jpg"/>
+            </figure></p>
           <p><pb n="6" xml:id="p6"/> Et après !… il vous arrive une foule de petites misères imprévues, comme ceci :</p>
           <p><figure rendition="center" xml:id="ill013">
-            <graphic url="85/balzac_85FC_013.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_013.jpg"/>
+            </figure></p>
         </div>
         <div>
           <head>Le coup de Jarnac</head>
@@ -219,7 +227,7 @@
             <row>
               <cell><figure rendition="center" xml:id="ill017">
                   <graphic url="85/balzac_85FC_017.jpg"/>
-                <p rend="noindent">un ingénieur de troisième classe ;</p>
+                  <p rend="noindent">un ingénieur de troisième classe ;</p>
                 </figure></cell>
               <cell/>
             </row>
@@ -233,7 +241,7 @@
             <row>
               <cell><figure rendition="center" xml:id="ill019">
                   <graphic url="85/balzac_85FC_019.jpg"/>
-                <p rend="noindent">ou encore un jeune vicomte ;</p>
+                  <p rend="noindent">ou encore un jeune vicomte ;</p>
                 </figure></cell>
               <cell/>
             </row>
@@ -1960,8 +1968,8 @@
           </figure>
           <p>– Oh ! dit l’interlocutrice en s’interrompant et me regardant, vous nous apprenez à être comme des araignées au centre de leur toile, à tout voir sans avoir l’air d’avoir vu, à chercher l’esprit de toute chose, à étudier les mots, les gestes, les regards ! Vous dites : Les femmes sont bien fines ! Dites donc : Les hommes sont bien faux !</p>
           <p><pb n="239" xml:id="p239"/> – Ce qu’il m’a fallu de soins, de pas et de démarches pour arriver à être le sosie de madame de Fischtaminel !… – Enfin, c’est nos batailles à nous, ma petite, dit-elle en continuant et revenant à mademoiselle Joséphine. Je ne trouvais pas un certain petit châle de cou, brodé : une merveille ! enfin, je finis par découvrir qu’il a été fait exprès. Je déniche l’ouvrière, je lui demande un châle pareil à celui de madame de Fischtaminel. Une bagatelle ! cent cinquante francs. Il avait été commandé par un monsieur qui l’avait offert à madame de Fischtaminel. Mes économies y passent. Nous sommes toutes, nous autres Parisiennes, extrêmement tenues en bride à l’article toilette. Il n’est pas un homme de cent mille livres de rente à qui le whist ne coûte dix mille francs par hiver, qui ne trouve sa femme dépensière et ne redoute ses chiffons ! Mes économies, soit ! me disais-je. J’avais une petite fierté de femme qui aime : je ne voulais pas lui parler de cette toilette, je voulais lui en faire une surprise, bécasse que <pb n="240" xml:id="p240"/> j’étais ! Oh ! comme vous nous enlevez notre sainte niaiserie !… <figure rendition="float-right" xml:id="ill145">
-            <graphic url="85/balzac_85FC_145.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_145.jpg"/>
+            </figure></p>
           <p>Ceci fut encore dit pour moi qui n’avais rien enlevé à cette dame, ni dent, ni quoi que ce soit des choses nommées et innommées qu’on peut enlever à une femme.</p>
           <p>– Ah ! il faut te dire, ma chère, qu’il me menait chez madame de Fischtaminel, où je dînais même assez souvent. J’entendais cette femme disant : – Mais elle est bien, votre femme ! Elle avait avec moi un petit ton de protection que je souffrais ; mon mari me souhaitait d’avoir l’esprit de cette femme et sa prépondérance dans le monde. Enfin ce phénix des femmes était mon modèle, je l’étudiais, je me donnais un mal horrible à n’être pas moi-même… Oh ! mais c’est un poëme qui ne peut être compris que par nous autres femmes ! Enfin, le jour de mon triomphe arrive. Vraiment le cœur me battait de joie, j’étais comme un enfant ! tout ce qu’on est à vingt-deux ans. Mon mari m’allait venir prendre pour une promenade aux Tuileries ; il entre, je le regarde toute joyeuse, il ne remarque rien… Eh bien ! je puis l’avouer aujourd’hui, ce fut un de ses affreux désastres… Non, je n’en dirai rien, monsieur que voici se moquerait.</p>
           <p>Je protestai par un autre geste.</p>
@@ -1969,9 +1977,10 @@
           <figure rendition="center" xml:id="ill146">
             <graphic url="85/balzac_85FC_146.jpg"/>
           </figure>
-          <p><pb n="242" xml:id="p242"/> <figure rendition="float-right" xml:id="ill147">
-            <graphic url="85/balzac_85FC_147.jpg"/>
-          </figure> Elle s’arrêta, reprit : – Comme un meunier qu’on vient de faire évêque. – Je comprends, mon ami, que je ne serai jamais qu’à peu près pareille à madame de Fischtaminel. – Je vois ce que tu veux me dire à propos de ce châle ! Eh bien, oui, je le lui ai offert pour le jour de sa fête. Que veux-tu ? nous avons été très-amis autrefois… – Ah ! vous avez été jadis encore plus liés qu’aujourd’hui ? Sans répondre à cela, il me dit : – <hi rend="i">Mais c’est purement moral</hi>. Il prit son chapeau, s’en alla, et me laissa seule sur cette belle déclaration des droits de l’homme. Il ne revint pas pour dîner, et rentra fort tard. Je vous le jure, je restai dans ma chambre à pleurer comme une Madeleine, au coin de mon feu. Je vous permets de vous moquer de moi, dit-elle en me regardant, mais je pleurai sur mes illusions de jeune mariée, je pleurai de dépit d’avoir été prise pour une dupe. Je me rappelai le sourire de la couturière ! Ah ! ce sourire me remit en mémoire les sourires de bien des femmes qui riaient de me voir petite fille chez madame de Fischtaminel ; je pleurai sincèrement. Jusque-là je pouvais croire à bien des choses qui n’existaient plus chez mon mari, mais que <pb n="243" xml:id="p243"/> les jeunes femmes s’obstinent à supposer. Combien de grandes misères dans cette petite misère ! Vous êtes de grossiers personnages ! Il n’y a pas une femme qui ne pousse la délicatesse jusqu’à broder des plus jolis mensonges le voile avec lequel elle vous couvre son passé, tandis que vous autres… Mais je me suis vengée.</p>
+          <p><pb n="242" xml:id="p242"/>
+            <figure rendition="float-right" xml:id="ill147">
+              <graphic url="85/balzac_85FC_147.jpg"/>
+            </figure> Elle s’arrêta, reprit : – Comme un meunier qu’on vient de faire évêque. – Je comprends, mon ami, que je ne serai jamais qu’à peu près pareille à madame de Fischtaminel. – Je vois ce que tu veux me dire à propos de ce châle ! Eh bien, oui, je le lui ai offert pour le jour de sa fête. Que veux-tu ? nous avons été très-amis autrefois… – Ah ! vous avez été jadis encore plus liés qu’aujourd’hui ? Sans répondre à cela, il me dit : – <hi rend="i">Mais c’est purement moral</hi>. Il prit son chapeau, s’en alla, et me laissa seule sur cette belle déclaration des droits de l’homme. Il ne revint pas pour dîner, et rentra fort tard. Je vous le jure, je restai dans ma chambre à pleurer comme une Madeleine, au coin de mon feu. Je vous permets de vous moquer de moi, dit-elle en me regardant, mais je pleurai sur mes illusions de jeune mariée, je pleurai de dépit d’avoir été prise pour une dupe. Je me rappelai le sourire de la couturière ! Ah ! ce sourire me remit en mémoire les sourires de bien des femmes qui riaient de me voir petite fille chez madame de Fischtaminel ; je pleurai sincèrement. Jusque-là je pouvais croire à bien des choses qui n’existaient plus chez mon mari, mais que <pb n="243" xml:id="p243"/> les jeunes femmes s’obstinent à supposer. Combien de grandes misères dans cette petite misère ! Vous êtes de grossiers personnages ! Il n’y a pas une femme qui ne pousse la délicatesse jusqu’à broder des plus jolis mensonges le voile avec lequel elle vous couvre son passé, tandis que vous autres… Mais je me suis vengée.</p>
           <p>– Madame, lui dis-je, vous allez trop instruire mademoiselle.</p>
           <p>– C’est vrai, dit-elle, je vous dirai la fin dans un autre moment.</p>
           <p>– Ainsi, mademoiselle, vous le voyez, dis-je, vous croyez acheter un châle, et vous vous trouvez une petite misère sur le cou ; si vous vous le faites donner…</p>
@@ -1993,13 +2002,13 @@
           <p>– Je dirai tout ce que vous voudrez, car j’étais furieuse, et je ne sais plus tout ce que j’ai crié dans le désert de ma chambre à coucher. Croyez-vous que cette opinion que les maris ont de leur femme, que le rôle qu’ils nous donnent, ne soient pas pour nous une étrange misère ? Nos petites misères, à nous, sont toujours grosses d’une grande misère. Enfin il fallait une leçon à mon Adolphe. Vous connaissez le vicomte de Lustrac, un amateur effréné de femmes, de musique, un gourmet, un de ces ex-beaux <pb n="247" xml:id="p247"/> de l’empire qui vivent sur leurs succès printaniers, et qui se cultivent eux-mêmes avec des soins excessifs, pour obtenir des regains.<pb n="ill." xml:id="fullill29" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/fullill29.jpg"/>
           </p>
           <p><figure rendition="float-right" xml:id="ill150">
-            <graphic url="85/balzac_85FC_150.jpg"/>
-          </figure>– Oui, lui dis-je, un de ces gens pincés, corsés, busqués à soixante ans, qui abusent de la finesse de leur taille, et sont capables d’en remontrer aux jeunes dandies.</p>
-          
+              <graphic url="85/balzac_85FC_150.jpg"/>
+            </figure>– Oui, lui dis-je, un de ces gens pincés, corsés, busqués à soixante ans, qui abusent de la finesse de leur taille, et sont capables d’en remontrer aux jeunes dandies.</p>
+
           <p>– Monsieur de Lustrac, reprit-elle, est égoïste comme un roi ; mais galant, prétentieux, malgré sa perruque noire comme du jais.</p>
           <p>– Il se teint aussi les favoris.<figure rendition="float-right" xml:id="ill151">
-            <graphic url="85/balzac_85FC_151.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_151.jpg"/>
+            </figure></p>
           <p>– Il va le soir dans dix salons ; il papillonne.</p>
           <p>– Il donne d’excellents dîners, des concerts, et protége des cantatrices encore neuves…</p>
           <p>– Il prend le mouvement pour la joie.</p>
@@ -2013,8 +2022,8 @@
             <graphic url="85/balzac_85FC_152.jpg"/>
           </figure>
           <p>– Oui, <hi rend="i">Petit-Bon-Homme-vit-encore</hi> avait abandonné le classique de sa jeunesse pour le romantisme à la mode ; il parlait d’âme, d’ange, d’adoration, de soumission, il devenait d’un éthéré bleu-foncé. Il me conduisait à l’Opéra et me mettait en voiture. Ce vieux jeune homme allait là <pb n="250" xml:id="p250"/> où j’allais, il redoublait de gilets, il se serrait le ventre, il mettait son cheval au grand galop pour rejoindre et accompagner ma voiture au bois ; il me compromettait avec une grâce de lycéen, il passait pour fou de moi ; je me posais en cruelle, mais j’acceptais son bras et ses bouquets. On causait de nous. J’étais enchantée ! J’arrivai bientôt à me faire surprendre par mon mari, le vicomte sur mon canapé, dans mon boudoir, me tenant les mains et moi l’écoutant avec une sorte de ravissement extérieur. C’est inouï ce que l’envie de nous venger nous fait dévorer ! Je parus contrariée de voir entrer mon mari, qui, le vicomte parti, me fit une scène : – Je vous assure, monsieur, lui dis-je après avoir écouté ses reproches, que c’est <hi rend="i">purement moral</hi>. Mon mari comprit, et n’alla plus <pb n="251" xml:id="p251"/> chez madame de Fischtaminel. Moi, je ne reçus plus monsieur de Lustrac.<figure rendition="float-right" xml:id="ill153">
-            <graphic url="85/balzac_85FC_153.jpg"/>
-          </figure></p>
+              <graphic url="85/balzac_85FC_153.jpg"/>
+            </figure></p>
           <p>– Mais, lui dis-je, Lustrac, que vous prenez, comme beaucoup de personnes, pour un célibataire, est veuf et sans enfants.</p>
           <p>– Bah !</p>
           <p>– Aucun homme n’a plus profondément enterré sa femme, Dieu ne la retrouvera pas au jugement dernier. Il s’est marié avant la révolution, et votre <hi rend="i">purement moral</hi> me rappelle un mot de lui que je ne puis me dispenser de vous répéter. Napoléon nomma Lustrac à des fonctions importantes, dans un pays conquis : madame de Lustrac, abandonnée pour l’administration, prit, quoique ce fût purement moral, pour ses affaires particulières un secrétaire intime ; mais elle eut le tort de le choisir sans en prévenir son mari. Lustrac rencontra ce secrétaire à une heure excessivement matinale et fort ému, car il s’agissait d’une discussion assez vive, dans la chambre de sa femme. La ville ne demandait qu’à rire de son gouvernement, et cette aventure fit un tel tapage que Lustrac demanda lui-même son rappel à l’Empereur. Napoléon tenait à la moralité de ses représentants, et la sottise selon lui devait déconsidérer un homme. Vous savez que l’Empereur, entre toutes ses passions malheureuses, a eu celle de vouloir moraliser sa cour et son gouvernement. La demande de Lustrac fut donc admise, mais sans compensation. Quand il vint à Paris, il y reparut dans son hôtel, avec sa femme ; il la <pb n="252" xml:id="p252"/> conduisit dans le monde, ce qui, certes, est conforme aux coutumes aristocratiques les plus élevées ; mais il y a toujours des curieux. On demanda raison de cette chevaleresque protection. – Vous êtes donc remis, vous et madame de Lustrac, lui dit-on au foyer du théâtre de l’Impératrice, vous lui avez tout pardonné. Vous avez bien fait. – Oh ! dit-il d’un air satisfait, j’ai acquis la certitude… – Ah ! bien, de son innocence, vous êtes dans les règles. – Non, je suis sûr que c’était purement physique.</p>
@@ -2522,8 +2531,8 @@
           <pb n="317" xml:id="p317"/>
           <head>Les aveux</head>
           <p rend="noindent"><figure rendition="lettrine" xml:id="ill193">
-            <graphic url="85/balzac_85FC_193.jpg"/>
-          </figure><c rend="drop-cap">U</c>n matin, Adolphe est ultra-câliné. Le trop heureux mari cherche les raisons de ce redoublement de tendresse, et il entend Caroline qui, d’une voix caressante, lui dit : – Adolphe ?</p>
+              <graphic url="85/balzac_85FC_193.jpg"/>
+            </figure><c rend="drop-cap">U</c>n matin, Adolphe est ultra-câliné. Le trop heureux mari cherche les raisons de ce redoublement de tendresse, et il entend Caroline qui, d’une voix caressante, lui dit : – Adolphe ?</p>
           <p>– Quoi ! répond-il effrayé du tremblement intérieur accusé par la voix de Caroline.</p>
           <p>– Promets-moi de ne pas te fâcher ?</p>
           <p><pb n="318" xml:id="p318"/> – Oui.</p>
@@ -2579,8 +2588,8 @@
           <pb n="323" xml:id="p323"/>
           <head>Humiliations</head>
           <p rend="noindent"><figure rendition="lettrine" xml:id="ill197">
-            <graphic url="85/balzac_85FC_197.jpg"/>
-          </figure><c rend="drop-cap">À</c> la gloire des femmes, elles tiennent encore à leurs maris, quand leurs maris ne tiennent plus à elles, non-seulement parce qu’il existe, socialement parlant, plus de liens entre une femme mariée et un homme, qu’entre cet homme et sa femme ; <pb n="324" xml:id="p324"/> mais encore, parce que la femme a plus de délicatesse et d’honneur que l’homme, la grande question conjugale mise à part, bien entendu.</p>
+              <graphic url="85/balzac_85FC_197.jpg"/>
+            </figure><c rend="drop-cap">À</c> la gloire des femmes, elles tiennent encore à leurs maris, quand leurs maris ne tiennent plus à elles, non-seulement parce qu’il existe, socialement parlant, plus de liens entre une femme mariée et un homme, qu’entre cet homme et sa femme ; <pb n="324" xml:id="p324"/> mais encore, parce que la femme a plus de délicatesse et d’honneur que l’homme, la grande question conjugale mise à part, bien entendu.</p>
           <q type="treatise">
             <label>Axiome</label>
             <p>Dans un mari, il n’y a qu’un homme ; dans une femme mariée, il y a un homme, un père, une mère et une femme.</p>
@@ -2667,7 +2676,8 @@
           <p>Madame Foullepointe se met à rire, et Adolphe, qui pensait à faire la cour à madame Foullepointe, se voit plaisanté cruellement par elle après avoir eu (voir les <hi rend="sc">dernières querelles</hi>) une première-dernière querelle avec Caroline.</p>
         </div>
         <div>
-          <pb n="335" xml:id="p335"/><figure rendition="center" xml:id="ill205">
+          <pb n="335" xml:id="p335"/>
+          <figure rendition="center" xml:id="ill205">
             <graphic url="85/balzac_85FC_205.jpg"/>
           </figure>
           <head>La dernière querelle</head>
@@ -2782,7 +2792,8 @@
           </figure>
         </div>
         <div>
-          <pb n="345" xml:id="p345"/><figure rendition="colophon" xml:id="ill212">
+          <pb n="345" xml:id="p345"/>
+          <figure rendition="colophon" xml:id="ill212">
             <graphic url="85/balzac_85FC_212.jpg"/>
           </figure>
           <head>Faire four</head>
@@ -2866,9 +2877,8 @@
           </figure>
           <label>Observation</label>
           <p rend="noindent"><figure rendition="lettrine" xml:id="ill218">
-            <graphic url="85/balzac_85FC_218.jpg"/>
-          </figure><c rend="drop-cap">P</c>endant la lune de miel, quelques époux très-jeunes ont pratiqué des langages que, dans l’antiquité, Aristote avait déjà classés et définis (voir sa Pédagogie). Ainsi donc on parle en <hi rend="i">youyou</hi>, on parle en <hi rend="i">lala</hi>, on parle en <hi rend="i">nana</hi>, comme les mères et les nourrices parlent aux enfants. <pb n="ill." xml:id="fullill46" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/fullill46.jpg"/>
-            C’est là une des raisons secrètes, discutées et reconnues dans de gros in-quarto par les Allemands, qui déterminèrent les Cabires, <pb n="355" xml:id="p355"/> créateurs de la mythologie grecque, à représenter l’Amour en enfant. Il y a d’autres raisons que connaissent les femmes, et dont la principale est, selon elles, que l’amour chez les hommes est toujours petit.</p>
+              <graphic url="85/balzac_85FC_218.jpg"/>
+            </figure><c rend="drop-cap">P</c>endant la lune de miel, quelques époux très-jeunes ont pratiqué des langages que, dans l’antiquité, Aristote avait déjà classés et définis (voir sa Pédagogie). Ainsi donc on parle en <hi rend="i">youyou</hi>, on parle en <hi rend="i">lala</hi>, on parle en <hi rend="i">nana</hi>, comme les mères et les nourrices parlent aux enfants. <pb n="ill." xml:id="fullill46" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/fullill46.jpg"/> C’est là une des raisons secrètes, discutées et reconnues dans de gros in-quarto par les Allemands, qui déterminèrent les Cabires, <pb n="355" xml:id="p355"/> créateurs de la mythologie grecque, à représenter l’Amour en enfant. Il y a d’autres raisons que connaissent les femmes, et dont la principale est, selon elles, que l’amour chez les hommes est toujours petit.</p>
           <figure rendition="ornament">
             <graphic url="85/balzac_85FC_ornament.jpg"/>
           </figure>
@@ -2932,8 +2942,8 @@
           <pb n="363" xml:id="p363"/>
           <head>Les marrons du feu</head>
           <p rend="noindent"><figure rendition="lettrine" xml:id="ill224">
-            <graphic url="85/balzac_85FC_224.jpg"/>
-          </figure><c rend="drop-cap">O</c>n ne sait pas combien il y a de nuances dans le malheur, cela dépend des caractères, de la force des imaginations, de la puissance des nerfs. S’il est impossible de saisir ces nuances si variables, on peut du moins indiquer les couleurs tranchées, les principaux accidents.</p>
+              <graphic url="85/balzac_85FC_224.jpg"/>
+            </figure><c rend="drop-cap">O</c>n ne sait pas combien il y a de nuances dans le malheur, cela dépend des caractères, de la force des imaginations, de la puissance des nerfs. S’il est impossible de saisir ces nuances si variables, on peut du moins indiquer les couleurs tranchées, les principaux accidents.</p>
           <p>L’auteur a donc réservé cette petite misère pour la dernière, car c’est la seule qui soit comique dans le malheur.</p>
           <p>L’auteur se flatte d’avoir épuisé les principales. Aussi les femmes arrivées au port, à l’âge heureux de quarante <pb n="364" xml:id="p364"/> ans, époque à laquelle elles échappent aux médisances, aux calomnies, aux soupçons, où leur liberté commence ; ces femmes lui rendront-elles justice en disant que dans cet ouvrage toutes les situations critiques d’un ménage se trouvent indiquées ou représentées.<pb n="ill." xml:id="fullill47" facs="https://www.ebalzac.com/romans/85-petites-miseres-vie-conjugale/chlendowski/scans/fullill47.jpg"/>
           </p>
@@ -3006,7 +3016,7 @@
           </figure>
           <p>Adolphe manie si bien la plaisanterie qu’il inspire à sa femme l’idée de punir Ferdinand. Adolphe, qui se donne pour avoir l’appétit de deux loups, fait oublier à Caroline qu’il y a pour elle une citadine à la porte.</p>
           <pb n="372" xml:id="p372"/>
-<figure rendition="center" xml:id="ill233">
+          <figure rendition="center" xml:id="ill233">
             <graphic url="85/balzac_85FC_233.jpg"/>
           </figure>
           <p>La portière de Ferdinand arrive sur les deux heures, au moment où Adolphe dort sur un divan.</p>
@@ -3020,7 +3030,8 @@
           <p>Quand les femmes sont les victimes de ces petites combinaisons, aussi spirituelles que les leurs, elles s’écrient alors : – Les hommes sont d’affreux monstres !</p>
         </div>
         <div>
-          <pb n="375" xml:id="p375"/><figure rendition="center" xml:id="ill235">
+          <pb n="375" xml:id="p375"/>
+          <figure rendition="center" xml:id="ill235">
             <graphic url="85/balzac_85FC_235.jpg"/>
           </figure>
           <head>Ultima ratio</head>
