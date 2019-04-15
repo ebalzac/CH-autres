@@ -5,26 +5,75 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title type="main">Pathologie de la vie sociale : Théorie de la démarche</title>
+        <title ref="etudes">Études analytiques</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2018"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2018 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/edition/86b-theorie-demarche/europe-litteraire</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Théorie de la démarche</title>, paru en feuilleton dans <title>L’Europe littéraire</title>, les <date>15, 18, 25 août 1833</date> et <date>5 septembre 1833</date>.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire est le texte paru initialement dans <hi rend="i">L’Europe littéraire</hi>. Nous donnons ce texte dans une version qui serait conforme au « Furne corrigé » si Balzac l’avait préparée pour l’intégrer à la <hi rend="i">Pathologie de la vie sociale</hi>. Ainsi, certaines graphies ont été modernisées (les finales -ans et -ens notamment), et nous avons respecté la volonté de Balzac d’écrire en toutes lettres « monsieur, madame et mademoiselle ».</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1833">1833</date>
+      </creation>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage><docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">Théorie de la démarche</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
-      <head>Théorie de la démarche</head>
       <epigraph>
         <p><pb n="15" xml:id="p15"/> À quoi, si ce n’est à une substance électrique, peut-on attribuer la magie avec laquelle la volonté s’intronise si majestueusement dans le regard pour foudroyer les obstacles aux commandemens du génie, ou filtre, malgré nos hypocrisies, au travers de l’enveloppe humaine ?</p>
-        <p>Histoire intellectuelle de Louis Lambert.</p>
+        <bibl><hi rend="i">Histoire intellectuelle de Louis Lambert</hi>.</bibl>
       </epigraph>
       <p rend="noindent">Dans l’état actuel des connaissances humaines, cette théorie est, à mon avis, la science la plus neuve, et partant la plus curieuse qu’il y ait à traiter. Elle est quasi-vierge. J’espère pouvoir démontrer la raison coefficiente de cette précieuse virginité scientifique par des observations utiles à l’histoire de l’esprit humain. Rencontrer quelque curiosité de ce genre, en quoi que ce soit, était déjà chose très-difficile au temps de Rabelais ; mais il est peut-être plus difficile encore d’en expliquer l’existence aujourd’hui : ne faut-il pas que tout ait dormi autour d’elle, vices et vertus. Sous ce rapport, sans être M. Ballanche, Perrault aurait, à son insu, fait un mythe dans <hi rend="i">la Belle au bois dormant</hi>. Admirable privilége des hommes dont le génie est tout naïveté ! Leurs œuvres sont des diamans taillés à facettes, qui réfléchissent et font rayonner les idées de toutes les époques. Lautour-Mézeray, homme d’esprit, qui sait mieux que personne traire la pensée, n’a-t-il pas découvert dans <hi rend="i">le Chat botté</hi> le mythe de <hi rend="i">l’Annonce</hi>, celle des puissances modernes, qui escompte ce dont il est impossible de trouver la valeur à la Banque de France, c’est-à-dire tout ce qu’il y a d’esprit dans le public le plus niais du monde, tout ce qu’il y a de crédulité dans l’époque la plus incrédule, tout ce qu’il y a de sympathie dans les entrailles du siècle le plus égoïste.</p>
       <p>Or, dans un temps où, par chaque matin, il se lève un nombre incommensurable de cerveaux affamés d’idées, parce qu’ils savent peser ce qu’il y a d’argent dans une idée ; et pressés d’aller à la chasse aux idées, parce que chaque nouvelle circonstance sublunaire crée une idée qui lui est propre ; n’y a-t-il pas un peu de mérite à trouver à Paris, sur un terrain si bien battu, quelque gangue dont se puisse encore extraire une paillette d’or. Ceci est prétentieux ; mais pardonnez à l’auteur son orgueil : faites mieux ? avouez qu’il est légitime. N’est-il pas réellement bien extraordinaire de voir, que, depuis le temps où l’homme marche, personne ne se soit demandé pourquoi il marche, comment il marche, s’il marche, s’il peut mieux marcher, ce qu’il fait en marchant, s’il n’y aurait pas moyen d’imposer, de changer, d’analyser sa marche : questions qui tiennent à tous les systèmes philosophiques, psychologiques<note place="bottom">Erreur de <hi rend="i">L’Europe littéraire</hi> : « psycologiques » au lieu de « psychologiques ».</note> et politiques dont s’est occupé le monde.</p>
@@ -138,22 +187,22 @@
       <p>Classer, pour pouvoir codifier !</p>
       <p>Codifier, faire le code de la démarche. En d’autres termes, rédiger une suite d’axiomes pour le repos des intelligences faibles ou paresseuses, afin de leur éviter la peine de réfléchir et les amener, par l’observation de quelques principes clairs, à régler leur mouvement. En étudiant ce code, les hommes progressifs, et ceux qui tiennent au système de la perfectibilité, pourraient paraître aimables, gracieux, distingués, bien élevés, fashionables, aimés, instruits, ducs, marquis ou comtes ; au lieu de sembler vulgaires, stupides, ennuyeux, pédans, ignobles, maçons du roi Philippe ou barons de l’empire. Et n’est-ce pas ce qu’il y a de plus important chez une nation dont la devise est : <hi rend="i">Tout pour l’enseigne</hi>.</p>
       <p>S’il m’était permis de descendre au fond de la conscience de l’incorruptible journaliste, du philosophe éclectique, du vertueux épicier, du délicieux professeur, du vieux marchand de mousseline, de l’illustre papetier, qui, par la grâce moqueuse de Louis-Philippe, sont les derniers pairs de France venus, je suis persuadé d’y trouver ce souhait écrit en lettres d’or :</p>
-      <p>@q press</p>
+      <q type="press">
       <p>– Je voudrais bien avoir l’air noble !</p>
-      <p>@/q</p>
+      </q>
       <p>Ils s’en défendront, ils le nieront, ils vous diront : – Je n’y tiens pas ! cela m’est égal ! Je suis journaliste, philosophe, épicier, professeur, marchand de toiles, ou de papier !</p>
       <p>Ne les croyez pas ! Forcés d’être pairs de France, ils veulent être pairs de France ; mais s’ils sont pairs de France au lit, à table, à la Chambre, dans le Bulletin des Lois, aux Tuileries, dans leurs portraits de famille, il leur est impossible d’être pris pour des pairs de France lorsqu’ils passent sur le boulevard. Là, ces messieurs redeviennent Gros-Jean, comme devant. L’observateur ne cherche même pas ce qu’ils peuvent être ; tandis que si M. le duc de Laval, si M. de Lamartine, si M. le duc de Rohan viennent à s’y promener, leur qualité n’est un doute pour personne ; et je ne conseillerais pas à ceux-là, de suivre ceux-ci.</p>
       <p>Je voudrais bien n’offenser aucun amour-propre. Si j’avais involontairement blessé l’un des derniers pairs venus, dont j’improuve l’intronisation patricienne, mais dont j’estime la science, le talent, les vertus privées, la probité commerciale, sachant bien que le premier et le dernier ont eu le droit de vendre, l’un son journal, l’autre son papier, plus cher qu’ils ne leur coûtaient, je crois pouvoir jeter quelque baume sur cette égratignure, en leur faisant observer que je suis obligé de prendre mes exemples en haut lieu pour convaincre les bons esprits de l’importance de cette théorie.</p>
       <p>Et en effet, je suis resté pendant quelque temps stupéfié par les observations que j’avais faites sur le boulevard de Gand, et surpris de trouver au mouvement des couleurs aussi tranchées ; de là ce premier aphorisme :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>I</label>
       <p>La démarche est la physionomie du corps.</p>
-      <p>@/q</p>
+      </q>
       <p>N’est-il pas effrayant de penser qu’un observateur profond peut découvrir un vice, un remords, une maladie en voyant un homme en mouvement ? Quel riche langage dans ces effets immédiats d’une volonté traduite avec innocence ! L’inclination plus ou moins vive d’un de nos membres ; la forme télégraphique dont il a contracté, malgré nous, l’habitude ; l’angle ou le contour que nous lui faisons décrire, sont empreints de notre vouloir, et sont d’une effrayante signification. C’est plus que la parole, c’est la pensée en action. Un simple geste, un involontaire frémissement de lèvres peut devenir le terrible dénouement d’un drame caché <pb n="84" xml:id="p84"/> long-temps entre deux cœurs. Aussi de là cet autre aphorisme :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>II</label>
       <p>Le regard, la voix, la respiration, la démarche sont identiques ; mais comme il n’a pas été donné à l’homme de pouvoir veiller à la fois sur ces quatre expressions diverses et simultanées de sa pensée, cherchez celle qui dit vrai : vous connaîtrez l’homme tout entier.</p>
-      <p>@/q</p>
+      </q>
       <label>Exemple</label>
       <p>M. S. n’est pas seulement chimiste et capitaliste, il est profond observateur et grand philosophe.</p>
       <p>M. O. n’est pas seulement un spéculateur, il est homme d’état. Il tient et de l’oiseau de proie et du serpent ; il emporte des trésors et sait charmer les gardiens.</p>
@@ -180,38 +229,38 @@
       <p>De là le grand mot de William Pitt : – Si j’ai fait tant de choses, c’est que je n’en ai jamais voulu qu’une seule à la fois.</p>
       <p>De l’inobservation de ce précepte ministériel, procède le naïf langage de la démarche. Qui de nous pense à marcher en marchant ? personne. Bien plus, chacun se fait gloire de marcher en pensant.</p>
       <p>Mais lisez les relations écrites par les voyageurs qui ont le mieux observé les peuplades improprement nommées sauvages ; lisez le baron de la Hontan, qui a fait les <hi rend="i">Mohicans</hi> avant que Cooper n’y songeât, et vous verrez, à la honte des gens civilisés, quelle importance les barbares attachent à la démarche. Le sauvage, en présence de ses semblables, n’a que des mouvemens lents et graves ; il sait, par expérience, que plus les manifestations extérieures se rapprochent du repos, et plus impénétrable est la pensée. De là cet axiome :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>III</label>
       <p>Le repos est le silence du corps.</p>
       <label>IV</label>
       <p>Le mouvement lent est essentiellement majestueux.</p>
-      <p>@/q</p>
+      </q>
       <p>Croyez-vous que l’homme dont parle Virgile, et dont l’apparition calmait le peuple en fureur, arrivât devant la sédition en sautillant ?</p>
       <p>Ainsi nous pouvons établir en principe, que l’économie du mouvement est un moyen de rendre la démarche et noble et gracieuse. Un homme qui marche vite ne dit-il pas déjà la moitié de son secret ? il est pressé. Le docteur Gall a observé que la pesanteur de la cervelle, le nombre de ses circonvolutions, était, chez tous les êtres organisés, en rapport avec la lenteur de leur mouvement vital. Les oiseaux ont peu d’idées. Les hommes qui vont habituellement vite doivent avoir généralement la tête pointue et le front déprimé. D’ailleurs, logiquement, l’homme qui marche beaucoup, arrive nécessairement à l’état intellectuel du danseur de l’Opéra.</p>
       <p>Suivons ?</p>
       <p>Si la lenteur bien entendue de la démarche annonce un homme qui a du temps à lui, du loisir, conséquemment un riche, un noble, un penseur, un sage, les détails doivent nécessairement s’accorder avec le principe ; alors les gestes seront peu fréquens et lents ; de là, cet autre aphorisme.</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>V</label>
       <p>Tout mouvement saccadé trahit un vice, ou une mauvaise éducation.</p>
-      <p>@/q</p>
+      </q>
       <p>N’avez-vous pas souvent ri des gens qui <hi rend="i">virvouchent</hi> ?</p>
       <p>Virvoucher est un admirable mot du vieux français, remis en lumière par Lautour-Mézerai. Virvoucher exprime l’action d’aller et de venir, de tourner autour de quelqu’un, de toucher à tout, de se lever, de se rasseoir, de bourdonner, de tatilloner ; virvoucher, c’est faire une certaine quantité de mouvemens qui n’ont pas de but ; c’est imiter les mouches. Il faut toujours donner la clef des champs aux <hi rend="i">virvoucheurs</hi> ; ils vous cassent la tête ou quelque meuble précieux.</p>
       <p>N’avez-vous pas ri d’une femme dont tous les mouvemens de bras, de tête, de pied ou de corps, produisent des angles aigus ?</p>
       <p>Des femmes qui vous tendent la main comme si quelque ressort faisait partir leur coude ;</p>
       <p>Qui s’asseyent tout d’une pièce, ou qui se <pb n="86" xml:id="p86"/> lèvent comme le soldat d’un joujou à surprise.</p>
       <p>Ces sortes de femmes sont très-souvent vertueuses. La vertu des femmes est intimement liée à l’angle droit. Toutes les femmes, qui ont fait ce que l’on nomme des fautes, sont remarquables par la rondeur exquise de leurs mouvemens. Si j’étais mère de famille, ces mots sacramentels du maître à danser : – <hi rend="i">Arrondissez les coudes</hi>, me ferait trembler pour mes filles. De là cet axiome :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>VI</label>
       <p>La grâce veut les formes rondes.</p>
-      <p>@/q</p>
+      </q>
       <p>Voyez la joie d’une femme qui peut dire de sa rivale : Elle est bien anguleuse !</p>
       <p>Mais en observant les différentes démarches, il s’éleva dans mon âme un doute cruel, et qui me prouva, qu’en toute espèce de science, même dans la plus frivole, l’homme est arrêté par d’inextricables difficultés, il lui est aussi impossible de connaître la cause et la fin de ses mouvemens, que de savoir celles des pois chiches.</p>
       <p>Ainsi, tout d’abord je me demandai d’où devait procéder le mouvement. Hé bien, il est aussi difficile de déterminer où il commence et où il finit en nous, que de dire où commence et où finit <hi rend="i">le grand sympathique</hi>, cet organe intérieur qui, jusqu’à présent, a lassé la patience de tant d’observateurs. Borelli lui-même, le grand Borelli, n’a pas abordé cette immense question. N’est-il pas effrayant de trouver tant de problèmes insolubles dans un acte vulgaire, dans un mouvement que huit cent mille Parisiens font tous les jours ?</p>
       <p>Il est résulté de mes profondes réflexions sur cette difficulté, l’aphorisme suivant que je vous prie de méditer.</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>VII</label>
       <p>Tout en nous participe au mouvement ; mais il ne doit prédominer nulle part.</p>
-      <p>@/q</p>
+      </q>
       <p>En effet, la nature a construit l’appareil de notre motilité d’une façon si ingénieuse et si simple, qu’il en résulte, comme en toutes ses créations, une admirable harmonie ; et si vous la dérangez par une habitude quelconque, il y a laideur et ridicule, parce que nous ne nous moquons jamais que des laideurs dont l’homme est coupable : nous sommes impitoyables pour des gestes faux, comme nous le sommes pour l’ignorance ou pour la sottise.</p>
       <p>Ainsi de ceux qui passèrent devant moi et m’apprirent les premiers principes de cet art jusqu’à présent dédaigné.</p>
       <p>Le premier de tous fut un gros monsieur. Ici, je ferai observer qu’un écrivain éminemment spirituel a favorisé plusieurs erreurs, en les soutenant par son suffrage. Brillat-Savarin a dit qu’il était possible à un homme gros de <hi rend="i">contenir son ventre au majestueux</hi>. Non. Si la majesté ne va pas sans une certaine amplitude de chair, il est impossible de prétendre à une démarche dès que le ventre a rompu l’équilibre entre les parties du corps. La démarche cesse à l’obésité. Un obèse est nécessairement forcé de s’abandonner au faux mouvement introduit dans son économie par son ventre qui la domine.</p>
@@ -222,18 +271,18 @@
       <p>Après, je vis un homme qui avait l’air d’être composé de deux compartimens. Il ne risquait sa jambe gauche, et tout ce qui en dépendait, qu’après avoir assuré la droite et tout son système. Il appartenait à la faction des binaires. Évidemment, son corps devait avoir été primitivement fendu en deux par une révolution quelconque, et il s’était miraculeusement mais imparfaitement ressoudé<note place="bottom">Erreur de <hi rend="i">L’Europe littéraire</hi> : « resoudé » au lieu de « ressoudé ».</note>. Il avait deux axes, sans avoir plus d’un cerveau.</p>
       <p>Bientôt ce fut un diplomate, personnage squelettique, marchant tout d’une pièce comme ces pantins dont Joly oublie de tirer les ficelles ; vous l’eussiez cru serré comme une momie dans ses bandelettes. Il était pris dans sa cravate comme une pomme dans un ruisseau, par un temps de gelée. S’il se retourne, il est clair qu’il est fixé sur un pivot et qu’un passant l’a heurté.</p>
       <p>Cet inconnu m’a prouvé la nécessité de formuler cet axiome.</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>VIII</label>
       <p>Le mouvement humain se décompose en <hi rend="sc">temps</hi> bien distincts ; si vous les confondez, vous arrivez à la raideur de la mécanique.</p>
-      <p>@/q</p>
+      </q>
       <p>Une jolie femme, se défiant de la proéminence de son busc, ou gênée, je ne sais par quoi, s’était transformée en Vénus Callipyge<note place="bottom">Erreur de <hi rend="i">L’Europe littéraire</hi> : « Callypige » au lieu de « Callipyge ».</note>, et allait comme une pintade, tendant le cou, rentrant son busc, et bombant la partie opposée à celle sur laquelle appuyait le busc…</p>
       <p>En effet, l’intelligence doit briller dans les actes imperceptibles et successifs de notre mouvement, comme la lumière et les couleurs se jouent dans les losanges des changeans anneaux du serpent. Tout le secret des belles démarches est dans la décomposition du mouvement.</p>
       <p>Puis venait une dame qui se creusait également comme la précédente. Vraiment, s’il y en avait eu une troisième, et que vous les eussiez observées, vous n’auriez pas pu vous empêcher de rire des demi-lunes toutes faites pour ces protubérances exorbitantes.</p>
       <p>La saillie prodigieuse de ces choses, que je ne saurais nommer, et qui dominent singulièrement la question de la démarche féminine, surtout à Paris, m’a long-temps préoccupé. Je consultai des femmes d’esprit, des femmes de bon goût, des dévotes. Après plusieurs conférences où nous discutâmes le fort et le faible, en conciliant les égards dus à la beauté, au malheur de certaines conformations diaboliquement rondes, nous rédigeâmes cet admirable aphorisme.</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>IX</label>
       <p>En marchant, les femmes peuvent tout montrer, mais ne rien laisser voir.</p>
-      <p>@/q</p>
+      </q>
       <p>Mais certainement ! s’écria l’une des dames consultées, les robes n’ont été faites que pour cela.</p>
       <p>Cette femme a dit une grande vérité. Toute notre société est dans la jupe. Ôtez la jupe à la femme, adieu la coquetterie ; plus de passions. Dans la robe est toute sa puissance ; là où il y a des pagnes il n’y a pas d’amour. Aussi bon nombre de commentateurs, les Massorets surtout, prétendent que la feuille de figuier de notre mère Ève était une robe de cachemire. Je le pense.</p>
       <p>Je ne quitterai pas cette question secondaire sans dire deux mots sur une dissertation vraiment neuve qui eut lieu pendant ces conférences,</p>
@@ -243,10 +292,10 @@
       <p>– Mais cependant, dis-je, s’il y avait un ruisseau à passer ?</p>
       <p>– Hé bien, monsieur, une femme comme il faut pince légèrement sa robe du côté gauche, la soulève, se hausse par un petit mouvement, et lâche aussitôt la robe. <hi rend="i">Ecco</hi>.</p>
       <p>Alors je me souvins de la magnificence des plis de certaines robes ; alors je me rappelai les admirables ondulations de certaines personnes, la grâce des sinuosités, des flexuosités mouvantes de leurs cottes, et je n’ai pu résister à consigner ici ma pensée :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>X</label>
       <p>Il y a des mouvemens de jupe qui valent un prix Monthyon.</p>
-      <p>@/q</p>
+      </q>
       <p>Il demeure prouvé que les femmes ne doivent lever leur robe que très-secrètement. Ce principe passera pour incontestable en France.</p>
       <p><pb n="155" xml:id="p155"/> Et pour en finir sur l’importance de la démarche en ce qui concerne les diagnostics, je vous prie de me pardonner une citation diplomatique.</p>
       <p>– La princesse de Hesse Darmstadt amena ses trois filles à l’impératrice, afin qu’elle choisît entre elles une femme pour le grand-duc, dit un ambassadeur du dernier siècle, M. Mercy d’Argentau. Sans leur avoir parlé, l’impératrice se décida pour la seconde. La princesse étonnée lui demanda la raison de ce bref jugement. – Je les ai regardées toutes trois de ma fenêtre pendant qu’elles descendaient de carrosse, répondit l’impératrice. L’aînée a fait un faux pas ; la seconde est descendue naturellement ; la troisième a franchi le marche-pied. L’aînée doit être gauche ; la plus jeune, étourdie. C’était vrai.</p>
@@ -255,10 +304,10 @@
       <p>Il était suivi par une grande demoiselle qui, les pieds serrés, la bouche pincée, tout pincé, décrivait une légère courbe, et allait par petites secousses, comme si, mécanique imparfaite, ses ressorts étaient gênés, ses apophyses déjà soudées. Ses mouvemens avaient de la raideur, elle faillait à mon huitième axiome.</p>
       <p>Quelques hommes passèrent, marchant d’un air agréable. Véritables modèles d’une reconnaissance de théâtre, ils semblaient tous retrouver un camarade de collège dans le citoyen paisible et insouciant qui venait à eux.</p>
       <p>Je ne dirai rien de ces Paillasses involontaires qui jouent des drames dans la rue, mais je les prie de réfléchir à ce mémorable axiome :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>XI</label>
       <p>Quand le corps est en mouvement, le visage doit être immobile.</p>
-      <p>@/q</p>
+      </q>
       <p>Aussi vous peindrais-je difficilement mon mépris pour l’homme affairé, allant vite, filant comme une anguille dans sa vase, à travers les rangs serrés des flâneurs. Il se livre à la marche comme un soldat qui fait son étape. Généralement il est causeur, il parle haut, s’absorbe dans ses discours, s’indigne, apostrophe un adversaire absent, lui pousse des argumens sans réplique, gesticule, s’attriste, s’égaie. Adieu délicieux mime, orateur distingué !</p>
       <p>Qu’auriez-vous dit d’un inconnu qui communiquait transversalement à son épaule gauche le mouvement de la jambe droite, et réciproquement celui de la jambe gauche à l’épaule droite, par un mouvement de flux et reflux si régulier, qu’à le voir marcher, vous l’eussiez <pb n="156" xml:id="p156"/> comparé à deux grands bâtons croisés qui auraient supporté un habit. C’était nécessairement un ouvrier enrichi.</p>
       <p>Les hommes condamnés à répéter le même mouvement par le travail auquel ils sont assujétis ont tous dans la démarche le principe locomotif fortement déterminé ; et il se trouve soit dans le thorax, soit dans les hanches, soit dans les épaules. Souvent le corps se porte tout entier d’un seul côté. Habituellement les hommes d’étude inclinent la tête. Quiconque a lu la <hi rend="i">Physiologie du goût</hi> doit se souvenir de cette expression : <hi rend="i">le nez à l’ouest</hi> comme M. Villemain. En effet ce célèbre professeur porte sa tête avec une très-spirituelle originalité, de droite à gauche.</p>
@@ -270,10 +319,10 @@
       <p>Les militaires ont une démarche parfaitement reconnaissable. Presque tous campés sur leurs reins comme un buste sur son piédestal, leurs jambes s’agitent sous l’abdomen, comme si elles étaient mues par une âme subalterne chargée de veiller au parfait gouvernement des choses d’en bas. Le haut du corps ne paraît point avoir conscience des mouvemens inférieurs. À les voir marcher, vous diriez le torse de l’Hercule Farnèze, posé sur des roulettes et qu’on amène au milieu d’un atelier. Voici pourquoi. Le militaire est constamment forcé de porter la somme totale de sa force dans le thorax, il le présente sans cesse, et se tient toujours droit. Or, pour emprunter à Amyot l’une de ses plus belles expressions, tout homme <hi rend="i">qui se dresse en pied</hi>, pèse vigoureusement sur la terre afin de s’en faire un point d’appui, et il y a nécessairement dans le haut du corps un contrecoup de la force qu’il puise ainsi dans le sein de la mère commune. Alors, l’appareil locomotif se scinde nécessairement chez lui. Le foyer du courage est dans sa poitrine. Les jambes ne sont plus qu’un appendice de son organisation.</p>
       <p>Les marins et les militaires appliquent donc les lois du mouvement, dans le but de toujours obtenir un même résultat, une émission de force par le <hi rend="i">plexus</hi> solaire et par les mains, deux organes que je nommerais volontiers les seconds cerveaux de l’homme, tant ils sont intellectuellement sensibles et fluidement agissans. Or, la direction constante de leur volonté dans ces deux agens doit déterminer une spéciale atrophie de mouvement, d’où procède la physionomie de leur corps.</p>
       <p>Les militaires de terre et de mer sont les vivantes preuves des problèmes physiologiques qui ont inspiré cette théorie. La projection fluide de la volonté, son appareil intérieur, la parité de sa substance avec celle de nos idées, sa motilité flagrante, ressortent évidemment de ces dernières observations. Mais l’apparente futilité de notre ouvrage ne nous permet pas d’y bâtir le plus léger système. Ici notre but est de poursuivre le cours des démonstrations physiques de la pensée, et de <pb n="157" xml:id="p157"/> prouver que l’on peut juger un homme sur son habit pendu à une tringle, aussi bien que sur l’aspect de son mobilier, de sa voiture, de ses chevaux, de ses gens ; et de donner de sages préceptes aux gens assez riches pour se dépenser eux-mêmes dans la vie extérieure. L’amour, le bavardage, les dîners en ville, le bal, l’élégance de la mise, l’existence mondaine, la frivolité, comportent plus de grandeur que les hommes ne le pensent. De là cet axiome :</p>
-      <p>@q treatise</p>
+      <q type="treatise">
       <label>XII</label>
       <p>Tout mouvement exorbitant est une prodigalité sublime.</p>
-      <p>@/q</p>
+      </q>
       <p>Fontenelle a touché barre d’un siècle à l’autre par la stricte économie qu’il apportait dans la distribution de son mouvement vital. Il aimait mieux écouter que de parler ; aussi passait-il pour infiniment aimable. Chacun croyait avoir l’usufruit du spirituel académicien. Il disait des mots qui résumaient la conversation, et ne conversait jamais. Il connaissait bien la prodigieuse déperdition de fluide que nécessite le mouvement vocal. Il n’avait jamais haussé la voix dans aucune occasion de sa vie ; il ne parlait pas en carrosse, pour ne pas être obligé d’élever le ton. Il ne se passionnait point. Il n’aimait personne ; on lui plaisait. Quand Voltaire se plaignit de ses critiques chez Fontenelle, le bonhomme ouvrit une grande malle pleine de pamphlets non coupés :</p>
       <p>– Voici, dit-il au jeune Arouet, tout ce qui a été écrit contre moi. La première épigramme est de M. Racine le père.</p>
       <p>Il referma la boîte.</p>
