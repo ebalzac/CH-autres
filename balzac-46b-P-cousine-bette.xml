@@ -35,11 +35,12 @@
                 </respStmt>
             </editionStmt>
             <publicationStmt>
+                <publisher>Université de Genève</publisher>
                 <publisher>eBalzac</publisher>
                 <publisher>ALITHILA (Université Lille III)</publisher>
                 <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
                 <publisher>LIP6 (Université Paris VI)</publisher>
-                <date when="2019"/>
+                <date when="2023"/>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le
@@ -62,7 +63,7 @@
                             ressource n’est pas souhaitable. </p>
                     </licence>
                 </availability>
-                <idno>http ://www.ebalzac.com/edition/46b-cousin-pons/petion</idno>
+                <idno></idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl><title>La Cousinen Bette</title>, dans <title>Les Parents pauvres</title>, Paris,
