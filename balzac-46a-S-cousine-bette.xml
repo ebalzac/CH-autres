@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://dramacode.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-08-16T11:22:15+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
     <teiHeader>
@@ -13,25 +13,25 @@
                 <principal>Jean-Gabriel Ganascia</principal>
             </titleStmt>
             <editionStmt>
+                <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
                 <respStmt>
                     <name>Clara Grometto</name>
                     <resp>Établissement du texte et stylage</resp>
                 </respStmt>
                 <respStmt>
-                    <name>Karolina Suchecka, Clara Grometto</name>
+                    <name>Clara Grometto</name>
                     <resp>Édition XML/TEI</resp>
                 </respStmt>
                 <respStmt>
-                    <name>Frédéric Glorieux</name>
+                    <name>Frédéric Glorieux, Karolina Suchecka</name>
                     <resp>Informatique éditoriale</resp>
                 </respStmt>
                 <respStmt>
-                    <name>NAME</name>
+                    <name>Grometto Clara</name>
                     <resp>Traitement des images</resp>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-                <publisher>Université de Genève</publisher>
                 <publisher>eBalzac</publisher>
                 <publisher>ALITHILA (Université Lille III)</publisher>
                 <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
@@ -76,6 +76,7 @@
             </titlePage>
         </front>
     <body>
+        <div>
       <p><pb n="187" xml:id="p187"/>Vers le milieu du mois de juillet de l’année 1838 une de ces voitures nouvellement mises en circulation sur les places de Paris et nommées des <emph>milords</emph>, cheminait, rue de l’Université, portant un gros homme de taille moyenne, en uniforme de capitaine de la garde nationale.</p>
       <p>Dans le nombre de ces Parisiens accusés d’être si spirituels, il s’en trouve qui se croient infiniment mieux en uniforme que dans leurs habits ordinaires, et qui supposent chez les femmes des goûts assez dépravés pour imaginer qu’elles seront favorablement impressionnées à l’aspect d’un bonnet à poil et par le harnais militaire.</p>
       <p>La physionomie de ce capitaine appartenant à la deuxième légion respirait un contentement de lui-même qui faisait resplendir son teint rougeaud et sa figure passablement joufflue. À cette auréole que la richesse acquise dans le commerce met au front des boutiquiers retirés, on devinait l’un des élus de Paris, au moins ancien adjoint de son arrondissement. Aussi, croyez que le ruban de la Légion-d’Honneur ne manquait pas sur la poitrine, crânement bombée à la prussienne. Campé fièrement dans le coin du milord, cet homme décoré laissait errer son regard sur les passants qui souvent, à Paris, recueillent ainsi d’agréables sourires adressés à de beaux yeux absens.</p>
@@ -489,7 +490,7 @@
       <p>– C’est mon état d’être perverse ! répliqua-t-elle. Ah ! voilà comment tu prends la chose ! Pourquoi n’as-tu pas inventé de commandite ? Mon Dieu, mon pauvre <emph>chat teint</emph>, tu devrais me remercier : je te quitte au moment où tu pourrais <pb n="206" xml:id="p206"/>manger avec moi l’avenir de ta femme, la dot de ta fille, et… Ah ! tu pleures. L’Empire s’en va !… je vais saluer l’Empire.</p>
       <p>Elle se posa tragiquement, et dit :</p>
       <quote>
-        <l rend="lmarg2">On vous appelle Hulot ? je ne vous connais plus !…</l>
+        <l>On vous appelle Hulot ? je ne vous connais plus !…</l>
       </quote>
       <p>Et elle rentra. La porte entr’ouverte laissa passer comme un éclair, un jet de lumière accompagné d’un éclat du crescendo de l’orgie et chargé des odeurs d’un festin du premier ordre.</p>
       <p>La cantatrice revint voir par la porte entrebâillée, et trouvant Hulot planté sur ses pieds comme s’il eût été de bronze, elle fit un pas en avant et reparut.</p>
@@ -544,7 +545,7 @@
       <p>– Il ne m’a rien laissé, monsieur, car on n’a pas trouvé de testament.</p>
       <p>– Oh ! pauvre petite, le maréchal a été surpris par l’apoplexie… Allons, espérez, madame, on doit quelque chose à la fille d’un des chevaliers Bayard de l’Empire.</p>
       <p>Madame Marneffe salua gracieusement, et fut aussi fière de son succès que le baron l’était du sien.</p>
-      <p>– D’où diable vient-elle si matin ? se demanda-t-il en analysant le mouvement onduleux de la robe auquel elle imprimait une grâce peut-être exagérée. Elle a la figure trop fatiguée pour revenir du bain, et son mari l’attend. C’est inexplicable <note place="bottom">Erreur du Siècle : « inexpliquable » au lieu de « inexplicable ». </note></hi>, et cela donne beaucoup à penser.</p>
+      <p>– D’où diable vient-elle si matin ? se demanda-t-il en analysant le mouvement onduleux de la robe auquel elle imprimait une grâce peut-être exagérée. Elle a la figure trop fatiguée pour revenir du bain, et son mari l’attend. C’est inexplicable <note place="bottom">Erreur du Siècle : « inexpliquable » au lieu de « inexplicable ». </note>, et cela donne beaucoup à penser.</p>
       <p>Madame Marneffe une fois rentrée, le baron voulut savoir ce que faisait sa fille dans la boutique.</p>
       <p>En y entrant, comme il regardait toujours les fenêtres de madame Marneffe, il faillit heurter un jeune homme au front pâle, aux yeux gris pétillants, vêtu d’un paletot d’été en mérinos noir, d’un pantalon de gros coutil et de souliers à guêtres en cuir jaune, qui sortait comme un braque ; et il le vit courir vers la maison de madame Marneffe où il entra.</p>
       <p>En glissant dans la boutique, Hortense y avait distingué tout aussitôt le fameux groupe mis en évidence sur une table placée au centre dans le champ de la porte.</p>
@@ -703,36 +704,28 @@
       <p>Cette petite guerre n’alla pas sans des dîners au Rocher de Cancale, sans des parties de spectacles, sans beaucoup de cadeaux en mantilles, en écharpes, en robes, en bijoux.</p>
       <p>L’appartement de la rue du Doyenné déplaisait, le baron complota d’en meubler un magnifiquement, rue Vanneau, dans une charmante maison moderne.</p>
       <p>M. Marneffe obtint un congé de quinze jours, à prendre dans un mois, pour aller régler des affaires d’intérêt dans son pays, et une gratification. Il se promit de faire un petit voyage en Suisse pour y étudier le beau sexe.</p>
-      <p>Si le baron Hulot* s’occupa de sa protégée, il n’oublia pas son protégé. Le ministre du commerce, le comte Popinot, aimait les arts : il donna deux mille francs d’un exemplaire du groupe de Samson, à la condition que le moule serait brisé, pour qu’il n’existât que son Samson et celui de mademoiselle Hulot. Ce groupe excita l’admiration d’un prince à qui l’on porta le modèle de la pendule et qui la commanda, mais elle devait être unique, et il en offrit trente mille francs.</p>
+            <p>Si le baron Hulot<note resp="author" place="bottom">
+            <p>Le profond respect que je porte à la Grande Armée et à l’Empereur m’oblige à répondre à la lettre suivante qui m’est adressée par la voie du <emph>Constitutionnel</emph> : </p>
+            <q type="letter">
+                <dateline>Paris, 10 septembre 1846.</dateline>
+                <salute>Monsieur,</salute>
+                <p>Dans votre nouveau roman : les <emph>Parens pauvres</emph>,il vous plaît de faire conférer par l’Empereur, au général Hulot, le titre de comte de Forzheim. En vérité, l’Empereur n’aurait mieux su s’y prendre pour combler de ridicule un des braves de son armée. Que diriez-vous, monsieur, d’un personnage qui se ferait appeler le marquis de la Pétaudière ?</p>
+                <p>Nous autres Français, nous ne saurons jamais que notre langue. Il n’y aurait donc guère d’inconvénient, si vos œuvres, à juste titre, ne jouissaient d’une vogue européenne.</p>
+                <salute>Veuillez bien agréer, monsieur, ces observations de la part d’un de vos admirateurs les plus sincères.</salute>
+            </q>
+            <p>Je déclare ne savoir aucun mot d’allemand. Il m’est d’ailleurs impossible de me livrer à l’étude de cette magnifique et très-estimable langue, tant que je ne saurai pas parfaitement la langue française ; et je la trouve si peu maniable après vingt ans d’études, que je ne pense pas, comme mon bienveillant critique, que, nous autres Français, nous sachions notre langue ; si nous ne savions que cela, nous le saurions mieux. Venons au reproche qui taxerait mon Napoléon de la <hi rend="sc">Comédie Humaine</hi> de légèreté. Si je ne sais pas l’allemand, je connais beaucoup l’Allemagne, et j’ai l’honneur d’affirmer à l’auteur de cette lettre que je suis passé environ neuf fois par la ville de Forzheim, située sur les frontières des États de Bade et du Wurtemberg. Cette ville est une des plus jolies et des plus coquettes de cette contrée, qui en compte tant de charmantes. C’est là qu’en 1809, le héros des <hi rend="sc">Chouans</hi> a livré le brillant combat en souvenir duquel, après Wagram, Napoléon le nomma comte du nom de cette ville, selon son habitude de rattacher sa nouvelle noblesse à de grands faits d’armes. Cette affaire est le sujet d’une de mes <hi rend="sc">Scènes de la vie militaire</hi>. Si mon critique anonyme sait l’allemand, je suis fâché de voir qu’il n’est pas plus fort en géographie que moi sur la langue germanique. Subsidiairement, si Forzheim veut dire <emph>Pétaudière, Bicoque</emph> en Italie a immortalisé ce nom bizarre ; puis, nous avons eu les ducs de Bouillon, et nous comptons, nous autres amateurs des vieilles chroniques, plus de vingt noms, célèbres au temps des Croisades, qu’on ne peut plus imprimer aujourd’hui, tant ils sont ridicules ou indécens. Cinq familles françaises (entre autres, les Bonnechose) ont été autorisées par lettres-patentes à changer quelques-uns de ces noms qui, dans le vieux temps, avaient bien leur prix. Enfin, Racine, Corneille, La Fontaine, Marot, les deux Rousseau, Cuvier, Picolomini, Facino Cane, Marceau, Cœur, Bart, etc., ont surabondamment prouvé que les noms deviennent ce que sont les hommes, et que le génie comme le courage transforment en auréoles les vulgarités qui les touchent.</p>
+            <p>Une observation plus grave que celle-ci et qui m’oblige à grossir cette note, est celle relative à monsieur Crevel. Ce personnage a dû donner sa démission d’adjoint pour être capitaine de la garde nationale. Ce défaut de mémoire légale sera réparé.</p>
+            <p>Je remercie, d’ailleurs, mon critique de l’intérêt qui ressort pour un écrivain, de toute observation, même erronée.</p>
+            <p>(L’Auteur.)</p>
+            </note>
+            s’occupa de sa protégée, il n’oublia pas son protégé. Le ministre du commerce, le comte Popinot, aimait les arts : il donna deux mille francs d’un exemplaire du groupe de Samson, à la condition que le moule serait brisé, pour qu’il n’existât que son Samson et celui de mademoiselle Hulot. Ce groupe excita l’admiration d’un prince à qui l’on porta le modèle de la pendule et qui la commanda, mais elle devait être unique, et il en offrit trente mille francs.</p>
       <p>Les artistes consultés, au nombre desquels fut Stidmann, déclarèrent que l’auteur de ces deux œuvres pouvait faire une statue. Aussitôt, le maréchal, prince de Wissembourg, ministre de la guerre et président du comité de souscription pour le monument du maréchal Montcornet, fit prendre une délibération par laquelle l’exécution en était confiée à Steinbock.</p>
       <p>Le comte de Rastignac, alors sous-secrétaire d’État, voulut une œuvre de l’artiste dont la gloire surgissait aux acclamations de ses rivaux. Il obtint de Steinbock le délicieux groupe des deux petits garçons couronnant une petite fille et il lui promit un atelier au Dépôt des marbres du gouvernement, situé comme on sait, au Gros-Caillou.</p>
       <p>Ce fut le succès, mais le succès, comme il vient à Paris, c’est-à-dire fou, le succès à écraser les gens qui n’ont pas des épaules et des reins à le porter, ce qui, par parenthèse, arrive souvent. On parlait dans les journaux et dans les revues du comte Wenceslas Steinbock, sans que lui ni mademoiselle Fischer en eussent le moindre soupçon.</p>
       <p>Tous les jours, dès que mademoiselle Fischer sortait pour dîner, Wenceslas allait chez la baronne. Il y passait une ou deux heures, excepté le jour où la Bette venait chez sa cousine Hulot.</p>
       <p>Cet état de choses dura pendant quelques jours.</p>
       <p>Le baron sûr des qualités et de l’état civil du comte Steinbock, la baronne heureuse de son caractère et de ses mœurs, Hortense, fière de son amour approuvé, de la gloire de son prétendu, n’hésitaient plus à parler de ce mariage ; enfin, l’artiste était au comble du bonheur, quand une indiscrétion de madame Marneffe mit tout en péril.</p>
-      <p>Voici comment.</p>
-      <p>
-        <hi rend="bg_ffff00">* Le profond respect que je porte à la Grande Armée et à l’Empereur m’oblige à répondre à la lettre suivante qui m’est adressée par la voie du </hi>
-        <hi rend="bg_ffff00"><emph>Constitutionnel</emph> :
-        </hi>
-      </p>
-      <p>« Paris, 10 septembre 1846.</p>
-      <p>Monsieur,</p>
-      <p>
-        <hi rend="bg_ffff00">Dans votre nouveau roman : </hi>
-        <hi rend="bg_ffff00">les </hi>
-        <hi rend="bg_ffff00"><emph>Parens pauvres</emph>,
-        </hi>
-        <hi rend="bg_ffff00">il vous plaît de faire conférer par l’Empereur, au général Hulot, le titre de comte de Forzheim. En vérité, l’Empereur n’aurait mieux su s’y prendre pour combler de ridicule un des braves de son armée. Que diriez-vous, </hi>
-        <hi rend="bg_ffcc00">monsieur</hi>
-        <hi rend="bg_ffff00">, d’un personnage qui se ferait appeler le marquis de la Pétaudière ? </hi>
-      </p>
-      <p>Nous autres Français, nous ne saurons jamais que notre langue. Il n’y aurait donc guère d’inconvénient, si vos œuvres, à juste titre, ne jouissaient d’une vogue européenne.</p>
-      <p>Veuillez bien agréer, monsieur, ces observations de la part d’un de vos admirateurs les plus sincères. »</p>
-      <p><hi rend="bg_ffff00">Je déclare ne savoir aucun mot d’allemand. Il m’est d’ailleurs impossible de me livrer à l’étude de cette magnifique et très-estimable langue, tant que je ne saurai pas parfaitement la langue française ; et je la trouve si peu maniable après vingt ans d’études, que je ne pense pas, comme mon bienveillant critique, que, nous autres Français, nous sachions notre langue ; si nous ne savions que cela, nous le saurions mieux. Venons au reproche qui taxerait mon Napoléon de la COMÉDIE HUMAINE de légèreté. Si je ne sais pas l’allemand, je connais beaucoup l’Allemagne, et j’ai l’honneur d’affirmer à l’auteur de cette lettre que je suis passé environ neuf fois par la ville de Forzheim, située sur les frontières des États de Bade et du Wurtemberg. Cette ville est une des plus jolies et des plus coquettes de cette contrée, qui en compte tant de charmantes. C’est là qu’en 1809, le héros des CHOUANS a livré le brillant combat en souvenir duquel, après Wagram, Napoléon le nomma comte du nom de cette ville, selon son habitude de rattacher sa nouvelle noblesse à de grands faits d’armes. Cette affaire est le sujet d’une de mes SCÈNES DE LA VIE MILITAIRE. Si mon critique anonyme sait l’allemand, je suis fâché de voir qu’il n’est pas plus fort en géographie que moi sur la langue germanique. Subsidiairement, si Forzheim veut dire <emph>Pétaudière, Bicoque</emph> en Italie a immortalisé ce nom bizarre ; puis, nous avons eu les ducs de Bouillon, et nous comptons, nous autres amateurs des vieilles chroniques, plus de vingt noms, célèbres au temps des Croisades, qu’on ne peut plus imprimer aujourd’hui, tant ils sont ridicules ou indécens. Cinq familles françaises (entre autres, les Bonnechose) ont été autorisées par lettres-patentes à changer quelques-uns de ces noms qui, dans le vieux temps, avaient bien leur prix. Enfin, Racine, Corneille, La Fontaine, Marot, les deux Rousseau, Cuvier, Picolomini, Facino Cane, Marceau, Cœur, Bart, etc., ont surabondamment prouvé que les noms deviennent ce que sont les hommes, et que le génie comme le courage transforment en auréoles les vulgarités qui les touchent.</p>
-      <p>Une observation plus grave que celle-ci et qui m’oblige à grossir cette note, est celle relative à monsieur Crevel. Ce personnage a dû donner sa démission d’adjoint pour être capitaine de la garde nationale. Ce défaut de mémoire légale sera réparé.</p>
-      <p>Je remercie, d’ailleurs, mon critique de l’intérêt qui ressort pour un écrivain, de toute observation, même erronée.</p>
-      <p>(L’Auteur.)</p>
+      <p>Voici comment.</p>  
       <p>Lisbeth, que le baron Hulot désirait lier avec madame Marneffe pour avoir un œil dans ce ménage, avait déjà dîné chez Valérie, qui, de son côté, voulant avoir une oreille dans la famille Hulot, caressait beaucoup la vieille fille. Valérie eut donc l’idée d’engager mademoiselle Fischer à pendre la crémaillère du nouvel appartement où elle devait s’installer.</p>
       <p>La vieille fille, heureuse de trouver une maison de plus où aller dîner et captée par madame Marneffe, l’avait prise en affection. De toutes les personnes avec lesquelles elle s’était liée, aucune n’avait fait autant de frais pour elle.</p>
       <p>En effet, madame Marneffe, toute aux petits soins pour mademoiselle Fischer, se trouvait, pour ainsi dire vis-à-vis d’elle ce qu’était la cousine Bette vis-à-vis de la baronne, de monsieur Rivet, de Crevel, de tous ceux enfin qui la recevaient à dîner. Les Marneffe avaient excité surtout la commisération de la cousine Bette en lui laissant voir la profonde détresse de leur ménage, et la vernissant, comme toujours, des plus belles couleurs : des amis obligés et ingrats, des maladies, une mère, madame Fortin, à qui l’on avait caché sa détresse, et morte en se croyant toujours dans l’opulence, grâce à des sacrifices plus qu’humains, etc.</p>
@@ -1114,7 +1107,7 @@
       <p>– Je marie ma fille, dit le baron Hulot, et je suis sans fortune, comme tous ceux qui continuent à faire de l’administration, par une ingrate époque où jamais cinq cents bourgeois assis sur des banquettes ne sauront récompenser largement les gens dévoués comme le faisait l’Empereur.</p>
       <p><emph>– Allons, fus affez ei Chosépha</emph> ! reprit le pair de France, <emph>ce qui egsblique dut ! endre nus, la tuc t’Hérufille fus a renti ein vier zerfice en fus ôdant cedde zangsie là te tessis fondre pirse.</emph></p>
       <quote>
-        <l rend="lmarg2">Chai gonni ce malhir, et chi zai gombadir.</l>
+        <l>Chai gonni ce malhir, et chi zai gombadir.</l>
       </quote>
       <p>ajouta-t-il en croyant réciter un vers français. <emph>Égoudez ein gonzèle t’ami ? Fermez fôdre pudique, u fis serez tégomé…</emph></p>
       <p>Cette véreuse affaire se fit par l’entremise d’un petit usurier nommé Vauvinet, un de ces <emph>faiseurs</emph> qui se tiennent en avant des grosses maisons de banque, comme ce petit poisson qui semble être le valet du requin.</p>
@@ -1294,48 +1287,13 @@
       <p>– Tu nous reviendras pour servir le thé, ma Bette ? dit Valérie.</p>
       <p>– Je l’espère…</p>
       <p>– Comment, tu l’espères ? en serais-tu venue à coucher avec Adeline pour boire ses larmes pendant qu’elle dort ?</p>
-      <p>– Si cela se pouvait ! répondit Lisbeth en riant, je ne dirais pas non. Elle expie son bonheur, je suis heureuse, je me souviens de mon enfance. Chacun son tour. Elle sera dans la boue, et moi ! je serai comtesse de Forzheim !…*</p>
-      <p>
-        <hi rend="bg_ffff00">* Quand on a passé souvent par cette ville, on ne peut pas ne point avoir lu sur les poteaux </hi>
-        <hi rend="bg_ffff00">
-          <emph>Pforzheim (sic).</emph>
-        </hi>
-        <hi rend="bg_ffff00">Mais nous avons jugé cette orthographe incompatible avec la prononciation française ; et nous avons mis Forzheim comme nous disons Mayence au lieu de </hi>
-        <hi rend="bg_ffff00">
-          <emph>Mainz.</emph>
-        </hi>
-        <hi rend="bg_ffff00">D’ailleurs Forzheim, m’écrit un Allemand, ne veut pas dire </hi>
-        <hi rend="bg_ffff00">
-          <emph>Pétaudière</emph>
-        </hi>
-        <hi rend="bg_ffff00">, il faudrait Furzheim. Pforzheim n’est pas un mot de la langue germanique. Les Romains (au temps de Jules-César), fondèrent cette ville et la nommèrent, à cause de sa situation, </hi>
-        <hi rend="bg_ffff00"><emph>Porta Hercinæ</emph>,
-        </hi>
-        <hi rend="bg_ffff00">c’est-à-dire </hi>
-        <hi rend="bg_ffff00">
-          <emph>Porte de la Forêt-Noire.</emph>
-        </hi>
-        <hi rend="bg_ffff00">Au moyen-âge, on a dit </hi>
-        <hi rend="bg_ffff00">
-          <emph>Phorcæ</emph>
-        </hi>
-        <hi rend="bg_ffff00">par </hi>
-        <hi rend="bg_ffff00">abréviation ; puis le peuple a donné une terminaison germanique au nom latin abrégé. De là </hi>
-        <hi rend="bg_ffff00"><emph>Pforzheim</emph> !
-        </hi>
-        <hi rend="bg_ffff00">En tout pays, les noms sont le résultat de ces bizarres transformations. La Ferté-sous-Jouarre et Aranjuez sont, dans chaque pays, la corruption d’Ara </hi>
-        <hi rend="bg_ffff00">
-          <emph>Jovis, Autel de Jupiter.</emph>
-        </hi>
-      </p>
-      <p>
-        <hi rend="bg_ffff00">Pforzheim, célèbre d’ailleurs par ses </hi>
-        <hi rend="bg_ffff00">
-          <emph>trois cents soldats</emph>
-        </hi>
-        <hi rend="bg_ffff00">qui, dans la guerre de trente ans, succombèrent à la manière des trois cents Spartiates de Léonidas, a vu naître Reuchlin et Gall.</hi>
-      </p>
-      <p>J’ajoute cette note pour en finir sur ce point, car j’ai reçu onze lettres à ce sujet. La géographie et l’orthographe ont leurs périls.</p>
+            <p>– Si cela se pouvait ! répondit Lisbeth en riant, je ne dirais pas non. Elle expie son bonheur, je suis heureuse, je me souviens de mon enfance. Chacun son tour. Elle sera dans la boue, et moi ! je serai comtesse de Forzheim !…<note resp="author" place="bottom">
+                <p>Quand on a passé souvent par cette ville, on ne peut pas ne point avoir lu sur les poteaux <emph>Pforzheim (sic).</emph> Mais nous avons jugé cette orthographe incompatible avec la prononciation française ; et nous avons mis Forzheim comme nous disons Mayence au lieu de <emph>Mainz.</emph> D’ailleurs Forzheim, m’écrit un Allemand, ne veut pas dire <emph>Pétaudière</emph>, il faudrait Furzheim. Pforzheim n’est pas un mot de la langue germanique. Les Romains (au temps de Jules-César), fondèrent cette ville et la nommèrent, à cause de sa situation,<emph>Porta Hercinæ</emph>, c’est-à-dire <emph>Porte de la Forêt-Noire.</emph> Au moyen-âge, on a dit <emph>Phorcæ</emph> par abréviation ; puis le peuple a donné une terminaison germanique au nom latin abrégé. De là <emph>Pforzheim</emph> ! En tout pays, les noms sont le résultat de ces bizarres transformations. La Ferté-sous-Jouarre et Aranjuez sont, dans chaque pays, la corruption d’<emph>Ara Jovis, Autel de Jupiter</emph>.</p>
+                <p>Pforzheim, célèbre d’ailleurs par ses <emph>trois cents soldats</emph> qui, dans la guerre de trente ans, succombèrent à la manière des trois cents Spartiates de Léonidas, a vu naître Reuchlin et Gall.
+                </p>
+                <p>J’ajoute cette note pour en finir sur ce point, car j’ai reçu onze lettres à ce sujet. La géographie et l’orthographe ont leurs périls.</p></note>
+            </p>
+      
       <p>Lisbeth se dirigea vers la rue Plumet, où elle allait depuis quelque temps, comme on va au spectacle, pour s’y repaître d’émotions.</p>
       <p>L’appartement choisi par Hulot pour sa femme consistait en une grande et vaste antichambre, un salon et une chambre à coucher avec cabinet de toilette. La salle à manger était latéralement contiguë au salon. Deux chambres de domestique et une cuisine, situées au troisième étage, complétaient ce logement, digne encore d’un Conseiller-d’État, directeur à la Guerre. L’hôtel, la cour et l’escalier étaient majestueux.</p>
       <p>La baronne, obligée de meubler son salon, sa chambre et la salle à manger avec les reliques de sa splendeur, avait pris le meilleur dans les débris de l’hôtel, rue de l’Université.</p>
@@ -1439,8 +1397,8 @@
       <p>Crevel, toujours bourgeois et boutiquier en diable, quoique maire de Paris resta malheureusement en position plus longtemps que son collaborateur, et le baron put saisir au passage la révélation involontaire de Crevel.</p>
       <p>Ce fut un trait de plus dans le cœur du vieillard amoureux qui résolut d’avoir une explication avec Valérie.</p>
       <p>– Ce soir, se dit également Crevel en arrangeant ses cartes, il faut en finir…</p>
-      <p><emph xml:lang="fr">– Vous avez du cœur</emph> !… lui cria Marneffe, et vous venez d’y renoncer.</p>
-      <p>– Ah ! pardon, répondit Crevel en voulant reprendre sa carte. Ce baron-là me semble de trop, continuait-il en se parlant à lui-même. Que Valérie vive avec mon baron à moi, c’est ma vengeance, et je sais le moyen de m’en débarrasser ; mais ce cousin-là !… c’est un baron de trop, je ne veux pas être <emph xml:lang="fr">jobardé</emph>, je veux savoir de quelle manière il est son parent !</p>
+      <p><emph>– Vous avez du cœur</emph> !… lui cria Marneffe, et vous venez d’y renoncer.</p>
+      <p>– Ah ! pardon, répondit Crevel en voulant reprendre sa carte. Ce baron-là me semble de trop, continuait-il en se parlant à lui-même. Que Valérie vive avec mon baron à moi, c’est ma vengeance, et je sais le moyen de m’en débarrasser ; mais ce cousin-là !… c’est un baron de trop, je ne veux pas être <emph>jobardé</emph>, je veux savoir de quelle manière il est son parent !</p>
       <p>Ce soir-là, par un de ces bonheurs qui n’arrivent qu’aux jolies femmes, Valérie était délicieusement mise.</p>
       <p>Sa blanche poitrine étincelait serrée dans une guipure dont les tons roux faisaient valoir le satin mat de ces belles épaules des Parisiennes, qui savent (par quels procédés, on l’ignore !) avoir de belles chairs et rester sveltes. Vêtue d’une robe de velours noir qui semblait à chaque instant près de quitter ses épaules, elle était coiffée en dentelle mêlée à des fleurs à grappes. Ses bras, à la fois mignons et potelés, sortaient de manches à sabots fourrées de dentelles. Elle ressemblait à ces beaux fruits coquettement arrangés dans une belle assiette et qui donnent des démangeaisons à l’acier du couteau.</p>
       <p>– Valérie, disait le Brésilien à l’oreille de la jeune femme, je te reviens fidèle ; mon oncle est mort, et je suis deux fois plus riche que je ne l’étais à mon départ. Je veux vivre et mourir à Paris, près de toi et pour toi.</p>
@@ -1563,9 +1521,9 @@
       <p>– Écoutez-moi bien ! Il aime madame Marneffe…</p>
       <p>– Pas possible ! monsieur le baron, pas possible ! dit-elle en joignant les mains.</p>
       <p xml:lang="fr">– Il aime madame Marneffe ! répéta fort impérativement le baron. Comment font-ils ? je n’en sais rien ; mais je veux le savoir et vous le saurez. Si vous pouvez me mettre sur les traces de cette intrigue, votre fils sera notaire.</p>
-      <p>– Monsieur le baron, <emph xml:lang="fr">ne vous mangez pas les sangs</emph> comme ça, reprit madame Olivier. Madame vous aime et n’aime que vous ; sa femme de chambre le sait bien, et nous nous disons comme cela que vous êtes l’homme le plus heureux de la terre, car vous savez tout ce que vaut madame… Ah ! c’est une perfection… Elle se lève à dix heures tous les jours ; pour lors, elle déjeune, bon. Eh ! bien, elle en a pour une bonne heure à faire sa toilette, et tout ça la mène à deux heures ; pour lors elle va se promener aux Tuileries au vu et au su de tout le monde ; elle est toujours rentrée n’à quatre heures, pour l’heure de votre arrivée… Oh ! c’est réglé comme n’une pendule. Elle n’a pas de secrets pour sa femme de chambre, Reine n’en a pas pour moi, allez ! Reine ne peut pas n’en n’avoir, rapport à mon fils pour qui n’elle a des bontés… Vous voyez bien que si madame avait des rapports avec monsieur Crevel, nous le saurerions.</p>
+      <p>– Monsieur le baron, <emph>ne vous mangez pas les sangs</emph> comme ça, reprit madame Olivier. Madame vous aime et n’aime que vous ; sa femme de chambre le sait bien, et nous nous disons comme cela que vous êtes l’homme le plus heureux de la terre, car vous savez tout ce que vaut madame… Ah ! c’est une perfection… Elle se lève à dix heures tous les jours ; pour lors, elle déjeune, bon. Eh ! bien, elle en a pour une bonne heure à faire sa toilette, et tout ça la mène à deux heures ; pour lors elle va se promener aux Tuileries au vu et au su de tout le monde ; elle est toujours rentrée n’à quatre heures, pour l’heure de votre arrivée… Oh ! c’est réglé comme n’une pendule. Elle n’a pas de secrets pour sa femme de chambre, Reine n’en a pas pour moi, allez ! Reine ne peut pas n’en n’avoir, rapport à mon fils pour qui n’elle a des bontés… Vous voyez bien que si madame avait des rapports avec monsieur Crevel, nous le saurerions.</p>
       <p>Le baron remonta chez madame Marneffe le visage rayonnant, et convaincu d’être le seul homme aimé de cette affreuse courtisane, aussi décevante, mais aussi belle, aussi gracieuse qu’une sirène.</p>
-      <p>Crevel et Marneffe commençaient un second piquet. Crevel perdait, comme perdent tous les gens qui ne sont pas à leur jeu. Marneffe, qui savait la cause des distractions du maire, en profitait sans scrupules : il regardait les cartes à prendre, il <emph xml:lang="fr">écartait</emph> en conséquence ; puis, voyant dans le jeu de son adversaire, il jouait à coup sûr.</p>
+      <p>Crevel et Marneffe commençaient un second piquet. Crevel perdait, comme perdent tous les gens qui ne sont pas à leur jeu. Marneffe, qui savait la cause des distractions du maire, en profitait sans scrupules : il regardait les cartes à prendre, il <emph>écartait</emph> en conséquence ; puis, voyant dans le jeu de son adversaire, il jouait à coup sûr.</p>
       <p>Le prix de la fiche étant de vingt sous, il avait déjà volé trente francs au maire au moment où le baron rentrait.</p>
       <p>– Eh bien ! dit le Conseiller-d’État étonné de ne trouver personne, vous êtes seuls ! où sont-ils tous ?</p>
       <p>– Votre belle humeur a mis tout le monde en fuite ! répondit Crevel.</p>
@@ -1618,7 +1576,7 @@
       <p>– Ah ! vous voulez que le baron Hulot sache bien que vous lui prenez sa maîtresse, pour avoir votre revanche de l’enlèvement de Josépha… Rien ne me prouve mieux votre bassesse. Vous dites aimer une femme, vous la traitez de duchesse, et vous voulez la déshonorer ? Tenez, mon cher, vous avez raison : cette femme ne vaut pas Josépha. Cette demoiselle a le courage de son infamie, tandis que moi je suis une hypocrite qui devrait être fouettée en place publique. Hélas ! Josépha se protège par son talent et par sa fortune. Mon seul rempart, à moi, c’est mon honnêteté ; je suis encore une digne et vertueuse bourgeoise ; mais si vous faites un éclat, que deviendrai-je ? si j’avais la fortune, encore passe ! Mais j’ai maintenant tout au plus quinze mille francs de rentes, n’est-ce pas ?</p>
       <p>– Beaucoup plus, dit Crevel, je vous ai doublé depuis deux mois vos économies dans l’Orléans.</p>
       <p>– Eh bien ! la considération à Paris commence à cinquante mille francs de rentes, vous n’avez pas à me donner la monnaie de la position que je perdrai. Que voulais-je ? faire nommer Marneffe Chef de bureau ; il aurait six mille francs d’appointemens ; il a vingt-sept ans de service, dans trois ans j’aurais droit à quinze cents francs de pension, s’il mourait. Vous, comblé de bontés par moi, gorgé de bonheur, vous ne savez pas attendre ! Et cela dit aimer ! s’écria-t-elle.</p>
-      <p>– Si j’ai commencé par un calcul, dit Crevel, depuis je suis devenu votre <emph xml:lang="fr">toutou</emph>. Vous me mettez les pieds sur le cœur, vous m’écrasez, vous m’abasourdissez, et je vous aime comme je n’ai jamais aimé. Valérie, je vous aime autant que j’aime Célestine ! Pour vous, je suis capable de tout… Tenez ! au lieu de venir deux fois par semaine, rue du Dauphin, venez-y trois.</p>
+      <p>– Si j’ai commencé par un calcul, dit Crevel, depuis je suis devenu votre <emph>toutou</emph>. Vous me mettez les pieds sur le cœur, vous m’écrasez, vous m’abasourdissez, et je vous aime comme je n’ai jamais aimé. Valérie, je vous aime autant que j’aime Célestine ! Pour vous, je suis capable de tout… Tenez ! au lieu de venir deux fois par semaine, rue du Dauphin, venez-y trois.</p>
       <p>– Rien que cela ? vous vous rajeunissez, mon cher…</p>
       <p>– Laissez-moi renvoyer Hulot, l’humilier, vous en débarrasser, dit Crevel sans répondre à cette insolence, n’admettez plus ce Brésilien, soyez toute à moi, vous ne vous en repentirez pas. D’abord, je vous donnerai une inscription de huit mille francs<note place="bottom">Erreur du Siècle : « frans » au lieu de « francs ». </note> de rentes, mais viagères ; je ne vous en joindrai la nue propriété qu’après cinq ans de constance.</p>
       <p>– Toujours des marchés ! les bourgeois n’apprendront jamais à donner ! Vous voulez vous faire des relais d’amour dans la vie avec des inscriptions de rentes ?… Ah ! boutiquier, marchand de pommade ! tu étiquettes tout ! Hector me disait que le duc d’Hérouville avait apporté trente mille livres de rentes à Josépha dans un cornet à dragées d’épicier ! je vaux six fois mieux que Josépha ! Ah ! être aimée ! dit-elle en refrisant ses anglaises et allant se regarder dans la glace. Henri m’aime, il vous tuerait comme une mouche à un signe de mes yeux ! Hulot m’aime, il met sa femme sur la paille… Allez, soyez bon père de famille, mon cher. Oh ! vous avez, pour faire vos fredaines, trois cent mille francs en dehors de votre fortune, un magot enfin, et vous ne pensez qu’à l’augmenter…</p>
@@ -1643,7 +1601,7 @@
       <p>Une fois les verrous tirés, madame Olivier raconta la tentative de corruption que s’était permise le haut fonctionnaire à son égard.</p>
       <p>– Vous vous êtes conduite comme un ange, ma chère Olivier ; nous causerons de cela demain.</p>
       <p>Valérie atteignit le troisième étage avec la rapidité d’une flèche, frappa trois petits coups à la porte de Lisbeth, et revint chez elle où elle donna ses ordres à mademoiselle Reine.</p>
-      <p>– Non ! saperlotte, il y a que les femmes du monde pour savoir aimer ainsi ! se disait Crevel. Comme elle descendait l’escalier en l’éclairant de ses regards, je l’entraînais ! Jamais Josépha… Josépha, c’est de la <emph xml:lang="fr">gnognote</emph> ! cria l’ancien commis-voyageur. Qu’ai-je dit là ? <emph xml:lang="fr">gnognote</emph>… Mon Dieu ! je suis capable de lâcher cela quelque jour aux Tuileries… Non, si Valérie ne fait pas mon éducation, je ne puis rien être… Moi qui tiens tant à paraître grand seigneur… Ah ! quelle femme, elle me remue autant qu’une colique, quand elle me regarde froidement… Quelle grâce ! quel esprit ! Jamais Josépha ne m’a donné de pareilles émotions. Et quelles perfections inconnues ! Ah ! bien, voilà mon homme.</p>
+      <p>– Non ! saperlotte, il y a que les femmes du monde pour savoir aimer ainsi ! se disait Crevel. Comme elle descendait l’escalier en l’éclairant de ses regards, je l’entraînais ! Jamais Josépha… Josépha, c’est de la <emph>gnognote</emph> ! cria l’ancien commis-voyageur. Qu’ai-je dit là ? <emph >gnognote</emph>… Mon Dieu ! je suis capable de lâcher cela quelque jour aux Tuileries… Non, si Valérie ne fait pas mon éducation, je ne puis rien être… Moi qui tiens tant à paraître grand seigneur… Ah ! quelle femme, elle me remue autant qu’une colique, quand elle me regarde froidement… Quelle grâce ! quel esprit ! Jamais Josépha ne m’a donné de pareilles émotions. Et quelles perfections inconnues ! Ah ! bien, voilà mon homme.</p>
       <p>Il apercevait, dans les ténèbres de la rue de Babylone, le grand Hulot, un peu voûté, se glissant le long des planches d’une maison en construction, et il alla droit à lui.</p>
       <p>– Bonjour, baron, car il est plus de minuit, mon cher ! Que diable faites-vous là ?… vous vous promenez par une jolie petite pluie fine. À nos âges, c’est mauvais. Voulez-vous que je vous donne un bon conseil ? revenons chacun chez nous ; car, entre nous, vous ne verrez pas de lumière à la croisée…</p>
       <p>En entendant cette dernière phrase, le baron sentit qu’il avait soixante-trois ans, et que son manteau était mouillé.</p>
@@ -1676,7 +1634,7 @@
       <p>– Il y a deux lits, dit Crevel à Hulot en montrant un divan d’où l’on tirait un lit comme on tire le tiroir d’une commode. En voici un, l’autre est dans la chambre. Ainsi nous pouvons passer ici la nuit tous les deux.</p>
       <p>– Les preuves ! dit le baron.</p>
       <p>Crevel prit un bougeoir et mena son ami dans la chambre à coucher, où, sur une causeuse, Hulot vit une robe de chambre magnifique appartenant à Valérie, et qu’elle avait portée rue Vanneau, pour s’en faire honneur avant de l’employer à la petite maison Crevel.</p>
-      <p>Crevel fit jouer le secret d’un joli petit meuble en marqueterie appelé <emph xml:lang="fr">bonheur du jour</emph>, y fouilla, saisit une lettre et la tendit au baron.</p>
+      <p>Crevel fit jouer le secret d’un joli petit meuble en marqueterie appelé <emph>bonheur du jour</emph>, y fouilla, saisit une lettre et la tendit au baron.</p>
       <p>– Tiens, lis.</p>
       <p>Le Conseiller-d’État lut ce petit billet écrit au crayon :</p>
 <q type="letter">
@@ -1710,9 +1668,9 @@
       <p>– C’est une idée ! repartit le baron ; mais elle nous tromperait toujours, car, mon gros père, que pense-tu de ce Brésilien ?…</p>
       <p>– Ah ! vieux lapin, tu as raison, nous sommes joués comme des… des actionnaires !… dit Crevel. Toutes ces femmes-là sont des commandites !</p>
       <p>– C’est donc elle, dit le baron, qui t’a parlé de la lumière sur la fenêtre ?…</p>
-      <p>– Mon bonhomme, reprit Crevel en se mettant en position, nous sommes <emph xml:lang="fr">floués</emph> ! Valérie est une… Elle m’a dit de te tenir ici… J’y vois clair… Elle a son Brésilien… Ah ! je renonce à elle, car, si vous lui teniez les mains, elle trouverait moyen de vous tromper avec ses pieds ! Tiens, c’est une infâme, une rouée !</p>
+      <p>– Mon bonhomme, reprit Crevel en se mettant en position, nous sommes <emph>floués</emph> ! Valérie est une… Elle m’a dit de te tenir ici… J’y vois clair… Elle a son Brésilien… Ah ! je renonce à elle, car, si vous lui teniez les mains, elle trouverait moyen de vous tromper avec ses pieds ! Tiens, c’est une infâme, une rouée !</p>
       <p>– Elle est au-dessous des prostituées, dit le baron. Josépha, Jenny Cadine étaient dans leur droit en nous trompant, elles font métier de leurs charmes, elles !</p>
-      <p>– Mais elle ! qui fait la sainte, la prude, dit Crevel. Tiens, Hulot, retourne à ta femme, car tu n’es pas bien dans tes affaires, on commence à causer de certaines lettres de change souscrites à un petit usurier dont la spécialité consiste à prêter aux lorettes, un certain Vauvinet. Quant à moi, me voilà guéri des femmes comme il faut. D’ailleurs, à nos âges, quel besoin avons-nous de ces drôlesses, qui, je suis franc, ne peuvent pas ne point nous tromper ? Tu as des cheveux blancs, des fausses dents, baron. Moi, j’ai l’air de Silène. Je vais me mettre à amasser. L’argent ne trompe point. Si le Trésor s’ouvre tous les six mois pour tout le monde, il vous donne au moins des intérêts, et cette femme en coûte… Avec toi, mon cher confrère Gubetta, mon vieux complice, je pourrais accepter une situation <emph xml:lang="fr">chocnoso…</emph> non, philosophique ; mais un Brésilien qui, peut-être, apporte de son pays des denrées coloniales, suspectes…</p>
+      <p>– Mais elle ! qui fait la sainte, la prude, dit Crevel. Tiens, Hulot, retourne à ta femme, car tu n’es pas bien dans tes affaires, on commence à causer de certaines lettres de change souscrites à un petit usurier dont la spécialité consiste à prêter aux lorettes, un certain Vauvinet. Quant à moi, me voilà guéri des femmes comme il faut. D’ailleurs, à nos âges, quel besoin avons-nous de ces drôlesses, qui, je suis franc, ne peuvent pas ne point nous tromper ? Tu as des cheveux blancs, des fausses dents, baron. Moi, j’ai l’air de Silène. Je vais me mettre à amasser. L’argent ne trompe point. Si le Trésor s’ouvre tous les six mois pour tout le monde, il vous donne au moins des intérêts, et cette femme en coûte… Avec toi, mon cher confrère Gubetta, mon vieux complice, je pourrais accepter une situation <emph>chocnoso…</emph> non, philosophique ; mais un Brésilien qui, peut-être, apporte de son pays des denrées coloniales, suspectes…</p>
       <p>– La femme, dit Hulot, est un être inexplicable.</p>
       <p>– Je l’explique, dit Crevel : nous sommes vieux, le Brésilien est jeune et beau…</p>
       <p><pb n="238" xml:id="p238"/>– Oui, c’est vrai, dit Hulot, je l’avoue : nous vieillissons. Mais, mon ami, comment renoncer à voir ces belles créatures se déshabillant, roulant leurs cheveux, nous regardant avec un fin sourire à travers leurs doigts quand elles mettent leurs papillottes, faisant toutes leurs mines, débitant leurs mensonges, et se disant peu aimées, quand elles nous voient harassés par les affaires, et nous distrayant malgré tout.</p>
@@ -1747,7 +1705,7 @@
       <p>Vers les midi, Valérie et Lisbeth causaient dans la magnifique chambre à coucher où cette dangereuse Parisienne donnait à sa toilette ces dernières façons qu’une femme tient à donner elle-même.</p>
       <p>Les verrous mis, les portières tirées, Valérie raconta dans leurs moindres détails tous les événemens de la soirée, de la nuit et de la matinée.</p>
       <p>– Es-tu contente, mon bijou ? dit-elle à Lisbeth en terminant. Que dois-je être un jour, madame Crevel ou madame Montès ? Quel est ton avis ?</p>
-      <p>– Crevel n’a pas plus de dix ans à vivre, libertin comme il l’est, répondit Lisbeth, et Montès est jeune. Crevel te laissera trente mille francs de rentes, environ. Que Montès attende, il sera bien assez heureux en restant le Benjamin. Ainsi vers trente-trois ans, tu peux, ma chère enfant, en te conservant belle, épouser ton Brésilien et jouer un grand rôle avec soixante mille francs de rentes à toi, surtout <emph xml:lang="fr">protégée</emph> par une maréchale…</p>
+      <p>– Crevel n’a pas plus de dix ans à vivre, libertin comme il l’est, répondit Lisbeth, et Montès est jeune. Crevel te laissera trente mille francs de rentes, environ. Que Montès attende, il sera bien assez heureux en restant le Benjamin. Ainsi vers trente-trois ans, tu peux, ma chère enfant, en te conservant belle, épouser ton Brésilien et jouer un grand rôle avec soixante mille francs de rentes à toi, surtout <emph>protégée</emph> par une maréchale…</p>
       <p>– Oui, mais Montès est Brésilien, il n’arrivera jamais à rien, fit observer Valérie.</p>
       <p>– Nous sommes, dit Lisbeth, dans un temps de chemins de fer, où les étrangers arrivent en France à occuper de grandes positions.</p>
       <p>– Nous verrons, reprit Valérie, quand Marneffe sera mort, et il n’a pas longtemps à souffrir.</p>
@@ -1767,8 +1725,8 @@
       <p>– Viens dans ma chambre.</p>
       <p>Cette chambre, tendue de perse à fleurs roses et à feuillages verts sur un fond blanc, sans cesse frappée par le soleil ainsi que le tapis, avait passé. Depuis longtemps, les rideaux n’avaient pas été blanchis. On y sentait la fumée du cigare de Wenceslas qui, devenu grand seigneur de l’art et né gentilhomme, déposait les cendres du tabac sur les bras des fauteuils, sur les plus jolies choses, en homme aimé de qui l’on souffre tout, en homme riche qui ne prend pas de soins bourgeois.</p>
       <p>– Eh bien ! parlons de tes affaires, demanda Lisbeth en voyant sa belle cousine muette dans le fauteuil où elle s’était plongée. Mais qu’as-tu ? je te trouve pâlotte, ma chère.</p>
-      <p>– Il a paru deux nouveaux articles où mon pauvre Wenceslas est abîmé ; je les ai lus, je les lui cache, car il se découragerait tout-à-fait. Le marbre du maréchal Moncornet est regardé comme tout-à-fait mauvais. On fait grâce aux bas-reliefs pour vanter avec une atroce perfidie le talent d’ornemaniste de Wenceslas, et afin de donner plus de poids à cette opinion que l’<emph xml:lang="fr">art</emph> sévère nous est interdit ! Stidmann, supplié par moi de dire la vérité, m’a désespérée en m’avouant que son opinion à lui s’accordait avec celle de tous les artistes, des critiques et du public. – « Si Wenceslas, m’a-t-il dit, là, dans le jardin avant le déjeuner, n’expose pas, l’année prochaine, un chef-d’œuvre, il doit abandonner la grande sculpture et s’en tenir aux idylles, aux figurines, aux œuvres de bijouterie et de haute orfèvrerie ! » Cet arrêt m’a causé la plus vive peine, car Wenceslas n’y voudra jamais souscrire : il se sent, il a tant de belles idées…</p>
-      <p>– Ce n’est pas avec des idées qu’on paie ses fournisseurs, fit observer Lisbeth, je me tuais à lui dire cela… C’est avec de l’argent. L’argent ne s’obtient que par des choses faites, et qui plaisent assez aux bourgeois pour être achetées. Quand il s’agit de vivre, il vaut mieux que le sculpteur ait <emph xml:lang="fr">sur son établi</emph> le modèle d’un flambeau, d’un garde-cendres, d’une table, qu’un groupe et qu’une statue, car tout le monde a besoin de cela, tandis que l’amateur de groupes et son argent se font attendre pendant des mois entiers…</p>
+      <p>– Il a paru deux nouveaux articles où mon pauvre Wenceslas est abîmé ; je les ai lus, je les lui cache, car il se découragerait tout-à-fait. Le marbre du maréchal Moncornet est regardé comme tout-à-fait mauvais. On fait grâce aux bas-reliefs pour vanter avec une atroce perfidie le talent d’ornemaniste de Wenceslas, et afin de donner plus de poids à cette opinion que l’<emph>art</emph> sévère nous est interdit ! Stidmann, supplié par moi de dire la vérité, m’a désespérée en m’avouant que son opinion à lui s’accordait avec celle de tous les artistes, des critiques et du public. – « Si Wenceslas, m’a-t-il dit, là, dans le jardin avant le déjeuner, n’expose pas, l’année prochaine, un chef-d’œuvre, il doit abandonner la grande sculpture et s’en tenir aux idylles, aux figurines, aux œuvres de bijouterie et de haute orfèvrerie ! » Cet arrêt m’a causé la plus vive peine, car Wenceslas n’y voudra jamais souscrire : il se sent, il a tant de belles idées…</p>
+      <p>– Ce n’est pas avec des idées qu’on paie ses fournisseurs, fit observer Lisbeth, je me tuais à lui dire cela… C’est avec de l’argent. L’argent ne s’obtient que par des choses faites, et qui plaisent assez aux bourgeois pour être achetées. Quand il s’agit de vivre, il vaut mieux que le sculpteur ait <emph >sur son établi</emph> le modèle d’un flambeau, d’un garde-cendres, d’une table, qu’un groupe et qu’une statue, car tout le monde a besoin de cela, tandis que l’amateur de groupes et son argent se font attendre pendant des mois entiers…</p>
       <p>– Tu as raison, ma bonne Lisbeth ! dis-lui donc cela ; moi, je n’en ai pas le courage… D’ailleurs, comme il le disait à Stidmann, s’il se remet à l’ornement, à la petite sculpture, il faudra renoncer à l’institut, aux grandes créations de l’art, et nous n’aurons plus les trois cent mille francs de travaux que Versailles, la ville de Paris, le ministère nous tenaient en réserve. Voilà ce que nous ôtent ces affreux articles dictés par des concurrens qui voudraient hériter de nos commandes.</p>
       <p>– Et ce n’est pas là ce que tu rêvais, pauvre petite chatte ! dit Bette en baisant Hortense au front, tu voulais un gentilhomme dominant l’art, à la tête des sculpteurs… Mais c’est de la poésie, vois-tu… Ce rêve exige cinquante mille francs de rentes, et vous n’en avez que deux mille quatre cents, tant que je vivrai ; trois mille après ma mort.</p>
       <p>Quelques larmes vinrent dans les yeux d’Hortense, et Bette les lapa<note place="bottom">Erreur du Siècle : « lappa » au lieu de « lapa ». </note> du regard comme une chatte boit du lait.</p>
@@ -2545,7 +2503,7 @@
       <p>– Il y aurait bien une ressource, dit-il ; mais… c’est bien chanceux… Oui, Crevel est à couteaux tirés avec sa fille… Ah ! il a bien de l’argent, lui seul pourrait…</p>
       <p>– Tiens, Hector, il vaut mieux que ta femme périsse que de laisser périr notre oncle, ton frère, et l’honneur de la famille ! dit la baronne frappée d’un trait de lumière. Oui, je puis vous sauver tous… Oh ! mon Dieu ! quelle ignoble pensée ! comment a-t-elle pu me venir ?</p>
       <p>Elle joignit les mains, tomba sur ses genoux, et fit une prière. En se relevant, elle vit une si folle expression de joie sur la figure de son mari, que la pensée diabolique revint, et alors Adeline tomba dans la tristesse des idiots.</p>
-      <p>– Va, mon ami, cours au ministère, s’écria-t-elle en se réveillant de cette torpeur, tâche d’envoyer un commissaire, il le faut. <emph>Entortille le maréchal<emph/> ! et à ton retour, à cinq heures, tu trouveras peut-être… oui ! tu trouveras deux cent mille francs. Ta famille, ton honneur d’homme, de conseiller d’État, d’administrateur, ta probité, ton fils, tout sera sauvé ; mais ton Adeline sera perdue, et tu ne la reverras jamais. Hector, mon ami, dit-elle en s’agenouillant, lui serrant la main et la baisant, bénis-moi, dis-moi adieu !</p>
+      <p>– Va, mon ami, cours au ministère, s’écria-t-elle en se réveillant de cette torpeur, tâche d’envoyer un commissaire, il le faut. <emph>Entortille le maréchal</emph> ! et à ton retour, à cinq heures, tu trouveras peut-être… oui ! tu trouveras deux cent mille francs. Ta famille, ton honneur d’homme, de conseiller d’État, d’administrateur, ta probité, ton fils, tout sera sauvé ; mais ton Adeline sera perdue, et tu ne la reverras jamais. Hector, mon ami, dit-elle en s’agenouillant, lui serrant la main et la baisant, bénis-moi, dis-moi adieu !</p>
       <p>Ce fut si déchirant qu’en prenant sa femme, la relevant et l’embrassant, Hulot lui dit :</p>
       <p>– Je ne te comprends pas !</p>
       <p>– Si tu comprenais, reprit-elle, je mourrais de honte, ou je n’aurais plus la force d’accomplir ce dernier sacrifice.</p>
@@ -2786,7 +2744,14 @@
       <p>– Qu’est-ce que c’est que celui-là pour qui vous vous alignez ? disait un jour un jeune ouvrier à un vieux capitaine des invalides.</p>
       <p>– Je vais te le dire, gamin, répondit l’officier.</p>
       <p>Le gamin se posa comme un homme qui se résigne à écouter un bavard.</p>
-      <p>– En 1809, dit l’invalide, nous protégions le flanc de la Grande-Armée, commandée par l’empereur, qui marchait sur Vienne. Nous arrivons à un pont défendu par une triple batterie de canons étagés sur une manière de rocher, trois redoutes l’une sur l’autre, et qui enfilaient le pont. Nous étions sous les ordres du maréchal Masséna. Celui que tu vois était alors colonel des grenadiers de la garde, et je marchais avec… Nos colonnes occupaient un côté du fleuve, les redoutes étaient de l’autre. On a trois fois attaqué le pont, et <pb n="267" xml:id="p267"/>trois fois on a boudé. « Qu’on aille chercher Hulot ! a dit le maréchal, il n’y a que lui et ses hommes qui puissent avaler ce morceau-là. » Nous arrivons. Le dernier général qui se retirait de devant ce pont, arrête Hulot sous le feu pour lui dire la manière de s’y prendre, et il embarrassait le chemin. « Il ne me faut pas de conseils, mais de la place pour passer », a dit tranquillement le général en franchissant le pont en tête de sa colonne. Et puis, rrrrran ! une décharge de trente canons sur nous*.</p>
+      <p>– En 1809, dit l’invalide, nous protégions le flanc de la Grande-Armée, commandée par l’empereur, qui marchait sur Vienne. Nous arrivons à un pont défendu par une triple batterie de canons étagés sur une manière de rocher, trois redoutes l’une sur l’autre, et qui enfilaient le pont. Nous étions sous les ordres du maréchal Masséna. Celui que tu vois était alors colonel des grenadiers de la garde, et je marchais avec… Nos colonnes occupaient un côté du fleuve, les redoutes étaient de l’autre. On a trois fois attaqué le pont, et <pb n="267" xml:id="p267"/>trois fois on a boudé. « Qu’on aille chercher Hulot ! a dit le maréchal, il n’y a que lui et ses hommes qui puissent avaler ce morceau-là. » Nous arrivons. Le dernier général qui se retirait de devant ce pont, arrête Hulot sous le feu pour lui dire la manière de s’y prendre, et il embarrassait le chemin. « Il ne me faut pas de conseils, mais de la place pour passer », a dit tranquillement le général en franchissant le pont en tête de sa colonne. Et puis, rrrrran ! une décharge de trente canons sur nous.
+          <note resp="author" place="bottom">
+          <p>Pour éviter les réclamations, nous mettrons ici en note que cet admirable fait d’armes appartient à l’illustre général Legrand, qui alla vers cette triple redoute comme à une fête, ayant au cou une chaîne des cheveux blonds de sa femme, aujourd’hui madame J… de F… Il y a des héroïsmes qu’on ne peut pas inventer, il faut les prendre tout faits. Napoléon fut jaloux de cette affaire. Il vint et dit : – « On aurait pu tourner la position ; vous avez pris le taureau par les cornes. » Après une longue disgrâce, Masséna, dit le général Pelet qui a rapporté ce mot de Napoléon dans son Histoire de la campagne de 1809, avait un commandement en chef ; il voulait stupéfier les Allemands par un coup d’éclat, et ce fut le prélude de ses exploits à Gross-Aspern et à Wagram.
+          </p>
+              <p>Cette précaution oratoire, mise en avant uniquement à cause de l’immense publicité de ce journal, est nécessaire pour prévenir les critiques. On aurait également tort de prêter à l’auteur l’intention de viser au portrait. Le maréchal Cottin, prince de Wissembourg, le Directeur du Personnel, etc., sont des personnages nécessaires dans la <hi rend="sc">Comédie Humaine</hi> ; ils y représentent des choses et ne seront jamais des personnalités. Quand Molière introduisait un monsieur Loyal dans Tartufe, il faisait l’<emph>huissier</emph> et non tel huissier. C’était le fait et non un homme.
+          </p>
+          </note>
+      </p>
       <p>– Ah ! nom d’un petit bonhomme ! s’écria l’ouvrier, ça a dû en faire de ces béquilles !</p>
       <p>– Si tu avais entendu dire paisiblement ce mot-là, comme moi, petit, tu saluerais cet homme jusqu’à terre ! Ce n’est pas si connu que le pont d’Arcole, c’est peut-être plus beau. Et nous sommes arrivés avec Hulot à la course dans les batteries. Honneur à ceux qui y sont restés ! fit l’officier en ôtant son chapeau. Les <emph>Kaiserlicks</emph> ont été étourdis du coup.  Aussi l’Empereur a-t-il nommé comte le vieux que tu vois ; il nous a honorés tous dans notre chef, et ceux-ci ont eu grandement raison de le faire maréchal.</p>
       <p>– Vive le maréchal dit l’ouvrier.</p>
@@ -2800,16 +2765,6 @@
       <p>– Il a eu trois maîtresses, disait le vieillard, et il avait une Adeline ! Pauvre Adeline !…</p>
       <p>– Si vous voulez m’écouter, cria Lisbeth, vous profiterez de votre influence auprès du prince de Wissembourg pour obtenir à ma cousine une place honorable ; elle en aura besoin, car le traitement du baron est engagé pour trois ans.</p>
       <p>– Je vais aller au Ministère, répondit-il, voir le maréchal, savoir ce qu’il pense de mon frère, et lui demander son active protection pour ma sœur. Trouvez une place digne d’elle…</p>
-      <p>
-        <hi rend="bg_ffff00">*Pour éviter les réclamations, nous mettrons ici en note que cet admirable fait d’armes appartient à l’illustre général Legrand, qui alla vers cette triple redoute comme à une fête, ayant au cou une chaîne des cheveux blonds de sa femme, aujourd’hui madame J… de F… Il y a des héroïsmes qu’on ne peut pas inventer, il faut les prendre tout faits. Napoléon fut jaloux de cette affaire. Il vint et dit : – « On aurait pu tourner la position ; vous avez pris le taureau par les cornes. » Après une longue disgrâce, Masséna, dit le général Pelet qui a rapporté ce mot de Napoléon dans son Histoire de la campagne de 1809, avait un commandement en chef ; il voulait stupéfier les Allemands par un coup d’éclat, et ce fut le prélude de ses exploits à Gross-Aspern et à Wagram.</hi>
-      </p>
-      <p>
-        <hi rend="bg_ffff00">Cette précaution oratoire, mise en avant uniquement à cause de l’immense publicité de ce journal, est nécessaire pour prévenir les critiques. On aurait également tort de prêter à l’auteur l’intention de viser au portrait. Le maréchal Cottin, prince de Wissembourg, le Directeur du Personnel, etc., sont des personnages nécessaires dans la COMÉDIE HUMAINE ; ils y représentent des choses et ne seront jamais des personnalités. Quand Molière introduisait un monsieur Loyal dans Tartufe, il faisait l’</hi>
-        <hi rend="bg_ffff00">
-          <emph>huissier</emph>
-        </hi>
-        <hi rend="bg_ffff00"> et non tel huissier. C’était le fait et non un homme.</hi>
-      </p>
       <p>– Les dames de charité de Paris ont formé des associations de bienfaisance d’accord avec l’archevêque ; elles ont besoin d’inspectrices honorablement rétribuées, employées à reconnaître les vrais besoins. De telles fonctions conviendraient à ma chère Adeline, elles seraient selon son cœur.</p>
       <p>– Envoyez demander les chevaux ! dit le maréchal, je vais m’habiller. J’irai, s’il le faut, à Neuilly !</p>
       <p>– Comme il l’aime ! Je la trouverai donc toujours, et partout, dit la Lorraine.</p>
@@ -2933,7 +2888,7 @@
       <p>Le journal ne peut être vaincu que par le journaliste.</p>
       <p>Aussi doit-on se dire, en travestissant Voltaire :</p>
       <quote>
-        <l rend="lmarg2">Le fait-Paris n’est pas ce qu’un vain peuple pense.</l>
+        <l>Le fait-Paris n’est pas ce qu’un vain peuple pense.</l>
       </quote>
       <p>Le maréchal Hulot ramena son frère qui se tint sur le devant de la voiture, en laissant respectueusement son aîné dans le fond.</p>
       <p>Les deux frères n’échangèrent pas une parole. Hector était anéanti. Le maréchal resta concentré, comme un homme qui rassemble ses forces et qui les bande pour soutenir un poids écrasant.</p>
@@ -3057,7 +3012,7 @@
       <p>– Eh bien ! j’aime cela ! s’écria Josépha qui se leva pleine d’enthousiasme. C’est un <emph>brûlage</emph> général ! C’est sardanapale ! c’est grand ! c’est complet ! On est une canaille, mais on a du cœur ! Eh bien ! moi, j’aime mieux un mange-tout, passionné comme toi pour les femmes, que ces froids banquiers sans âme qu’on dit vertueux et qui ruinent des milliers familles avec leurs rails qui sont de l’or pour eux et du fer pour les <emph>Gogos</emph> ! Toi ! tu n’as ruiné que les tiens, tu n’as disposé que de toi ! et puis tu as une excuse, et physique et morale…</p>
       <p>Elle se posa tragiquement et dit :</p>
       <quote>
-        <l rend="lmarg2">C’est Vénus tout entière à sa proie attachée !</l>
+        <l>C’est Vénus tout entière à sa proie attachée !</l>
       </quote>
       <p>– Et voilà, ajouta-t-elle en pirouettant.</p>
       <p>Hulot se trouvait absous par le Vice, le Vice lui souriait au milieu de son luxe effréné.</p>
@@ -3235,7 +3190,7 @@
       <p>Elle alla se regarder dans sa psyché.</p>
       <p>– Ficelons-nous ! se dit-elle. Il faut que le Vice soit sous les armes devant la Vertu ! pauvre femme ! que me veut-elle !… Ça me trouble, moi ! de voir</p>
       <quote>
-        <l rend="lmarg2">Du malheur, auguste victime !…</l>
+        <l>Du malheur, auguste victime !…</l>
       </quote>
       <p>Elle achevait de chanter cet air célèbre, quand sa femme de chambre rentra.</p>
       <p>– Madame, dit la femme de chambre, cette dame est prise d’un tremblement nerveux…</p>
@@ -3937,7 +3892,7 @@
       <p>– Papa, promets-moi de laisser venir l’Église à ton chevet.</p>
       <p>– Jamais, reprit Crevel. Que voulez-vous, j’ai sucé le lait de la révolution, je n’ai pas l’esprit du baron d’Holbach, mais j’ai sa force d’âme. Je suis plus que jamais Régence, Mousquetaire gris, abbé Dubois, et maréchal de Richelieu ! sacrebleu ! Ma pauvre femme, qui perd la tête, vient de m’envoyer un homme à soutane, à moi, l’admirateur de Béranger, l’ami de Lisette, l’enfant de Voltaire et de Rousseau… Le médecin m’a dit, pour me tâter, pour savoir si la maladie m’abattait : – Vous avez vu monsieur l’abbé ?… Eh bien ! j’ai imité le grand Montesquieu. Oui, j’ai regardé le médecin, tenez, comme cela, fit-il en se mettant de trois quarts comme dans son portrait et tendant la main avec autorité, et j’ai dit :</p>
       <quote>
-        <l rend="lmarg2">…. Cet esclave est venu,
+        <l>…. Cet esclave est venu,
 <lb/>Il a montré son ordre, et n’a rien obtenu.</l>
       </quote>
       <p>Son ordre est un joli calembour, qui prouve qu’à l’agonie, monsieur le président de Montesquieu conservait toute la grâce de son génie, car on lui avait envoyé un Jésuite !… J’aime ce passage… on ne peut pas dire de sa vie, mais de sa mort. Ah ! le passage ! encore un calembour !</p>
@@ -4127,7 +4082,7 @@
       <p>Le baron Hulot quitta Paris, trois jours après l’enterrement de sa femme.</p>
       <p>Onze mois après, Victorin apprit indirectement le mariage de son père avec mademoiselle Agathe Piquetard, qui s’était célébré à Isigny, le premier février mil huit cent quarante-six.</p>
       <p>– Les ancêtres peuvent s’opposer au mariage de leurs enfans, mais les enfans ne peuvent pas empêcher les folies des ancêtres en enfance, dit maître Hulot à maître Popinot, le second fils de l’ancien ministre du commerce, qui lui parlait de ce mariage.</p>
-      <p>FIN DE LA COUSINE BETTE.</p>
+        </div>
     </body>
   </text>
 </TEI>

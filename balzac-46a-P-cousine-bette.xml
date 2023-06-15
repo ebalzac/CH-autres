@@ -19,24 +19,27 @@
           de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par
           l’Agence nationale de la recherche (2015-2019).</edition>
         <respStmt>
+          <name>Université de Genève</name>
+          <resp>Océrisation</resp>
+        </respStmt>
+        <respStmt>
           <name>Grometto Clara</name>
           <resp>Établissement du texte et stylage</resp>
         </respStmt>
         <respStmt>
-          <name>Karolina Suchecka, Grometto Clara</name>
+          <name>Grometto Clara</name>
           <resp>Édition XML/TEI</resp>
         </respStmt>
         <respStmt>
-          <name>Frédéric Glorieux</name>
+          <name>Frédéric Glorieux, Karolina Suchecka</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
         <respStmt>
-          <name>NAME</name>
+          <name>Grometto Clara</name>
           <resp>Traitement des images</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université de Genève</publisher>
         <publisher>eBalzac</publisher>
         <publisher>ALITHILA (Université Lille III)</publisher>
         <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
@@ -9669,7 +9672,28 @@
             arrête Hulot sous le feu pour lui dire la manière de s’y prendre, et il embarrassait le
             chemin. – « Il ne me faut pas de conseils, mais de la place pour passer », a dit
             tranquillement le général en franchissant le pont en tête de sa colonne. Et puis,
-            rrrrran ! une décharge de trente canons sur nous (1).</p>
+            rrrrran ! une décharge de trente canons sur nous. <note resp="author" place="bottom">
+              <p>
+            Pour éviter les réclamations, nous mettrons ici en note que cet
+              admirable fait d’armes appartient à l’illustre général Legrand, qui alla vers cette
+              triple redoute comme à une fête, ayant au cou une chaîne des cheveux blonds de sa
+              femme, aujourd’hui madame J… de F… Il y a des héroïsmes qu’on ne peut pas inventer, il faut
+              les prendre tout faits. Napoléon fut jaloux de cette affaire. Il vint et dit : « – On
+              aurait pu tourner la position ; vous avez pris le taureau par les cornes. » Après une
+              longue disgrâce, Masséna, dit le général Pelet qui a rapporté ce mot de Napoléon dans
+              son Histoire de la campagne de 1809, avait un commandement en chef ; il voulait
+              stupéfier les Allemands par un coup d’éclat, et ce fut le prélude de ses exploits à
+              Gross-Aspern et à Wagram.
+          </p>
+          <p>Cette précaution oratoire, mise en avant uniquement à cause de
+            l’immense publicité de ce journal, est nécessaire pour prévenir les critiques. On aurait
+            également tort de prêter à l’auteur l’intention de viser au portrait. Le maréchal
+            Cottin, prince de Wissembourg, le Directeur du Personnel, etc., sont des personnages
+            nécessaires dans la <hi rend="sc">Comédie Humaine</hi> ; ils y représentent des choses et ne seront jamais
+            des personnalités. Quand Molière introduisait un monsieur Loyal dans Tartufe, il faisait
+            l’<emph>huissier</emph> et non tel huissier. C’était le fait et non un homme.</p>
+            </note>
+          </p>
           <p><pb n="188" xml:id="p188"/>– Ah ! nom d’un petit bonhomme ! s’écria l’ouvrier, ça a dû
             en faire de ces béquilles !</p>
           <p>– Si tu avais entendu dire paisiblement ce mot-là, comme moi, petit, <pb n="189"
@@ -9727,28 +9751,6 @@
             moi !…</p>
           <p>Le maréchal, ce vieux garçon, qui n’avait jamais été dorloté, partit en souriant à
             Lisbeth, quoiqu’il eût le cœur navré.</p>
-          <p>
-            <pb n="187" xml:id="p187"/>
-            <hi rend="bg_ffff00">* Pour éviter les réclamations, nous mettrons ici en note que cet
-              admirable fait d’armes appartient à l’illustre général Legrand, qui alla vers cette
-              triple redoute comme à une fête, ayant au cou une chaîne des cheveux blonds de sa
-              femme, aujourd’hui madame</hi>
-            <pb n="188" xml:id="p188"/>
-            <hi rend="bg_ffff00">J… de F… Il y a des héroïsmes qu’on ne peut pas inventer, il faut
-              les prendre tout faits. Napoléon fut jaloux de cette affaire. Il vint et dit : « – On
-              aurait pu tourner la position ; vous avez pris le taureau par les cornes. » Après une
-              longue disgrâce, Masséna, dit le général Pelet qui a rapporté ce mot de Napoléon dans
-              son Histoire de la campagne de 1809, avait un commandement en chef ; il voulait
-              stupéfier les Allemands par un coup d’éclat, et ce fut le prélude de ses exploits à
-              Gross-Aspern et à Wagram.</hi>
-          </p>
-          <p rend="bg_ffff00">Cette précaution oratoire, mise en avant uniquement à cause de
-            l’immense publicité de ce journal, est nécessaire pour prévenir les critiques. On aurait
-            également tort de prêter à l’auteur l’intention de viser au portrait. Le maréchal
-            Cottin, prince de Wissembourg, le Directeur du Personnel, etc., sont des personnages
-            nécessaires dans la COMÉDIE HUMAINE ; ils y représentent des choses et ne seront jamais
-            des personnalités. Quand Molière introduisait un monsieur Loyal dans Tartufe, il faisait
-              l’<emph>huissier</emph> et non tel huissier. C’était le fait et non un homme.</p>
         </div>
         <div>
           <head>LXXXXI <lb/> La mercuriale du prince</head>
