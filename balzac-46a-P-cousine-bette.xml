@@ -2828,7 +2828,7 @@
         <div>
           <head>XXIV<lb/>Où le hasard qui se permet souvent des romans vrais, mène trop bien les
             choses pour qu’elles aillent longtemps
-            <note place="bottom">Erreur de Chlendowski : « lotemps » au lieu de « longtemps ». </note> ainsi. 
+            <note place="bottom">Erreur de Chlendowski : « lotemps » au lieu de « longtemps ». </note> ainsi.
           </head>
           <p><pb n="91" xml:id="p91"/>Le forçat de mademoiselle Fischer, obligé néanmoins de rentrer
             au logis, eut l’idée de cacher la joie de l’amoureux sous la joie de l’artiste, heureux
@@ -4270,7 +4270,7 @@
               egsblique dut ! endre nus, la tuc t’Hérufille fus a renti ein vier zerfice en fus
               ôdant cedde zangsie là te tessis fondre pirse.</emph></p>
           <quote>
-            <l rend="i">Chai gonni ce malhir, et chi zai gombadir.</l>
+            <l>Chai gonni ce malhir, et chi zai gombadir.</l>
           </quote>
           <p><pb n="291" xml:id="p291"/>ajouta-t-il en croyant réciter un vers français.
               <emph>Égoudez ein gonzèle t’ami ? Fermez fôdre pudique, u fis serez tégomé…</emph></p>
@@ -9991,6 +9991,7 @@
           <head>LXXXXIII <lb/> Théorie des canards</head>
           <p><pb n="231" xml:id="p231"/>Le lendemain, quelques journaux contenaient sous des
             rubriques différentes ces différents articles :</p>
+    <q type="press">
           <p>M. le baron Hulot d’Ervy vient de <pb n="232" xml:id="p232"/>demander sa retraite. Les
             désordres de la comptabilité de l’administration algérienne qui ont été signalés par la
             mort et par la fuite de deux employés ont influé sur la détermination prise par ce haut
@@ -10007,6 +10008,7 @@
             1830, M. le baron Hulot n’a cessé d’être une des lumières nécessaires au
               Conseil-d’État<note place="bottom">Erreur de Chlendowski : « Consei-d’État » au lieu
               de « Conseil-d’État ». </note> et au ministère de la guerre.</p>
+</q>
           <q type="press">
             <p>ALGER. – L’affaire dite des fourrages à laquelle quelques journaux ont donné des
               proportions ridicules, est terminée <pb n="234" xml:id="p234"/>par la mort du
