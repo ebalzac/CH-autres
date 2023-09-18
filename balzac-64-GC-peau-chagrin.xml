@@ -65,6 +65,7 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
     <front>
       <titlePage>
         <docAuthor>Honoré de Balzac</docAuthor>
@@ -1250,6 +1251,7 @@
           <p>Voici comment j’exécutai cette entreprise qui me dévorait l’âme et la pensée comme un désir de vengeance mord le cœur d’un moine corse.</p>
         </div>
         <div>
+        <pb n="ill." xml:id="p32a" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/t2p2.jpg"/>
             <head>XXVIII.</head>
           <pb n="7" xml:id="t2pt2p7" facs="https://gallica.bnf.fr/ark:/12148/btv1b8600285b/f21.item/f419.highres"/><p>Fœdora réunissait, chez elle, aux jours de réception, une assemblée trop nombreuse pour qu’il fût possible au portier d’établir une balance exacte entre les sorties et les entrées. Assuré par cette réflexion de pouvoir rester dans la maison sans y causer de scandale, j’attendis impatiemment, pour accomplir mon dessein, la prochaine soirée de la comtesse.</p>
           <p><pb n="8" xml:id="t2pt2p8" facs="https://gallica.bnf.fr/ark:/12148/btv1b8600285b/f21.item/f420.highres"/>En m’habillant, je mis dans la poche de mon gilet, un petit canif anglais, à défaut de poignard. Trouvé sur moi, cet instrument littéraire n’avait rien de suspect ; et, ne sachant pas où pouvait me conduire ma résolution romanesque, je voulais être armé : une lame de canif doit aller jusqu’au cœur.</p>
