@@ -66,8 +66,8 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
       <titlePage>
+        <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
           <titlePart type="main">La Peau de Chagrin</titlePart>
@@ -77,7 +77,7 @@
       <div>
         <epigraph>
       <figure>
-      <graphic url="64/balzac_64FC_001.jpg">
+        <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/balzac_64GI_001.jpg.jpg">
       </graphic>
       </figure>
       <bibl>
