@@ -67,22 +67,20 @@
   <text>
     <front>
       <titlePage>
-        <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
+          <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
           <titlePart type="main">La Peau de Chagrin</titlePart>
           <titlePart type="sub">roman philosophique</titlePart>
         </docTitle>
       </titlePage>
       <div>
-        <epigraph>
       <figure>
-        <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/balzac_64GI_001.jpg.jpg">
+        <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/shandy.jpg">
       </graphic>
       </figure>
       <bibl>
       (<hi rend="sc">Sterne</hi> <title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
-          </epigraph>
       </div>
     </front>
     <body>
