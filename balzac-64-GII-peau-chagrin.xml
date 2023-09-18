@@ -69,7 +69,7 @@
       <titlePage>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
-          <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselinII/illustrations/ill1.JPEG"/> 
+          <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselinII/illustrations/ill1.JPEG"/>
           <titlePart type="main">La Peau de Chagrin</titlePart>
           <titlePart type="sub">roman philosophique</titlePart>
         </docTitle>
@@ -78,12 +78,14 @@
         <graphic url="romans/64-peau-chagrin/gosselinII/illustrations/shandy.PNG">
         </graphic>
       </figure>
+      <bibl>
+      (<hi rend="sc">Sterne</hi> <title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
     </front>
     <body>
         <div>
           <head> PREMIÈRE PARTIE.
-            <lb/>LA PEAU DE CHAGRIN</head> 
-        </div>    
+            <lb/>LA PEAU DE CHAGRIN</head>
+        </div>
         <div>
           <head>I.</head>
           <p><pb n="51" xml:id="gg51" facs="https://gallica.bnf.fr/ark:/12148/bpt6k3107369/f413.highres/f160.highres/f67.highres"/>Vers la fin du mois d’octobre dernier, un jeune homme entra dans le Palais-Royal au moment où s’ouvraient les maisons de jeu, conformément à la loi qui protége, à Paris, une passion essentiellement productive et chère au fisc.</p>
@@ -705,7 +707,7 @@
             <hi rend="sc">fin de la première partie.</hi>
           </p>
         </div>
-      
+
       <div>
         <head>DEUXIÈME PARTIE
         <lb/>LA FEMME SANS CŒUR.</head>
@@ -1587,7 +1589,7 @@
       <div>
         <head>TROISIÈME PARTIE.
           <lb/>L’AGONIE</head>
-      </div>  
+      </div>
         <div>
           <head>XXXV.</head>
           <p><pb n="37" xml:id="g37" facs="https://gallica.bnf.fr/ark:/12148/bpt6k56854633/f17.highres/f50.highres"/>Dans les premiers jours du mois de décembre, un vieillard, septuagénaire au moins, allait, malgré la pluie, par la rue de Varennes, levant le nez à la porte de chaque hôtel et cherchant l’adresse de M. le marquis Raphaël <pb n="38" xml:id="g38" facs="https://gallica.bnf.fr/ark:/12148/bpt6k56854633/f17.highres/f51.highres"/>de Valentin, avec la naïveté d’un enfant et l’air absorbé du philosophe. Il y avait sur cette figure, accompagnée de long cheveux gris en désordre et desséchée comme un vieux parchemin qui se tord dans le feu, l’empreinte d’un violent chagrin, aux prises avec un caractère despotique.</p>
@@ -2553,6 +2555,3 @@
     </body>
   </text>
 </TEI>
-    
-     
-         
