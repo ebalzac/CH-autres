@@ -74,15 +74,15 @@
           <titlePart type="sub">roman philosophique</titlePart>
         </docTitle>
       </titlePage>
-      <div type="dedication">
-          <epigraph>
+      <div>
+        <epigraph>
       <figure>
       <graphic url="64/balzac_64FC_001.jpg">
       </graphic>
       </figure>
       <bibl>
       (<hi rend="sc">Sterne</hi> <title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
-      </epigraph>
+          </epigraph>
       </div>
     </front>
     <body>
