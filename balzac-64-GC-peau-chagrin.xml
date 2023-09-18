@@ -75,11 +75,11 @@
         </docTitle>
       </titlePage>
       <div>
-      <figure rend="center">
+      <figure>
         <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/shandy.jpg">
       </graphic>
       </figure>
-      <bibl rend=center>
+      <bibl>
       (<hi rend="sc">Sterne</hi> <title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
       </div>
     </front>
