@@ -178,7 +178,10 @@
         <p>Les paroles mystérieuses étaient disposées de la manière suivante.</p>
         <p>
           <pb n="40" xml:id="40" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6305407r/f52.highres"/>
-          <hi rend="bg_ffff00">[illustration]</hi>
+          <figure>
+        <graphic url="romans/64-peau-chagrin/charpentierI/illustrations/pdc.PNG">
+        </graphic>
+      </figure>
         </p>
         <p>qui voulait dire en français :</p>
         <q rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.
