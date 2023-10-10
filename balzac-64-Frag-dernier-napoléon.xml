@@ -68,10 +68,14 @@
   <text>
     <front>
       <titlePage>
-        <docAuthor>Honoré de Balzac</docAuthor>
+        <div>
+          <figure rendition="center" xml:id="illus0">
+            <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/frag-dernier-nap/illustrations/illus0.png"/>
+          </figure>
+        </div>
         <docTitle>
           <titlePart type="main">Croquis</titlePart>
-          <titlePart type="sub">Le dernier Napoléon</titlePart>
+          <titlePart type="sub"><hi rend="sc">Le dernier Napoléon.</hi></titlePart>
         </docTitle>
       </titlePage>
     </front>
