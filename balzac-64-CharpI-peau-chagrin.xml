@@ -90,12 +90,14 @@
   <text>
     <front>
       <titlePage>
-        <figure>
-          <graphic url="romans/64-peau-chagrin/gosselinII/illustrations/shandy.PNG">
+        <epigraph>
+        <p><figure rendition="center">
+          <graphic url="/romans/64-peau-chagrin/delloye-lecou/illustrations/shandy.png">
           </graphic>
         </figure>
+        </p>
         <bibl>
-        <hi rend="sc">Sterne</hi> (<title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
+          <hi rend="sc">Sterne</hi> (<title>Tristram Shandy</title>, ch. CCCXXII).</bibl></epigraph>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
           <titlePart type="main">LA <lb/>PEAU DE CHAGRIN.</titlePart>
@@ -184,13 +186,12 @@
         <p>Les paroles mystérieuses étaient disposées de la manière suivante.</p>
         <p>
           <pb n="40" xml:id="40" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6305407r/f52.highres"/></p>
-<div>
           <figure rendition="center" xml:id="pdc2">
         <graphic url="romans/64-peau-chagrin/charpentierI/illustrations/pdc.png"></graphic>
       </figure>
-    </div>
+    
         <p>qui voulait dire en français :</p>
-        <lb/>
+       <p></p>
         <q rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.
 <lb/>MAIS TA VIE M’APPARTIENDRA. DIEU L’A
 <lb/>VOULU AINSI. DÉSIRE, ET TES DÉSIRS
@@ -203,6 +204,7 @@
 <lb/>PRENDS. DIEU
 <lb/>T’EXAUCERA.
 <lb/>SOIT !</q>
+        <p></p>
         <p><pb n="41" xml:id="41" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6305407r/f53.highres"/>– Ah, vous lisez couramment le sanscrit, dit le vieillard. Peut-être avez-vous voyagé en Perse ou dans le Bengale ?</p>
         <p>– Non, monsieur, répondit le jeune homme en tâtant avec curiosité cette peau symbolique, assez semblable à une feuille de métal par son peu de flexibilité.</p>
         <p>Le vieux marchand remit la lampe sur la colonne où il l’avait prise, en lançant au jeune homme un regard empreint d’une froide ironie qui semblait dire : Il ne pense déjà plus à mourir.</p>
