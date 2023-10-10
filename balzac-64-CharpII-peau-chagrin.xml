@@ -178,10 +178,12 @@
         <p>– L’industrie du Levant a des secrets qui lui sont réellement particuliers, dit-il en regardant la sentence orientale avec une sorte d’inquiétude.</p>
         <p>– Oui, répondit le vieillard, il vaut mieux s’en prendre aux hommes qu’à Dieu !</p>
         <p>Les paroles mystérieuses étaient disposées de la manière suivante :</p>
-        <p><figure>
-          <graphic url="romans/64-peau-chagrin/charpentierII/illustrations/pdc.PNG">
+<div>
+        <p><figure rendition="center" xml:id="pdc1">
+          <graphic url="romans/64-peau-chagrin/charpentierII/illustrations/pdc.png">
           </graphic>
         </figure></p>
+</div>
         <p><pb n="41" xml:id="41" facs="https://gallica.bnf.fr/ark:/12148/bpt6k56752011/f44.highres"/>Ce qui voulait dire en français :</p>
         <q rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.
 <lb/>MAIS TA VIE M’APPARTIENDRA. DIEU L’A

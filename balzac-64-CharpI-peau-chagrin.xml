@@ -183,13 +183,14 @@
         <p>– Oui, répondit le vieillard, il vaut mieux s’en prendre aux hommes qu’à Dieu !</p>
         <p>Les paroles mystérieuses étaient disposées de la manière suivante.</p>
         <p>
-          <pb n="40" xml:id="40" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6305407r/f52.highres"/>
-          <figure>
-        <graphic url="romans/64-peau-chagrin/charpentierI/illustrations/pdc.PNG">
-        </graphic>
+          <pb n="40" xml:id="40" facs="https://gallica.bnf.fr/ark:/12148/bpt6k6305407r/f52.highres"/></p>
+<div>
+          <figure rendition="center" xml:id="pdc2">
+        <graphic url="romans/64-peau-chagrin/charpentierI/illustrations/pdc.png"></graphic>
       </figure>
-        </p>
+    </div>
         <p>qui voulait dire en français :</p>
+        <lb/>
         <q rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.
 <lb/>MAIS TA VIE M’APPARTIENDRA. DIEU L’A
 <lb/>VOULU AINSI. DÉSIRE, ET TES DÉSIRS
