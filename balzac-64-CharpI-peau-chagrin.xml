@@ -95,10 +95,10 @@
           </graphic>
         </figure>
         <bibl>
-        <hi rend="sc">Sterne</hi> ()<title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
+        <hi rend="sc">Sterne</hi> (<title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
-          <titlePart type="main">LA PEAU DE CHAGRIN.</titlePart>
+          <titlePart type="main">LA <lb/>PEAU DE CHAGRIN.</titlePart>
         </docTitle>
       </titlePage>
     </front>
