@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://dramacode.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <!--Odette: 2017-08-16T11:22:15+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Une Débauche</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019). </edition>
+        <respStmt>
+          <name>Francesca Guglielmi </name>
+          <resp>Établissement du texte et stylage </resp>
+        </respStmt>
+        <respStmt>
+          <name>Clara Grometto</name>
+          <resp>Édition XML/TEI </resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux, Karolina Suchecka</name>
+          <resp>Informatique éditoriale </resp>
+        </respStmt>
+        <respStmt>
+          <name>Gallica - Bibliothèque nationale de France</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
+        <respStmt>
+          <name>Université de Genève</name>
+          <resp>OCR</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2023"/>
+        <availability status="restricted">
+            <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+                <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+                <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+                <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+                <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+            </licence>
+        </availability>
+        <idno></idno>
+      </publicationStmt>
+      <sourceDesc>
+      <bibl>
+      <title>Une Débauche</title> Revue des deux mondes, 3e série, t. II, 3e livraison de mars,  <date>daté de mai 1831, pubié en juin, avant le 5.6.1831</date>, p. 287-305.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>       <p>la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux habitudes de l’édition du <hi rend="sc">xix</hi>
+    <hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été corrigées et sont signalées en note.</p>
+         </encodingDesc>
+    <profileDesc>
+    <creation>
+    <date when="1831"/>
+    </creation>
+    <langUsage>
+    <language ident="fre"/>
+    </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">Une débauche<note resp="edition" place="bottom"><p>Impatiemment attendue, l’œuvre originale dans laquelle notre collaborateur a, dit-on, merveilleusement uni la peinture de la société moderne, son manque de croyance, son luxe, ses passions, aux plus hautes idées morales et philosophiques, doit paraître dans quelques jours (le 15 juin). On sait que la Peau de Chagrin a déjà obtenu dans les salons de Paris d’honorables suffrages.</p>
+<p>Raphaël de Valentin, le héros du livre, est poussé par le désespoir à un cruel suicide. Mais il voudrait assister encore à une orgie, afin de mourir comme le duc de Clarence, non pas tout-à-fait dans un tonneau de Malvoisie, mais au milieu d’un festin moderne, éclatant de luxe, et au sein de la débauche. En ce moment, l’un de ses amis, Émile, le rencontre, et l’emmène au dîner donné par un capitaliste qui fonde un journal ministériel.</p></note></titlePart>
+          <titlePart type="sub">(Fragment de La Peau de Chagrin.)</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div>
+      <pb n="287" xml:id="p287"/><p>Émile était un auteur qui avait conquis plus de gloire dans ses chutes que les autres n’en recueillent de leurs succés. Hardi dans ses compositions, plein de verve et de mordant, il possédait toutes les qualités que comportaient ses défauts : il était franc, rieur, et disait en face une épigramme à un ami qu’absent il défendait avec courage et loyauté. Il se moquait de tout, même de son avenir ; et, toujours dépourvu d’argent, il restait, comme tous les hommes de quelque portée, plongé dans une inexprimable paresse, jetant un livre dans un mot au nez des gens qui ne savaient pas mettre un mot dans leurs livres. Il plaisait par des promesses qu’il ne réalisait <pb n="288" xml:id="p288"/>jamais, et s’était fait de sa fortune et de sa gloire un coussin pour dormir. Il courait la chance de se réveiller vieux, à l’hôpital. Du reste, ami jusqu’à l’échafaud, fanfaron de cynisme et simple comme un enfant, il travaillait par boutade ou par nécessité.</p>
+      <p>– Nous allons faire, comme dit maître Alcofribas, un fameux <emph>tronçon de chère lie</emph> !… dit-il à Raphaël en lui montrant les caisses de fleurs qui embaumaient et verdissaient les escaliers.</p>
+      <p>– Oh ! que j’aime les porches bien chauffés, et dont les tapis sont riches !… répondit Raphaël. Le luxe dès le péristyle est rare en France… Ici je me sens renaître…</p>
+      <p>– Et là haut nous allons boire et rire encore une fois, mon pauvre Raphaël…</p>
+      <p>– Ah çà ! reprit-il, j’espère que nous serons les vainqueurs, et que nous marcherons sur toutes ces têtes-là !…</p>
+      <p>Et, d’un geste moqueur, il lui montra les convives, en entrant dans un salon resplendissant de luxe et de lumière.</p>
+      <p>Ils furent aussitôt accueillis par les jeunes gens les plus remarquables de Paris.</p>
+      <p>L'un venait de révéler un talent neuf, et de rivaliser, par son premier tableau, avec les gloires de la peinture impériale.</p>
+      <p>L'autre avait hasardé, la veille, un livre plein de verdeur, empreint d’une sorte de dédain littéraire, et qui découvrait de nouvelles routes à l’école moderne.</p>
+      <p>Plus loin, un statuaire, dont la figure pleine de rudesse accusait quelque vigoureux génie, causait avec un de ces froids railleurs qui tantôt ne veulent voir de supériorités nulle part, et tantôt en reconnaissent partout.</p>
+      <p>Ici le plus spirituel de nos caricaturistes à l’œil malin, à la bouche mordante, guettait les épigrammes pour les traduire à coups de crayon.</p>
+      <p>Là ce jeune et audacieux écrivain, qui, mieux que personne, distillait la quintessence des pensées politiques, ou, <pb n="289" xml:id="p289"/>dans un article, condensait en se jouant l’esprit d’un écrivain fécond, s’entretenait avec ce poète dont les écrits écraseraient toutes les œuvres du temps présent, si son talent avait la puissance de sa haine. Tous deux essayaient de ne pas dire la vérité, de ne pas mentir, en s’adressant de douces flatteries.</p>
+      <p>Un musicien célèbre consolait en <emph>si bémol</emph> et d’une voix moqueuse un jeune homme politique récemment tombé de la tribune sans se faire aucun mal.</p>
+      <p>De jeunes auteurs sans style étaient auprès de jeunes auteurs sans idées, des prosateurs pleins de poésie près de poètes prosaïques ; et, voyant ces êtres incomplets, un pauvre saint-simonien, assez naïf pour croire à sa doctrine, les accouplait avec charité, voulant sans doute les transformer en religieux de son ordre.</p>
+      <p>Enfin, il y avait deux ou trois de ces savans destinés à mettre de l’azote dans la conversation, et plusieurs vaudevillistes prêts à y jeter des lueurs éphémères, semblables aux étincelles du diamant qui ne donne ni chaleur ni lumière…</p>
+      <p>Quelques hommes à paradoxes, riant sous cape des gens qui épousaient leurs admirations ou leurs mépris pour les hommes et les choses, faisaient déjà de cette politique à double tranchant, avec laquelle ils conspirent contre tous les systèmes, sans prendre parti pour aucun.</p>
+      <p>Le<emph> jugeur</emph>, qui ne s’étonne de rien, qui se mouche au milieu d’une cavatine aux Bouffons, y chante <emph>brava</emph> !… avant tout le monde, et contredit ceux qui prédisent son avis, était là, cherchant à s’attribuer les mots des gens d’esprit.</p>
+      <p>Parmi ces convives, cinq avaient de l’avenir, une dizaine devait obtenir quelque gloire viagère, et, quant aux autres, ils pouvaient se dire, comme toutes les médiocrités, le fameux mot de Louis XVIII : <emph>Union et oubli</emph>…</p>
+      <p>L'amphitryon avait la gaîté soucieuse d’un homme qui dépense deux mille écus ; et, comme de temps à autre ses yeux se dirigeaient avec impatience vers la porte du salon, <pb n="290" xml:id="p290"/>il était facile de voir que tous les convives se trouvaient réunis, moins un… Alors apparut un gros petit homme vêtu de noir, accueilli soudain par une flatteuse rumeur. C'était le notaire qui, le matin même, avait achevé de créer le journal.</p>
+      <p>Un domestique en grande livrée vint ouvrir les portes d’une vaste salle à manger, où chacun alla, sans cérémonie, reconnaître sa place autour d’une table immense.</p>
+      <p>Avant de quitter les salons, Raphaël y jeta un dernier coup-d’œil. Son souhait était certes bien complètement réalisé. La soie et l’or tapissaient les appartemens. De riches candelabres, supportant d’innombrables bougies, faisaient briller les moindres frises dorées, les ciselures délicates des bronzes, et les somptueuses couleurs de l’ameublement. Des fleurs rares, contenues dans quelques jardinières artistement construites avec des bambous, répandaient de doux parfums. Les draperies respiraient une élégance sans prétention, et il y avait en tout je ne sais quelle grâce poétique dont le prestige devait agir sur l’imagination d’un homme dénué d’argent.</p>
+      <p>– Cent mille livres de rente sont un bien joli commentaire du catéchisme, et nous aident merveilleusement à mettre <emph>la morale en action</emph> !… dit-il en soupirant. Oh ! oui, ma vertu ne va guère à pied… Pour moi le vice… c’est une mansarde, un habit râpé, un chapeau gris en hiver et des dettes chez le portier… Ah ! je veux vivre au sein de ce luxe un an, six mois, n’importe… et puis après… mourir. J'aurai du moins épuisé, connu, dévoré mille existences.</p>
+      <p>– Oh ! oh !. !. lui dit Émile, qui l’écoutait, tu prends le coupé d’un agent de change pour le bonheur… Va, tu serais bientôt ennuyé de la fortune en t’apercevant qu’elle te ravirait la chance d’être un homme supérieur… Entre les pauvretés de la richesse et les richesses de la pauvreté, l’artiste a-t-il jamais hésité !… Il nous faut des luttes, à nous autres… Aussi, prépare ton estomac !… Vois !…</p>
+      <p>Et il lui montra, par un geste héroïque, le majestueux, <pb n="291" xml:id="p291"/>le trois fois saint, évangélique et rassurant aspect que présentait la salle à manger du benoît capitaliste.</p>
+      <p>– Cet homme-là, reprit-il, ne s’est vraiment donné la peine d’amasser son argent que pour nous… N'est-ce pas une espèce d’éponge oubliée par les naturalistes dans l’ordre des <emph>polypiers</emph>, et qu’il s’agit de presser avec délicatesse, avant de la laisser sucer par des héritiers ? Ne trouves-tu pas du style aux bas-reliefs qui décorent les murs ? Et les lustres, et les tableaux, quel luxe bien entendu ! S'il faut croire les envieux et ceux qui tiennent à voir les ressorts de la vie, cet homme aurait tué, pendant la révolution, je ne sais quelle vieille dame asthmatique, un petit orphelin scrofuleux et quelque autre personne. Peux-tu donner place à des crimes sous les cheveux grisonnans de notre vénérable amphitryon ?… Il a l’air d’un bien bon homme… Vois donc comme l’argenterie étincelle !… Chacun de ces rayons brillans serait un coup de poignard… Allons donc ! autant vaudrait croire en Mahomet. Si le public avait raison, voici trente hommes de cœur et de talent qui s’apprêteraient à manger les entrailles, à boire le sang d’une famille !… Et nous deux, jeunes gens pleins de candeur et d’enthousiasme, nous serions complices du forfait !… J'ai envie de demander à notre capitaliste s’il est honnête homme…</p>
+      <p>– Non, pas maintenant ! s’écria Raphaël : quand il sera ivre-mort, – nous aurons dîné.</p>
+      <p>Et les deux amis s’assirent en riant.</p>
+      <p>D'abord, chaque personne contempla pendant un temps encore plus court que la parole destinée à l’exprimer, le coup-d’œil offert par une longue table, blanche comme une couche de neige fraîchement tombée, et sur laquelle s’élevaient symétriquement les couverts couronnés de petits pains blonds. Les cristaux répétaient les couleurs de l’iris dans leurs reflets étoilés ; les bougies traçaient des feux croisés à l’infini, et les mets, placés sous des dômes d’argent, aiguisaient l’appétit et la curiosité. Les paroles furent assez rares. Les voisins se regardèrent. Le vin de Madère circula. <pb n="292" xml:id="p292"/>Les verres se remplirent. Les assiettes vides disparurent.</p>
+      <p>Puis, le premier service apparut dans toute sa gloire. Il aurait fait honneur à feu Cambacérès, et Brillat-Savarin l’eût célébré. Les vins de Bordeaux, de Bourgogne, blancs, rouges, furent servis avec une profusion royale. Cette première partie du festin était comparable, en tout point, à l’exposition d’une tragédie classique.</p>
+      <p>Le second acte devint quelque peu bavard. Chaque convive avait bu deux ou trois bouteilles en changeant de crûs suivant ses caprices, de sorte qu’au moment où l’on emporta les restes de ce magnifique service, de tempestueuses discussions s’étaient établies. Quelques fronts pâles rougissaient, plusieurs nez commençaient à s’empourprer, les visages s’allumaient, les yeux pétillaient. C'était l’aurore de l’ivresse. Le discours ne sortait pas encore des bornes de la civilité ; mais les railleries, les bons mots s’échappaient insensiblement de toutes les bouches, et la calomnie élevait même tout doucement sa petite tête et parlait d’une voix flûtée. Çà et là, quelques sournois écoutaient attentivement, espérant garder leur raison.</p>
+      <p>Le second service trouva donc les esprits tout-à-fait échauffés. Chacun mangea en parlant, parla en mangeant, but sans prendre garde à l’influence des liquides, tant ils étaient lampans et parfumés, tant l’exemple était contagieux… L'amphitryon, se piquant d’animer ses convives, fit avancer les vins du Rhône, de vieux Roussillons capiteux ; et alors, déchaînés comme les chevaux d’une malle-poste partant d’un relais, ces hommes, fouettés par les piquantes flèches du vin de Champagne impatiemment attendu, mais abondamment versé, laissèrent galoper leur esprit dans le vide des raisonnemens que personne n’écoute, se mirent à raconter ces histoires qui n’ont pas d’auditeur, recommencèrent cent fois ces interpellations qui restent sans réponse… L'orgie seule déploya sa grande voix, sa voix, composée de cent clameurs confuses qui grossissent comme les crescendo de Rossini… Puis arrivèrent les toasts insidieux, les forfanteries, les défis. <pb n="293" xml:id="p293"/>Tous renonçaient à se glorifier de leur capacité intellectuelle pour revendiquer celle des tonneaux, des foudres, des cuves. Il semblait que chacun eût deux voix…</p>
+      <p>Un moment vint où les valets sourirent, car alors les maîtres parlaient tous à la fois…</p>
+      <p>Mais cette mêlée de paroles, où les paradoxes douteusement lumineux les vérités grotesquement habillées se heurtèrent à travers les cris, les jugemens, les niaiseries, comme au milieu d’un combat se croisent les boulets, les balles et les fragmens de mitraille, eût sans doute intéressé quelque philosophe par la singularité des pensées, ou surpris un politique par la bizarrerie des systèmes. C'était tout à la fois un livre et un tableau.</p>
+      <p>Les philosophies, les religions, les morales, si différentes d’une latitude à l’autre, les gouvernemens, enfin tous les grands actes de l’intelligence humaine, tombèrent sous une faux aussi longue que celle du Temps ; et, peut-être, eussiez-vous pu difficilement décider si elle était maniée par la Sagesse ivre, ou par l’Ivresse devenue sage et clairvoyante.</p>
+      <p>Ces esprits emportés par une espèce de tempête semblaient vouloir, comme la mer irritée contre ses falaises, ébranler toutes les lois entre lesquelles flottent les civilisations, satisfaisant ainsi, sans le savoir, à l’arrêt dès long-temps porté par Dieu, qui laissa dans la nature le bien et le mal sans cesse en présence, en gardant pour lui le secret de leur lutte perpétuelle. Furieuse et burlesque, la discussion fut en quelque sorte un sabbat des intelligences. Mais entre les tristes plaisanteries, dites par ces enfans de la révolution, et les propos des buveurs tenus à la naissance de Pantagruel, il y avait tout l’abîme qui sépare le dix-neuvième siècle du seizième. Celui-ci apprêtait une destruction en riant, et le nôtre riait au milieu des ruines…</p>
+      <p>– Comment appelez-vous le jeune homme qui se trouve là-bas ?… dit le notaire en montrant Raphaël ; j’ai cru l’entendre nommer <emph>Valentin</emph> ?…</p>
+      <p><pb n="294" xml:id="p294"/>– Que chantez vous avec votre Valentin tout court !… s’écria Émile en riant. Raphaël <emph>de</emph> Valentin !… s’il vous plaît. Nous ne sommes pas un enfant trouvé ; mais le descendant de l’empereur <emph>Valens</emph>, souche des <emph>Valentinois</emph>, fondateur des villes de Valence en Espagne et en France, héritier légitime de l’empire d’Orient… Si nous laissons trôner Mahmoud à Constantinople, c’est par pure bonne volonté, faute d’argent ou de soldats…</p>
+      <p>Et il décrivit en l’air, avec sa fourchette, une couronne au-dessus de la tête de Raphaël.</p>
+      <p>Le notaire se recueillit pendant un moment ; puis il se remit à boire en laissant échapper un geste authentique, par lequel il semblait avouer qu’il lui était impossible de rattacher à sa clientelle les villes de Valence, de Constantinople, Mahmoud, l’empereur <emph>Valens</emph> et la famille des Valentinois.</p>
+      <p>– La destruction de ces fourmillières nommées Babylone, Tyr, Carthage ou Venise, toujours écrasées sous les pieds d’un géant qui passe, n’est-elle pas un avertissement donné à l’homme par une puissance moqueuse ?… dit un journaliste, espèce d’esclave acheté pour faire du Bossuet à dix sous la ligne.</p>
+      <p>– Moïse, Sylla, Louis XI, Richelieu, Robespierre et Napoléon sont peut-être un même homme qui reparaît à travers les civilisations comme les comètes dans le ciel !… répondit Raphaël.</p>
+      <p>– Pourquoi sonder la Providence ?… dit un fabricant de ballades.</p>
+      <p>– Allons, voilà la Providence !… s’écria le <emph>jugeur</emph> en l’interrompant ; je ne connais rien au monde de plus élastique.</p>
+      <p>– Oh ! et le budget !… répliqua l’amphitryon.</p>
+      <p>– Et la conscience d’un sénateur ?… demanda Émile…</p>
+      <p>– Mais, monsieur, Louis XIV a fait périr plus d’hommes pour creuser les aquéducs de Maintenon, que la Convention pour asseoir justement l’impôt, pour mettre de l’unité dans <pb n="295" xml:id="p295"/>la loi, nationaliser la France, et faire également partager les héritages !… disait un jeune homme devenu républicain faute d’une syllabe devant son nom.</p>
+      <p>– Monsieur, lui répondit un propriétaire, vous qui prenez le sang pour du vin, cette fois-ci, laisserez-vous à chacun sa tête sur ses épaules ?</p>
+      <p>– À quoi bon, monsieur ?… Les principes de l’ordre social ne valent-ils donc pas quelque chose ?…</p>
+      <p>– Quelle horreur !… Vous n’auriez nul chagrin de tuer vos amis pour un <emph>si</emph>…</p>
+      <p>– Hé ! monsieur, l’homme qui a des remords est le vrai scélérat, car il a quelque idée de la vertu, tandis que Pierre-le-Grand, Pizarre, le duc d’Albe, étaient des systèmes, et le corsaire Monbar, une organisation…</p>
+      <p>– Mais la société ne peut-elle pas se priver de vos systèmes et de vos organisations… ?</p>
+      <p>– Oh ! d’accord… s’écria le républicain…</p>
+      <p>– Eh ! votre stupide république me donne des nausées !… Nous ne saurions découper tranquillement un chapon sans y trouver la loi agraire !…</p>
+      <p>– Tes principes sont excellens, mon petit Brutus farci de truffes !… Mais tu ressembles à mon valet de chambre ! Le drôle est si cruellement possédé par la manie de la propreté, que si je lui laissais brosser mes habits à sa fantaisie, j’irais tout nu…</p>
+      <p>– Vous êtes des brutes !… Vous voulez nettoyer une nation avec des curedents !… répliqua l’homme à la république. Selon vous, la justice serait plus dangereuse que les voleurs…</p>
+      <p>– Hé ! hé !… dit un avoué.</p>
+      <p>– Sont-ils ennuyeux avec leur politique ! – Fermez la porte. – Il n’y a pas de sciences ou de vertus qui vaillent une goutte de sang. Si nous voulions faire la liquidation de la vérité, nous la verrions peut-être en faillite !…</p>
+      <p>– Ah ! il en aurait sans doute moins coûté de nous amuser dans le mal que de nous disputer dans le bien… Aussi je <pb n="296" xml:id="p296"/>donnerais tous les discours prononcés à la tribune depuis quarante ans pour une truite, pour un conte de Perrault ou une croquade de Charlet…</p>
+      <p>– Vous avez bien raison… – Passez-moi les asperges… – Car, après tout, la liberté enfante l’anarchie, l’anarchie conduit au despotisme, et le despotisme ramène à la liberté. Des millions d’êtres ont péri sans avoir pu faire triompher l’une ou l’autre ! N'est-ce pas le cercle vicieux dans lequel tournera toujours le monde moral ? Quand l’homme croit avoir perfectionné, il n’a fait que déplacer les choses !</p>
+      <p>– Oh ! oh !… s’écria un vaudevilliste, alors, Messieurs, je porte un toast à – Charles X, père de la liberté !…</p>
+      <p>– Pourquoi pas ?… dit un journaliste. Quand le despotisme est dans les lois, la liberté se trouve dans les mœurs, et <emph>vice versâ</emph>… Buvons donc à l’imbécillité du pouvoir qui nous donne tant de pouvoir sur les imbéciles !…</p>
+      <p>– Hé ! mon cher, au moins Napoléon nous a-t-il laissé de la gloire ! criait un officier de marine qui n’était pas sorti de Brest.</p>
+      <p>– Ah ! la gloire !… Triste denrée !… Elle se paie cher et ne se garde pas !… Ne serait-elle point l’égoïsme des grands hommes, comme le bonheur est celui des sots ?…</p>
+      <p>– Monsieur, vous êtes bien heureux !…</p>
+      <p>– Le premier qui inventa les fossés était sans doute un homme faible, car la société ne profite qu’aux gens chétifs… Placés aux deux extrémités du monde moral, le sauvage et le penseur ont également horreur de la <emph>propriété</emph>.</p>
+      <p>– Joli !… s’écria le notaire, s’il n’y avait pas de propriétés, comment pourrions-nous faire des actes ?…</p>
+      <p>– Voilà des petits pois délicieusement fantastiques !…</p>
+      <p>– … Et le curé fut trouvé mort dans son lit, le lendemain.</p>
+      <p>– Qui parle de mort ?… Ne badinez pas ! J'ai un oncle…</p>
+      <p>– Vous vous résigneriez sans doute à le perdre…</p>
+      <p>– Ce n’est pas une question…</p>
+      <p>– …coutez-moi !… Messieurs ! <emph>Manière de tuer son oncle</emph> : <pb n="297" xml:id="p297"/>Chut !… (…coutez ! …coutez !) Ayez d’abord un oncle gros et gras, septuagénaire au moins, ce sont les meilleurs oncles… Faites-lui manger, sous un prétexte quelconque, un pâté de foie gras…</p>
+      <p>– Hé ! mon oncle est un grand homme, sec, avare et sobre…</p>
+      <p>– Ah ! ces oncles-là sont des monstres qui abusent de la vie…</p>
+      <p>– La voix de Malibran a perdu deux notes !</p>
+      <p>– Non, monsieur…</p>
+      <p>– Si, monsieur.</p>
+      <p>– Oh ! oh ! – <emph>Oui et non</emph>. – N'est-ce pas l’histoire de toutes les dissertations religieuses, politiques et littéraires… L'homme est un bouffon qui danse sur un précipice !</p>
+      <p>– À vous entendre, je suis un sot…</p>
+      <p>– Au contraire, c’est parce que vous ne m’entendez pas !…</p>
+      <p>– L'instruction !… Belle niaiserie. M. Heineffettermach porte le nombre des volumes imprimés à plus d’un milliard, et la vie d’un homme ne permet pas d’en lire cent cinquante mille !… Alors expliquez-moi ce que signifie le mot <emph>instruction</emph> ? Pour les uns, elle consiste à savoir le nom du cheval d’Alexandre, du dogue <emph>Bérécillo</emph>, de Tabourot, seigneur des Accords, et d’ignorer celui de l’homme auquel nous devons le flottage des bois, ou la porcelaine. Pour les autres, être instruit ?… c’est savoir brûler un testament et vivre en honnêtes gens, aimés, considérés, au lieu de voler une montre en récidive, avec les circonstances aggravantes, et d’aller mourir en place de Grève…</p>
+      <p>– Lamartine restera !…</p>
+      <p>– Ah ! Scribe, monsieur, a bien de l’esprit…</p>
+      <p>– Et Victor Hugo<note resp="edition" place="bottom">Obligé de donner de l’actualité à son livre, l’auteur a fait parler dans ce banquet les convives avec la liberté que supposent le vin et la bonne chère ; mais il espère que son opinion sur des hommes dont il estime sincèrement les ouvrages, ne sera pas suspectée.</note> ?…</p>
+      <p><pb n="298" xml:id="p298"/>– C'est un grand homme ! n’en parlons plus !…</p>
+      <p>– Vous êtes ivres !…</p>
+      <p>– La conséquence immédiate d’une constitution est l’aplatissement des intelligences… Arts, sciences, monumens, tout est dévoré par un effroyable sentiment d’égoïsme, notre lèpre actuelle !… Vos trois cents bourgeois, assis sur des banquettes, ne pensent qu’à planter des peupliers… Le despotisme fait illégalement de grandes choses, et la liberté ne se donne même pas la peine d’en faire légalement de très-petites !…</p>
+      <p>– Votre enseignement mutuel fabrique des pièces de cent sous en chair humaine ! dit un absolutiste en interrompant. Les individualités disparaissent chez un peuple nivelé par l’instruction !…</p>
+      <p>– Cependant le but de la société n’est-il pas de procurer à chacun le bien-être ?… demanda le saint-simonien.</p>
+      <p>– Si vous aviez cinquante mille livres de rente, vous ne penseriez guère au peuple !…  tes-vous épris de belle passion pour l’humanité ?… Allez à Madagascar, vous y trouverez un joli petit peuple tout neuf à saint-simoniser !… Ah ! ah !</p>
+      <p>– Vous êtes un carliste !…</p>
+      <p>– Pourquoi pas ?… J'aime le despotisme, il annonce un certain mépris pour la race humaine. Je ne hais pas les rois… Ils sont si amusans !… Trôner dans une chambre, à trente millions de lieues du soleil !… N'est-ce donc rien ?…</p>
+      <p>– Mais résumons cette large vue de la civilisation !… disait le savant, qui, pour l’instruction du sculpteur inattentif, avait entrepris une discussion sur le commencement des sociétés et sur les peuples autochtones. À l’origine des nations, la force fut en quelque sorte matérielle, une, grossière… Puis, avec l’accroissement des aggrégations, les gouvernemens ont procédé par des décompositions plus ou moins habiles du pouvoir primitif. Ainsi, dans la haute antiquité, la force était dans la théocratie. Le prêtre tenait le glaive et l’encensoir. Plus tard, il y eut deux sacerdoces, le pontife <pb n="299" xml:id="p299"/>et le roi. Aujourd’hui, notre société, dernier terme de la civilisation, a distribué la puissance suivant le nombre des combinaisons ; et nous sommes arrivés aux forces nommées : industrie, pensée, argent, parole… Alors le pouvoir n’ayant plus d’unité, marche sans cesse vers une dissolution sociale qui n’a plus d’autre barrière que l’intérêt. Aussi nous ne nous appuyons ni sur la religion, ni sur la force matérielle, mais sur l’intelligence… Le livre vaut-il le glaive, la discussion vaut-elle l’action ?… Voilà le problème…</p>
+      <p>– L'intelligence a tout tué !… s’écria le carliste. Allez ! la liberté absolue mène les nations au suicide. – Elles s’ennuient dans le triomphe, comme un Anglais millionnaire. – Que nous direz-vous de neuf ?… Aujourd’hui vous avez ridiculisé tous les pouvoirs, et c’est même chose vulgaire que de nier Dieu ! Vous n’avez plus de croyance. Aussi le siècle est-il comme un vieux sultan perdu de débauche ! Enfin, votre lord Byron, en dernier désespoir de poésie, a chanté les passions du crime !…</p>
+      <p>– Savez-vous, lui répondit un médecin complètement ivre, qu’à peine y a-t-il une membrane de différence entre un homme de génie et un grand criminel ?…</p>
+      <p>– Peut-on traiter ainsi la vertu ! s’écria le vaudevilliste. La vertu, sujet de toutes les pièces de théâtre, dénouement de tous les drames, base de tous les tribunaux !…</p>
+      <p>– Hé ! tais-toi donc, animal !… Ta vertu, c’est Achille sans talon !…</p>
+      <p>– À boire !…</p>
+      <p>– Veux-tu parier que je bois une bouteille de vin de Champagne d’un seul trait.</p>
+      <p>– Quel trait d’esprit !… s’écria le caricaturiste.</p>
+      <p>– Ils sont gris comme des charretiers !… dit un jeune homme qui donnait sérieusement à boire à son gilet.</p>
+      <p>– Oui, monsieur, le gouvernement actuel est l’art de faire régner l’opinion publique ?…</p>
+      <p>– L'opinion, mais c’est la plus vicieuse de toutes les prostituées… À vous entendre, hommes de morale et de politique, <pb n="300" xml:id="p300"/>il faudrait sans cesse préférer vos lois à la nature, l’opinion à la conscience… Allez, tout est vrai, tout est faux ! Si la société nous a donné le duvet des oreillers, elle a certes compensé le bienfait par la goutte, comme elle a mis la procédure pour tempérer la justice, et les rhumes à la suite des cachemires…</p>
+      <p>– Monstre !… dit Émile en interrompant le misantrope, comment peux-tu médire de la civilisation en présence de tant de vins, de mets, et à table jusqu’au menton ! Mords ce chevreuil aux pieds et aux cornes dorées ; mais ne mords pas ta mère !…</p>
+      <p>– Est-ce ma faute, à moi, si le catholicisme arrive à mettre un million de dieux dans un sac de farine, si la république aboutit toujours à quelque Robespierre, si la royauté se trouve entre l’assassinat de Henri IV et le jugement de Louis XVI… et si le libéralisme devient Lafayette ?…</p>
+      <p>– L'avez-vous embrassé ?</p>
+      <p>– Non.</p>
+      <p>– Alors taisez-vous, sceptique ?…</p>
+      <p>– Les sceptiques sont les hommes les plus consciencieux…</p>
+      <p>– Ils n’ont pas de conscience.</p>
+      <p>– Que dites-vous ?… Ils en ont au moins deux !…</p>
+      <p>– Escompter le ciel !… Monsieur, voilà une idée vraiment commerciale. Les religions antiques n’étaient qu’un heureux développement du plaisir physique ; mais nous autres nous avons développé l’âme et l’espérance. Il y a eu progrès…</p>
+      <p>– Hé, mes bons amis, que pouvez-vous attendre d’un siècle repu de politique ?… Quel a été le sort de Smarra ?… La plus ravissante conception…</p>
+      <p>– Smarra !… cria le <emph>jugeur</emph>, d’un bout de la table à l’autre. – Ce sont des phrases tirées au hasard dans un chapeau !… Véritable ouvrage écrit pour Charenton !…</p>
+      <p>– Vous êtes un sot !…</p>
+      <p>– Vous êtes un drôle…</p>
+      <p>– Oh ! oh !…</p>
+      <p><pb n="301" xml:id="p301"/>– Ah ! ah !…</p>
+      <p>– À demain… monsieur !…</p>
+      <p>– À l’instant !… répondit le poète…</p>
+      <p>– Allons ! allons, vous êtes deux braves…</p>
+      <p>– Ils ne peuvent seulement pas se mettre debout !…</p>
+      <p>– Ah ! je ne me tiens pas droit peut-être ? reprit le belliqueux auteur en se dressant comme un cerf-volant indécis…</p>
+      <p>Il jeta sur la table un regard hébété. Puis, comme exténué par cet effort, il retomba sur sa chaise, pencha la tête, et resta muet.</p>
+      <p>– Ne serait-il pas plaisant !… dit le <emph>jugeur</emph> à son voisin, de me battre pour un ouvrage que je n’ai jamais vu ni lu ?…</p>
+      <p>– Eugène, prends garde à ton habit ! Ton voisin pâlit…</p>
+      <p>– Kant !… Encore un ballon lancé pour amuser les niais ! Le matérialisme et le spiritualisme sont deux jolies raquettes avec lesquelles des charlatans en robe font aller le même volant. Que Dieu soit en tout, selon Spinosa, ou que tout vienne de Dieu, selon saint Paul… Imbéciles !… Ouvrir ou fermer une porte… Est-ce pas le même mouvement ? L’œuf vient-il de la poule ou la poule de l’œuf ?… – Passez-moi du canard ! – Voilà toute la science !…</p>
+      <p>– Nigaud !… lui cria le savant, la question que tu poses est tranchée par un fait.</p>
+      <p>– Et lequel ?…</p>
+      <p>– Les chaires de professeurs n’ont pas été faites pour la philosophie, mais bien la philosophie pour les chaires ?… Mets des lunettes et lis le budget…</p>
+      <p>– Voleurs !…</p>
+      <p>– Imbéciles !…</p>
+      <p>– Fripons !…</p>
+      <p>– Dupes !…</p>
+      <p>– Où trouverez-vous ailleurs qu’à Paris un échange aussi vif, aussi rapide entre les pensées ?… s’écria le plus spirituel des artistes en prenant une voix de basse-taille.</p>
+      <p><pb n="302" xml:id="p302"/>– Allons, Henri !… quelque farce classique !… Voyons, une charge !…</p>
+      <p>– Voulez-vous que je vous fasse le dix-neuvième siècle ?…</p>
+      <p>– …coutez !…</p>
+      <p>– Silence !…</p>
+      <p>– Mettez des sourdines à vos muffles !…</p>
+      <p>– Te tairas-tu, chinois !…</p>
+      <p>– Donnez-lui du vin, et qu’il se taise, cet enfant !…</p>
+      <p>– À toi, Henri !…</p>
+      <p>L'artiste boutonna son habit noir jusqu’au col, mit ses gants jaunes, et se grima de manière à singer <emph>le Globe</emph> ; mais, le bruit couvrant sa voix, il fut impossible de saisir un seul mot de sa spirituelle moquerie ; et alors, s’il ne représenta pas le siècle, au moins représenta-t-il le journal… car – il ne s’entendit pas lui-même.</p>
+      <p>Le dessert se trouva servi comme par enchantement. La table était couverte d’un admirable surtout en bronze doré, sorti des ateliers de Thomire. De ravissantes figures, douées par un célèbre artiste des formes prestigieuses de la beauté idéale, soutenaient et portaient des buissons de fraises, des ananas, des dattes fraîches, des raisins jaunes, de blondes pêches, des oranges arrivées de Sétubal par un paquebot, des grenades, des fruits de la Chine ; enfin toutes les surprises du luxe, les miracles du petit four, les délicatesses les plus friandes, les friandises les plus séductrices. Les couleurs de ces tableaux gastronomiques étaient rehaussées par l’éclat de la porcelaine, par des lignes étincelantes d’or, par les découpures des vases. Gracieuse comme les liquides franges de l’océan, verte et légère, la mousse couronnait les paysages du Poussin, copiés à Sèvres… Le budget d’un prince allemand n’aurait pas payé cette richesse insolente.</p>
+      <p>L'argent, la nacre, l’or, les cristaux étaient de nouveau prodigués sous de nouvelles formes ; mais les yeux engourdis et la verbeuse fièvre de l’ivresse permirent à peine aux <pb n="303" xml:id="p303"/>convives d’avoir une intuition vague de cette féerie digne d’un conte oriental.</p>
+      <p>Les vins de dessert apportèrent leurs parfums et leurs flammes, philtres puissans, vapeurs enchanteresses, qui engendrent une espèce de mirage intellectuel, et dont les liens puissans enchaînent les pieds, alourdissent les mains…</p>
+      <p>Les pyramides de fruits furent pillées, les voix grossirent, le tumulte grandit. Alors il n’y eut plus de paroles distinctes. Les verres volaient en éclats, et des rires atroces partaient comme des fusées.</p>
+      <p>Un vaudevilliste saisit un cor, et se mit à sonner une fanfare. Ce fut comme un signal donné par le diable. Cette assemblée en délire hurla, siffla, chanta, cria, rugit, gronda.</p>
+      <p>Vous eussiez souri de voir les gens naturellement gais devenir sombres comme les dénouemens de Crébillon, ou rêveurs comme des marins en voiture. Les hommes fins disaient leurs secrets à des curieux, qui n’écoutaient pas. Les mélancoliques souriaient comme des danseuses qui achèvent leurs pirouettes. Un journaliste se dandinait à la manière des ours en cage… Des amis intimes se battaient. Les ressemblances animales inscrites sur les figures humaines et si curieusement démontrées par les physiologistes, reparaissaient vaguement dans les gestes, dans les habitudes du corps… Il y avait un livre tout fait pour quelque Bichat qui se serait trouvé là, froid et à jeun.</p>
+      <p>Le maître du logis, se sentant ivre et n’osant se lever, approuvait les extravagances de ses convives par une grimace fixe, et tâchait de conserver un air décent et hospitalier. Sa large figure, devenue rouge et bleue, presque violacée, terrible à voir, s’associait au mouvement général par des efforts semblables au roulis et au tangage d’un brick.</p>
+      <p>– Les avez-vous assassinés ?… lui demanda Émile.</p>
+      <p>– La confiscation et la peine de mort sont abolies, répondit le banquier.</p>
+      <p><pb n="304" xml:id="p304"/>Puis il se prit à rire en haussant les sourcils d’un air tout à la fois plein de finesse et de bêtise.</p>
+      <p>– Mais ne les voyez-vous pas quelquefois en songe ?… reprit Raphael.</p>
+      <p>– Il y a prescription !… dit le meurtrier plein d’or.</p>
+      <p>– Et sur sa tombe !… s’écria Émile d’un ton sardonique, l’entrepreneur du cimetière gravera :</p>
+      <q type="press">
+        <l><emph>Passans, accordez une larme à sa mémoire !…</emph></l>
+      </q>
+      <p>– Oh ! reprit-il, je donnerais bien cent sous au mathématicien qui me démontrerait par une équation algébrique l’existence de l’enfer !…</p>
+      <p>Il jeta une pièce en l’air.</p>
+      <p>– Face pour Dieu !…</p>
+      <p>– Ne regarde pas, cria Raphael en saisissant la pièce. Que sait-on ? le  hasard est si plaisant !</p>
+      <p>– Hélas !… reprit Émile d’un air tristement bouffon, je ne vois pas où poser les pieds entre la géométrie de l’incrédule et le <emph>pater noster</emph> du pape. – Buvons !… <emph>Trinc</emph> ! est, je crois, l’oracle de la dive bouteille, et sert de conclusion au Pantagruel !…</p>
+      <p>– Nous devons au <emph>pater noster</emph>, répondit Raphael, nos arts, nos monumens, nos sciences peut-être ; et, bienfait plus grand encore, nos gouvernemens modernes, dans lesquels une société vaste et féconde est merveilleusement représentée par cinq cents intelligences, où les forces opposées les unes aux autres, se neutralisent, en laissant tout pouvoir à la CIVILISATION, reine gigantesque qui remplace le ROI… cette ancienne et terrible figure ; espèce de <emph>faux destin</emph> créé par l’homme entre le ciel et lui… En présence de tant d’œuvres accomplies, l’athéisme apparaît comme un squelette qui n’engendre pas !… Qu'en dis-tu ?…</p>
+      <p>– Je songe aux flots de sang répandus par le catholicisme !… dit froidement Émile. Il a pris nos veines et nos cœurs pour faire une contrefaçon du déluge. – Mais n’importe !… Tout homme qui pense doit marcher sous la bannière du Christ !… Lui seul a consacré le triomphe de <pb n="305" xml:id="p305"/>l’esprit sur la matière ; lui seul nous a puissamment révélé le monde intermédiaire qui nous sépare de Dieu !…</p>
+      <p>– Bah ! reprit-il, en jetant à Raphael un indéfinissable sourire d’ivresse, pour ne pas nous compromettre, portons le fameux toast :</p>
+      <p>– <emph>Diis ignotis</emph> !…</p>
+      <p>Et ils vidèrent leurs calices de science, de gaz carbonique, de parfums, de poésie et d’incrédulité.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

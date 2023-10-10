@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://dramacode.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Suicide d'un poète : Fragment de la peau de chagrin</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Clara Grometto</name>
+          <resp>Établissement du texte et stylage </resp>
+        </respStmt>
+        <respStmt>
+          <name>Clara Grometto</name>
+          <resp>Édition XML/TEI </resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux, Karolina Suchecka</name>
+          <resp>Informatique éditoriale </resp>
+        </respStmt>
+        <respStmt>
+          <name>Gallica - Bibliothèque nationale de France</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
+        <respStmt>
+          <name>Université de Genève</name>
+          <resp>OCR</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2023"/>
+        <availability status="restricted">
+            <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+                <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+                <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+                <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+                <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+            </licence>
+        </availability>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+      <bibl>
+      <title>Le Suicide d'un poète : Fragment de la peau de chagrin</title> Revue de Paris, t. XXVI, 5e livraison, <date>29.5.1831</date>, p. 299-307 </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>       <p>la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux habitudes de l’édition du <hi rend="sc">xix</hi>
+    <hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été corrigées et sont signalées en note.</p>
+         </encodingDesc>
+    <profileDesc>
+    <creation>
+    <date when="1831"/>
+    </creation>
+    <langUsage>
+    <language ident="fre"/>
+    </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">Le suicide d'un poète</titlePart>
+          <titlePart type="sub">Fragment de la peau de chagrin</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+<div>
+      <pb n="299" xml:id="299" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f306.highres"/><p>(Nous sommes heureux de pouvoir, par ce fragment, venir en aide à l’impatience publique, dès long-temps préoccupée de l’apparition de ce livre. Quelques lectures de salon lui ont donné, avant sa naissance, une immense renommée, que ne paraît pas devoir démentir le commencement de publicité qu’il reçoit ici. Vingt fragmens pour le moins aussi remarquables étaient à notre disposition.</p>
+      <p>Un jeune homme, voué d’abord à une vie studieuse et solitaire, est tout à coup tiré de sa mansarde par le despotisme d’une première passion. Sa maîtresse est une femme du monde, vaine, opulente ; et lui, pauvre, sensible, naïf surtout, comme les hommes d’étude et de poésie qui ne se sont point encore usés par le frottement de la société. Son cœur, plein d’enchantemens et riche d’illusions, se heurte à tout moment contre l’ame insensible et froide de la coquette. Dédaigné, déchiré, Raphaël de Valentin se décide à mourir. Une consultation mélancolique a eu lieu chez l’un de ses amis, homme de plaisir ; et, après avoir discuté les avantages, les inconvéniens de tous les genres de mort volontaire, l’homme de dissipation propose à l’homme de solitude de périr en abusant de toutes les jouissances de la vie, en s’abrutissant. Mais se trouvant sans argent tous deux, l’ami de Valentin va risquer au jeu leurs dernières ressources.</p>
+      <p><pb n="300" xml:id="300" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f307.highres"/>Par un artifice de composition qui oblige notre collaborateur à empreindre son œuvre d’une verve extraordinaire, Raphaël raconte ses malheurs au milieu d’une orgie. Ce récit de désespoir, tour à tour fantastique et réel, agité, coloré, brûlant, enivrant comme les flammes du punch, à la lueur duquel il est confié à un cœur compatissant, doit représenter une ivresse qui croît, qui grandit à chaque phrase.</p>
+      <p>Cette explication était nécessaire pour l’intelligence du fragment suivant, qui appartient à ce récit.)</p>
+      <p>« La vie de dissipation à laquelle je me vouais apparaissait devant moi bizarrement exprimée par la chambre où j’attendais, avec une noble insouciance, le retour de Rastignac.</p>
+      <p>Sur la cheminée s’élevait une pendule surmontée d’une admirable Vénus accroupie sur sa tortue ; mais elle tenait entre ses bras un cigare à demi consumé. Des meubles élégans, présens de l’amour, étaient épars, sans ordre. De vieilles chaussettes traînaient sur un voluptueux divan. Le délicieux fauteuil à ressorts dans lequel j’étais plongé portait des cicatrices comme un vieux soldat, offrant aux regards ses bras déchirés, et montrant incrustées sur son dossier la pommade, l’huile antique de toutes les t’tes d’amis… Le luxe et la misère s’accouplaient naïvement dans le lit, sur les murs, partout. Vous eussiez dit les palais de Naples, bordés de lazzaronis.</p>
+      <p>C'était une chambre de joueur ou de mauvais sujet, dont le luxe est tout personnel, vivant de sensations, et qui, des incohérences, ne se soucie guère… Il y avait de la poésie dans ce tableau. La vie s’y dressait avec ses paillettes et ses haillons – toute soudaine, incomplète, comme elle est réellement ; mais vive, mais fantasque, espèce de halte où le maraudeur a pillé sa joie.</p>
+      <p>Là, un Byron auquel manquaient des pages avait allumé la falourde du jeune homme, qui risque au jeu cent francs et n’a pas une bûche, qui court en tilbury sans posséder une chemise saine et valide… Puis, le lendemain une comtesse ou l’écarté lui donnent un trousseau de roi. Ici, la bougie était fichée dans le fourreau vert d’un briquet phosphorique… Vie riche d’oppositions, à laquelle il est peut-être difficile de renoncer, parce qu’elle a d’irrésistibles attraits ; c’est la guerre en temps de paix…</p>
+      <p><pb n="301" xml:id="301" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f308.highres"/>J'étais presque assoupi quand, d’un coup de pied, Rastignac, enfonçant la porte de sa chambre, s’écria :</p>
+      <p>– Victoire !… victoire ! nous pourrons mourir à notre aise !</p>
+      <p>Il me montra son chapeau plein d’or !… Il le mit sur sa table, et nous dansâmes comme deux cannibales, hurlant, trépignant, sautant, nous donnant des coups de poing à tuer un rhinocéros, et chantant à l’aspect de tous les plaisirs du monde contenus – dans un chapeau !…</p>
+      <p>– Douze mille francs !… répétait Rastignac en ajoutant quelques billets de banque à notre tas d’or. À d’autres, il faudrait cela pour vivre ; à nous, il nous le faut pour mourir. Nous expirerons dans un bain d’or !… Nous aurons une agonie de quatre mois à quinze cents francs !… Hourra !…</p>
+      <p>Et nous cabriolâmes derechef. Enfin nous partageâmes en frères, pièce à pièce, en commençant par les doubles napoléons, allant des grosses pièces aux petites, et distillant notre joie, en disant long-temps :</p>
+      <p>– À toi – À moi…</p>
+      <p>– Oh ! nous ne dormirons pas !… s’écria Rastignac. Joseph, du punch !</p>
+      <p>Et, jetant de l’or à son fidèle domestique :</p>
+      <p>– Voilà ta part !… dit-il</p>
+      <p>Le lendemain, j’achetai des meubles chez Lesage, je louai l’appartement où tu m’as connu, rue Taitbout, et je chargeai le meilleur tapissier de le décorer. J'eus une voiture et des chevaux. Alors je me lançai dans un tourbillon de plaisirs creux et réels tout à la fois… Je jouais, je gagnais et perdais, mais au bal, chez nos amis, jamais dans les maisons de jeu, pour lesquelles je conservai ma sainte et primitive horreur.</p>
+      <p>Insensiblement je me fis des amis. Je dus votre attachement soit à des querelles, soit à cette facilité confiante avec laquelle nous nous livrons les uns aux autres nos secrets, quand nous nous avilissons ensemble ; ou <pb n="302" xml:id="302" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f309.highres"/>peut-être ne nous accrochons-nous bien que par nos vices ? Puis, je hasardai quelques compositions littéraires. Elles me valurent des complimens, parce que les grands hommes de la littérature marchande, ne voyant point en moi de rival à craindre, me vantèrent, moins pour mon mérite personnel peut-être que pour chagriner celui de leurs camarades.</p>
+      <p>Enfin je devins un <emph>viveur</emph>, pour me servir de l’expression pittoresque consacrée dans votre langage d’orgie. Je mettais de l’amour-propre à me tuer promptement, à écraser les plus gais compagnons par ma verve et par ma puissance. J'étais toujours frais, élégant. Je passais, dit-on, pour spirituel, et rien ne trahissait en moi mon épouvantable vie, qui fait d’un homme un entonnoir, un appareil à chyle, un cheval de luxe.</p>
+      <p>Bientôt la débauche m’apparut dans toute la majesté de son horreur, et je la compris…</p>
+      <p>Certes les hommes sages et rangés qui étiquettent des bouteilles pour leurs héritiers ne peuvent guère concevoir ni la théorie de cette large vie, ni son état normal. Ainsi, pour beaucoup de gens, en province, l’opium et le thé ne sont encore que deux médicamens. À Paris même, beaucoup de niais s’en vont fatigués, après avoir entendu un opéra de Rossini, condamnant la musique, semblables à un homme sobre, qui ne veut plus manger de pâtés de Ruffec, parce que le premier lui a donné une indigestion. Mais la débauche est certainement un art comme la poésie ; et, pour en saisir les mystères, pour en savourer les beautés, il faut en quelque sorte faire de consciencieuses études.</p>
+      <p>Comme toutes les sciences, elle est d’abord repoussante, épineuse. Les grands plaisirs de l’homme, non pas ses jouissances de détail, mais les systèmes qui érigent toutes ses sensations rares en habitude, les résument, les lui fertilisent, et lui font une vie dramatique dans sa vie, en nécessitant une dissipation prompte et vive de ses forces, en les employant sans relâche, sont tous environnés d’immenses obstacles.</p>
+      <p>La Guerre, le Pouvoir, les Arts, sont des corruptions mises aussi loin de la portée humaine, aussi profondes que la débauche, et toutes sont de difficile accès. Mais quand une fois l’homme est monté à l’assaut de ces grands mystères, il doit marcher dans un monde nouveau. Les généraux, les ministres, les artistes, sont tous plus ou moins portés vers la débauche par le besoin d’opposer de violentes distractions à leur existence si fort en dehors de la vie commune. Après tout, la guerre est la débauche du sang, la politique celle des intérêts : tous les excès sont frères… Ces <pb n="303" xml:id="303" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f310.highres"/>monstruosités sociales possèdent la puissance des abîmes ; elles nous attirent comme Moscou appelait Napoléon ; elles donnent des vertiges ; elles fascinent ; et nous voulons aller en avant, sans savoir pourquoi.</p>
+      <p>Il y a peut-être la pensée de l’infini dans ces précipices, ou quelque plus vaste flatterie pour l’homme : alors n’intéresse-t-il pas tout à lui-même ? En guerre, il est un ange exterminateur, le bourreau, mais un bourreau gigantesque… Artiste, il crée, et il lui faut le repos du dimanche ou un enfer, pour contraster avec le paradis de ses heures studieuses, avec les délices de la conception. Le délassement de lord Byron ne peut pas être le boston babillard, qui charme un rentier ; il lui faut la Grèce à jouer contre Mahmoud.</p>
+      <p>Eh ! ne faut-il pas des enchantemens bien extraordinaires pour nous faire accepter ces atroces douleurs, ennemies de notre frêle enveloppe, qui entourent la débauche comme d’une enceinte ?… Pour se rouler convulsivement et souffrir une sorte d’agonie, après avoir abusé du tabac, le fumeur n’a-t-il pas assisté, je ne sais en quelles régions, à de délicieuses fêtes ? Sans se donner le temps d’essuyer ses pieds, qui trempent dans le sang jusqu’à la cheville, l’Europe n’a-t-elle pas sans cesse recommencé la guerre ?… L'homme en masse a-t-il donc aussi son ivresse, comme la nature a des accès d’amour ?…</p>
+      <p>Or, pour l’homme privé, pour le Mirabeau inutile, ou qui, végétant par un règne paisible, aspire encore à des tempêtes, la débauche comprend tout. Elle est une perpétuelle étreinte de toute la vie. Elle est un duel avec une puissance inconnue, avec un monstre. D'abord, le monstre épouvante. Il faut l’attaquer par les cornes. Ce sont des fatigues inouies. La nature vous a donné je ne sais quel estomac étroit ou paresseux ?… Vous le domptez, vous l’élargissez !… Vous vous apprenez à passer les nuits, à porter le vin ; vous apprivoisez l’ivresse ; vous vous faites un tempérament de colonel de cuirassiers ; vous vous créez vous-même une seconde fois.</p>
+      <p>Quand vous vous êtes métamorphosé ; quand, vieux soldat, vous avez façonné votre ame à l’artillerie, vos jambes à la marche, alors vous appartenez au monstre, vous ne savez plus, entre vous deux, quel est le maître. Vous vous roulez l’un et l’autre, tantôt vainqueur, tantôt vaincu, dans une sphère où tout est merveilleux, où s’endorment les douleurs de l’ame, où revivent seulement des formes…</p>
+      <p>Réalisant ces fabuleux personnages qui, selon les légendes, ont vendu <pb n="304" xml:id="304" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f311.highres"/>leur ame au diable pour la puissance de mal faire, vous troquez votre mort contre toutes les jouissances de la vie ; mais abondantes, mais fécondes !… Au lieu de couler long-temps entre deux rives monotones, au fond d’un comptoir ou d’une étude, votre vie bouillonne comme un torrent…</p>
+      <p>Enfin la débauche est sans doute au corps ce que sont à l’ame les plaisirs mystiques. L'ivresse vous plonge en des rêves dont les fantasmagories sont aussi curieuses que celles de l’opium. Vous avez des heures ravissantes comme les caprices d’une jeune fille : ce sont des causeries délicieuses avec des amis ; puis, des mots qui peignent toute une vie, des joies franches et sans arrière-pensée, des voyages sans fatigue, des poèmes déroulés en quelques phrases… La brutale satisfaction de la bête, au fond de laquelle la science a été chercher une ame, est suivie de torpeurs enchanteresses après lesquelles soupirent les hommes d’intelligence ; car ils sentent tous la nécessité d’un repos absolu, complet, et la débauche est comme un impôt que leur génie paie au mal. Voyez-les tous ? S'ils ne sont pas voluptueux, la nature les a fait chétifs. Moqueuse ou jalouse, une puissance leur vicie l’ame ou le corps pour neutraliser les efforts de leurs talens.</p>
+      <p>Pendant ces heures avinées, les hommes et les choses comparaissent devant vous, vêtus de vos livrées. Roi de la création, vous la transformez à vos souhaits. Puis, à travers ce délire perpétuel, le jeu vous verse, à votre gré, son plomb fondu dans les veines… Enfin vous avez un jour, comme je l’eus, un réveil enragé. L'impuissance assise à votre chevet. Vieux guerrier, une phthisie vous dévore ; diplomate, un anévrisme suspend dans votre cœur la mort à un fil ; moi, c’était peut-être une pulmonie qui était venue me dire – Partons ! et l’artiste, Raphaël d’Urbin, sera tué par quelque excès d’amour.</p>
+      <p>Voilà comme j’ai vécu !… J'arrivais ou trop tôt ou trop tard dans la vie du monde ; ma force y eût été dangereuse si je ne l’avais pas amortie ainsi. L'univers n’a-t-il pas été guéri d’Alexandre par la coupe d’Hercule, à la fin d’une orgie ? Enfin à certaines destinées trompées il faut le ciel ou l’enfer, la débauche ou l’hospice du mont Saint-Bernard.</p>
+      <p>Au milieu de ce poème vivant, au sein de cette étourdissante maladie, j’eus cependant deux crises bien fertiles en âcres douleurs.</p>
+      <p>D'abord quelques jours après m’être jeté, comme Sardanapale, dans mon bûcher, je rencontrai Fédora sous le péristyle des Bouffons. Nous attendions nos voitures…</p>
+      <p><pb n="305" xml:id="305" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f312.highres"/>– Ah ! ah ! je vous retrouve encore en vie !…</p>
+      <p>Ce mot était la traduction de son sourire, des malicieuses et sourdes paroles qu’elle dit à son <emph>cavalier-servant</emph>. Elle lui racontait sans doute mon histoire, en jugeant mon amour comme un amour vulgaire. Elle applaudissait à sa fausse perspicacité. Oh ! mourir pour elle, l’adorer encore, la voir dans mes excès, dans mes ivresses, dans le lit des courtisanes, et me sentir victime de sa plaisanterie quand je périssais sa victime. Ne pas pouvoir déchirer ma poitrine et y fouiller mon amour, pour le jeter à ses pieds.</p>
+      <p>Enfin, j’épuisai facilement mon trésor ; mais comme trois années de régime m’avaient constitué la plus robuste de toutes les santés, le jour où je me trouvai sans argent, je me portais à merveille. Alors, pour continuer de mourir, je signai des lettres de change à courte échéance… Puis le jour du paiement arriva.</p>
+      <p>Cruelles émotions !… et comme elles font vivre de jeunes cœurs ! Ah ! je n’étais pas fait pour vieillir encore ! Mon ame était jeune, vivace et verte… Ma première dette ranima toutes mes vertus. Elles vinrent à pas lents et m’apparurent comme ces vieilles tantes qui commencent par nous gronder, mais qui finissent en nous consolant, en nous donnant des larmes et de l’argent.</p>
+      <p>Plus méchante, mon imagination me montrait mon nom voyageant dans les places de l’Europe, de vide en ville. Or, <emph>notre nom, c’est nous-même</emph> !… a dit M. Eusèbe Salverte.</p>
+      <p>Après des courses vagabondes, j’allais, comme le double d’un Allemand, revenir à mon logis, d’où je n’étais pas sorti, me réveillant moi-m’me en sursaut.</p>
+      <p>Un matin, ces hommes de la banque, ces remords commerciaux, v'tus de gris, portant la livrée de leur maître, – une plaque d’argent ! – jadis, ils ne me disaient rien, mais aujourd’hui… je les haïssais. L'un d’eux ne viendrait-il pas me demander raison des onze lettres que j’avais griffonnées ?… Ma signature valait 3,000 francs, et je ne les valais pas moi-même…</p>
+      <p>Les huissiers à faces insouciantes, m’me à la mort, se levaient devant moi, comme les bourreaux qui disent à un condamné :</p>
+      <p>– Voici trois heures et demie qui sonnent…</p>
+      <p><pb n="306" xml:id="306" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f313.highres"/>Leurs clercs avaient le droit de s’emparer de moi, de griffonner mon nom !…</p>
+      <p><hi rend="sc">Je devais</hi> !…</p>
+      <p>Devoir, n’est-ce point ne plus s’appartenir ?… D'autres hommes pouvaient me demander compte de ma vie. Pourquoi j’avais mangé des œufs à la <emph>chipolata</emph>, pourquoi je buvais à la glace ? Pourquoi je dormais, je marchais, je pensais, je m’amusais – sans les payer ?</p>
+      <p>Au milieu d’une poésie, au sein d’une idée, ou à déjeuner, entouré d’amis, de joie, d’amour, de douces railleries, je verrais entrer un monsieur en habit marron, avec un chapeau rapé. Ce sera ma dette, ma lettre de change, un spectre qui flétrira tout…</p>
+      <p>Il faudra quitter la table pour aller lui parler…</p>
+      <p>Enfin il m’enlèvera ma gaieté, ma maîtresse, tout, jusqu’à mon lit… Le remords est plus tolérable, il ne nous met ni à la porte, ni à Sainte-Pélagie ; il ne nous plonge pas dans cette sentine de vice et d’infamie ; il ne nous jette qu’à l’échafaud, et le bourreau ennoblit ! Au moment de notre supplice tout le monde croit à notre innocence ; tandis qu’on ne laisse pas une vertu au débauché sans argent !…</p>
+      <p>Puis ces dettes à deux pates, habillées de gris, portant des parapluies, ces dettes avec lesquelles nous nous trouvons trouve face à face au coin d’une rue, au moment où nous sourions, ces gens allaient avoir l’horrible privilége de dire :</p>
+      <p>– M. Valentin me doit et ne me paie pas. Je le tiens. Ah ! ah ! qu’il n’ait pas l’air de me faire mauvaise mine !…</p>
+      <p>Il faut saluer notre créancier, nous sommes leurs vassaux.</p>
+      <p>– Quand me paierez-vous ?</p>
+      <p>Et nous voilà dans l’obligation de mentir, d’implorer un autre homme – pour de l’argent !… de nous courber devant un sot assis sur sa caisse ; de recevoir son froid regard, son regard de sangsue, aussi odieux qu’un soufflet ; de subir sa morale de barême, sa crasse ignorance. Une dette est une œuvre d’imagination. Ils ne la comprennent pas.. Il faut être entraîné, subjugué, pour s’endetter ; eux, rien ne les subjugue, rien de généreux <pb n="307" xml:id="307" facs="https://gallica.bnf.fr/ark:/12148/bpt6k58019574/f306.item/f314.highres"/>ne les entraîne. Ils vivent dans l’argent, ne connaissent que l’argent. J'avais horreur de l’argent.</p>
+      <p>Enfin la lettre de change peut se métamorphoser en vieillard chargé de famille, flanqué de vertus ; je devrai peut-être à un vivant tableau de Greuze, à un paralytique environné d’enfans, à la veuve d’un soldat, qui me tendront des mains suppliantes. Ce sont de terribles créanciers ! Ne faut-il pas pleurer avec eux ; et, quand nous les avons payés, nous devons les secourir ?</p>
+      <p>La veille de l’échéance, je m’étais couché dans ce calme faux des gens qui dorment avant leur exécution, avant un duel : il y a toujours une espérance qui vous berce… Mais en me réveillant, quand je fus de sang-froid, que je sentis mon ame emprisonnée dans le portefeuille d’un banquier, couchée sur des états, écrite à l’encre rouge, mes dettes jaillirent partout comme des sauterelles. Elles étaient dans ma pendule, sur mes fauteuils, incrustées dans les meubles dont je me servais avec le plus de plaisir. Ces esclaves matériels seraient donc la proie des harpies du Châtelet. Ils me quitteraient enlevés par des recors, brutalement jetés sur la place !… Ah ! ma dépouille, c’était encore moi-m’me… La sonnette de mon appartement retentissait dans mon cœur ; elle me frappait où l’on doit frapper les rois, à la tête. C'était un martyre – sans le ciel pour récompense.</p>
+      <p>Ah ! pour un homme libre, généreux, une dette… c’est l’enfer… mais l’enfer avec des huissiers et des gens d’affaires. Une dette impayée, c’est la bassesse, un commencement de friponnerie, et pis que tout cela, un mensonge !… Elle ébauche des crimes, elle engendre l’échafaud !</p>
+</div>
+    </body>
+  </text>
+</TEI>
