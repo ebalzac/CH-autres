@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Peau de chagrin</title>
+        <title>Sarrasine</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
@@ -11,11 +11,11 @@
       <editionStmt>
         <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
         <respStmt>
-          <name>Francesca Guglielmi </name>
+          <name>Matteo Zibardi </name>
           <resp>Établissement du texte et stylage </resp>
         </respStmt>
         <respStmt>
-          <name>Clara Grometto</name>
+          <name>Matteo Zibardi</name>
           <resp>Édition XML/TEI </resp>
         </respStmt>
         <respStmt>
@@ -49,7 +49,7 @@
         <idno>XXXX</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>La Peau de chagrin, roman philosophique</title>, Chares Gosselin, Libraire, rue St-Germain des Prés, n°9 ; Urbain Canel, libraire, rue du Bac n°104<date>1831</date> </bibl>
+        <bibl><title>Sarrasine</title>, Chares Gosselin, Libraire, rue St-Germain des Prés, n°9 <date>1831</date> </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -69,17 +69,12 @@
       <titlePage>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
-          <pb n="ill." xml:id="p2" facs="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/p2.jpg"/>
-          <titlePart type="main">La Peau de Chagrin</titlePart>
-          <titlePart type="sub">roman philosophique</titlePart>
+          <titlePart type="main">Romans</titlePart>
+          <titlePart type="sub">et contes</titlePart>
+          <titlePart type="main">philosophiques</titlePart>
+          <titlePart type="main">Sarrasine</titlePart>
         </docTitle>
       </titlePage>
-      <div>
-        <figure>
-          <graphic url="https://www.ebalzac.com/romans/64-peau-chagrin/gosselin-canel/illustrations/shandy.PNG">
-          </graphic>
-        </figure>
-      </div>
     </front>
     <body>
 <div type="titolo1">
