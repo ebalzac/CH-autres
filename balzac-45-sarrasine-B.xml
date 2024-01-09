@@ -2,37 +2,82 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[Titre non renseigné]</title>
-        <name key="[Nom, Prénom (AAAA-AAAA)]" type="author">[Auteur non renseigné]</name>
+        <title>Sarrasine</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
       </titleStmt>
       <editionStmt>
-        <edition>Rougemont 2.0</edition>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Matteo Zibardi </name>
+          <resp>Établissement du texte et stylage </resp>
+        </respStmt>
+        <respStmt>
+          <name>Matteo Zibardi</name>
+          <resp>Édition XML/TEI </resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux, Karolina Suchecka</name>
+          <resp>Informatique éditoriale </resp>
+        </respStmt>
+        <respStmt>
+          <name>Gallica - Bibliothèque nationale de France</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
+        <respStmt>
+          <name>Université de Genève</name>
+          <resp>OCR</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université de Genève</publisher>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2023"/>
         <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"/>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
         </availability>
+        <idno>XXXX</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl><title>Sarrasine</title>, Madame Charles Béchet éditeur, quai des Augustins, n° 59;<date>1835</date> </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition Béchet : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="[AAAA-MM-JJ]"/>
+        <date when="1835">1835</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="sub">Études de Mœurs au XIX<hi rend="sup">e</hi> siècle</titlePart>
+          <titlePart type="sub">Scènes de la vie parisienne</titlePart>
+          <titlePart type="main">Sarrasine</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="titolo1" subtype="level1">
-        <head>
-          Les deux portraits
-        </head>
+        <head>Les deux portraits</head>
         <p>
           <pb n="137" xml:id="137" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f143.highres"/>
            J’étais plongé dans une de ces rêveries profondes qui souvent saisissent, même un homme frivole, au sein des fêtes les plus tumultueuses. Minuit venait de sonner à l’horloge de l’Élysée-Bourbon. Assis dans l’embrasure d’une fenêtre, et caché sous les plis onduleux d’un rideau de moire, je pouvais contempler à mon aise le jardin de l’hôtel où je passais la soirée.
@@ -246,7 +291,7 @@ Jamais mine plus féconde ne s’était offerte aux chercheurs de mystères. Per
         <p>– Qu’est-ce que cela veut dire ? me demanda ma jeune partenaire. Est-ce son mari ? Je crois rêver. Où suis-je ?</p>
         <p>– Vous ! répondis-je, vous, Madame, qui êtes exaltée et qui, comprenant si bien les émotions les plus imperceptibles, savez cultiver dans un cœur d’homme le plus délicat des sentimens, sans le flétrir, sans le briser dès le premier jour, vous qui avez pitié des peines du cœur, et qui à l’esprit d’une Parisienne joignez une ame passionnée digne de l’Italie ou de l’Espagne…</p>
         <p>
-          
+          <pb n="1" xml:id="1" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f7.highres"/>
           Elle vit bien que mon langage était empreint d’une ironie amère. Alors, sans avoir l’air d’y prendre garde, elle m’interrompit
           <pb n="164" xml:id="164" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f170.highres"/>
            pour dire : – Oh ! vous me faites à votre goût. Singulière tyrannie ! Vous voulez que je ne sois pas 
@@ -284,7 +329,7 @@ Jamais mine plus féconde ne s’était offerte aux chercheurs de mystères. Per
         
          était le seul fils d’un procureur de la Franche-Comté. Son père avait assez loyalement gagné six à huit mille livres de rente, fortune de praticien qui, jadis, en province, passait pour colossale. Le vieux maître Sarrasine, n’ayant qu’un enfant, ne voulut rien négliger pour son éducation. Il espérait en faire un magistrat, et vivre assez long-temps pour voir, dans ses vieux jours, le petit-fils de Matthieu Sarrasine, 
         <pb n="170" xml:id="170" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f176.highres"/>laboureur au pays de Saint-Dié, s’asseoir sur les lis et dormir à l’audience pour la plus grande gloire du parlement ; mais le Ciel ne réservait pas cette joie au procureur.</p>
-        <p>Le jeune Sarrasine, confié de bonne heure aux jésuites, donna les preuves d’une turbulence peu commune. Il eut l’enfance d’un homme de talent. Il ne voulait étudier qu’à sa guise, se révoltait souvent, et restait parfois des heures entières plongé dans de confuses méditations, occupé, tantôt à contempler ses camarades quand ils jouaient, tantôt à se représenter les héros d’Homère. Puis, s’il lui arrivait de se divertir, il mettait une ardeur extraordinaire dans ses jeux. Lorsqu’une lutte s’élevait entre un camarade et lui, rarement le combat finissait sans qu’il y eût du sang répandu. S’il était le plus faible, il mordait. Tour à tour agissant ou passif, sans aptitude ou merveilleusement intelligent, son caractère bizarre le fit redouter de ses maîtres autant que de ses camarades. Au lieu d’apprendre les élémens de la langue grecque, il dessinait le révérend père qui leur expliquait un passage de Thucydide, croquait le maître de mathématiques, le préfet, les valets, le correcteur, 
+        <p><pb n="1" xml:id="1" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f7.highres"/>Le jeune Sarrasine, confié de bonne heure aux jésuites, donna les preuves d’une turbulence peu commune. Il eut l’enfance d’un homme de talent. Il ne voulait étudier qu’à sa guise, se révoltait souvent, et restait parfois des heures entières plongé dans de confuses méditations, occupé, tantôt à contempler ses camarades quand ils jouaient, tantôt à se représenter les héros d’Homère. Puis, s’il lui arrivait de se divertir, il mettait une ardeur extraordinaire dans ses jeux. Lorsqu’une lutte s’élevait entre un camarade et lui, rarement le combat finissait sans qu’il y eût du sang répandu. S’il était le plus faible, il mordait. Tour à tour agissant ou passif, sans aptitude ou merveilleusement intelligent, son caractère bizarre le fit redouter de ses maîtres autant que de ses camarades. Au lieu d’apprendre les élémens de la langue grecque, il dessinait le révérend père qui leur expliquait un passage de Thucydide, croquait le maître de mathématiques, le préfet, les valets, le correcteur, 
         <pb n="171" xml:id="171" facs="https://gallica.bnf.fr/ark:/12148/btv1b8617156q/f145.item/f177.highres"/> et barbouillait tous les murs d’esquisses informes.
         Au lieu de chanter les louanges du Seigneur à l’église, il s’amusait, pendant les offices, à déchiqueter un banc ; ou quand il s’était précautionné d’un morceau de bois, il sculptait quelque figure de sainte. Si le bois, la pierre ou le crayon lui manquaient, il rendait ses idées avec de la mie de pain. Soit qu’il copiât les personnages des tableaux qui garnissaient le chœur, soit qu’il improvisât, il laissait toujours à sa place de grossières ébauches, dont le caractère licencieux désespérait les plus jeunes pères. Les médisans prétendaient que les vieux jésuites en souriaient.
         Enfin, s’il faut en croire la chronique du collége, il fut chassé, pour avoir, en attendant son tour au confessionnal, un vendredi-saint, sculpté une grosse bûche en forme de Christ. L’impiété gravée sur cette statue était trop forte pour ne pas attirer un châtiment à l’artiste. N’avait-il pas eu l’audace de placer sur le haut du tabernacle cette figure passablement cynique !
